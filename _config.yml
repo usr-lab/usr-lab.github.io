@@ -1,0 +1,62 @@
+# Site wide configuration
+
+title:            Yuan Gao's Secret Robot Computing Lab
+locale:           en_US
+url:              https://gaoyuankidult.github.io
+urlcolor: blue
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+  #enable_coderay: false
+
+
+# Site owner
+owner:
+  name: Yuan Gao
+  avatar: bio-photo.jpg
+  bio: "Just another prissy brain investigator and robot engineer."
+  email: gaoyuankidult@gmail.com
+  disqus-shortname:
+  twitter: #alexyuangao
+  facebook: yaseen.gao.9406
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: gaoyuankidult
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #gaoyuankidult
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: 3886468753
+  flickr: #username
+  codepen: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

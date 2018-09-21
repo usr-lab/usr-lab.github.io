@@ -1,0 +1,22 @@
+# Site navigation links
+- title: News
+  url: /news/
+  
+- title: About
+  url: /about/
+
+- title: Blog
+  url: /posts/
+
+- title: Art
+  url: /art/
+
+- title: Publications
+
+  url: /publications/
+  
+- title: Contact
+  url: /contact/
+
+
+
