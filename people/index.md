@@ -1,0 +1,3 @@
+
+<img align="right" src="http://hri.research.it.uu.se/images/people-alex.jpg">
+Alex Yuan Gao is a Ph.D. candidate, who wants to live in a world filled with innovative businesses, robots, books that come bundled with extra hot chocolate and a steampunk-styled force field around his keyboard that repels cats. He is interested in machine learning, as applied to (social) robotics. In particular, he is interested in deep/reinforcement/neuro-based learning approaches to robotic perception, control, and physical modeling of the robot's environment. Currently, he is working on projects that can fill the gap between deep reinforcement learning and social robotics.
