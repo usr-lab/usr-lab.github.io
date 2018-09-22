@@ -5,14 +5,13 @@
 - title: About
   url: /about/
 
+ - title: People
+  url: /people/
+  
 - title: Blog
   url: /posts/
 
-- title: Art
-  url: /art/
-
 - title: Publications
-
   url: /publications/
   
 - title: Contact
