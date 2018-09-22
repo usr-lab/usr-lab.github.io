@@ -1,1 +1,1 @@
-<object type="text/html" data="https://gaoyuankidult.github.io/news/index.md"></object>
+<object type="text/html" data="https://gaoyuankidult.github.io/news/index.html"></object>
