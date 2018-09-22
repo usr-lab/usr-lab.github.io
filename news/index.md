@@ -1,4 +1,1 @@
-## Yuan Gao:
-
-
-<iframe src="https://gaoyuankidult.github.io/news/index.md"></iframe>
+<object type="text/html" data="https://gaoyuankidult.github.io/news/index.md"></object>
