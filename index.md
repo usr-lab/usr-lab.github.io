@@ -3,7 +3,7 @@ layout: home
 excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: group.png
+  feature: home-group.png
   credit: Social Robotics Lab
   creditlink: usr-lab.github.io
 ---
