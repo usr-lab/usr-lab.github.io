@@ -1,3 +1,3 @@
-Yuan Gao:
+##Yuan Gao:
 
-<div w3-include-html="https://gaoyuankidult.github.io/news/"></div>
+<link rel="import" href="https://gaoyuankidult.github.io/news/index.md">
