@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Yuan Gao's Secret Robot Computing Lab
+title:            Uppsala Social Robotics Lab
 locale:           en_US
-url:              https://gaoyuankidult.github.io
+url:              https://usr-lab.github.io/
 urlcolor: blue
 
 # Jekyll configuration
@@ -27,13 +27,13 @@ kramdown:
 
 # Site owner
 owner:
-  name: Yuan Gao
+  name: Ginevra Castellano
   avatar: bio-photo.jpg
-  bio: "Just another prissy brain investigator and robot engineer."
-  email: gaoyuankidult@gmail.com
+  bio: "Uppsala Social Robotics Website"
+  email: ginevra.castellano@it.uu.se
   disqus-shortname:
   twitter: #alexyuangao
-  facebook: yaseen.gao.9406
+  facebook: #yaseen.gao.9406
   google:
     plus: #username
     analytics:
@@ -41,7 +41,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: gaoyuankidult
+  github: usr-lab
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #gaoyuankidult
   xing: #username
@@ -54,7 +54,7 @@ owner:
   dribbble: #username
   youtube: #username
   soundcloud: #username
-  weibo: 3886468753
+  weibo: #3886468753
   flickr: #username
   codepen: #username
 
