@@ -9,6 +9,7 @@ title: People
 ### Ginevra Castellano
 
 <span style="color:grey"> Associate Professor </span>
+
 <span style="color:grey"> Lab Director </span>
 
 <img align="left" width="170px" height="170px" src="../images/people-ginevra.jpg">
