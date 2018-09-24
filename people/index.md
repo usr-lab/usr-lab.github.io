@@ -1,3 +1,9 @@
+---
+layout: post
+author_profile: false
+title: People
+---
+
 ## People 
 
 ### Ginevra Castellano
