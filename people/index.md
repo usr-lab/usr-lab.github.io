@@ -9,7 +9,6 @@ title: People
 ### Ginevra Castellano
 
 <span style="color:grey"> Associate Professor </span>
-
 <span style="color:grey"> Lab Director </span>
 
 <img align="left" width="170px" height="170px" src="../images/people-ginevra.jpg">
@@ -31,10 +30,12 @@ Maike Paetzel is a PhD student in the Social Robotics Lab and mainly focused on 
 <img align="left" width="150px" height="150px" src="../images/people-alex.jpg">
 Alex Yuan Gao is a Ph.D. candidate, who wants to live in a world filled with innovative businesses, robots, books that come bundled with extra hot chocolate and a steampunk-styled force field around his keyboard that repels cats. He is interested in machine learning, as applied to (social) robotics. In particular, he is interested in deep/reinforcement/neuro-based learning approaches to robotic perception, control, and physical modeling of the robot's environment. Currently, he is working on projects that can fill the gap between deep reinforcement learning and social robotics.
 
-[Maike Paetzel's Personal Website](https://yuangao.ai/)
+[Yuan Gao's Personal Website](https://yuangao.ai/)
 
 ### Sebastian Wallkötter
 <span style="color:grey"> Ph.D. Candidate </span>
 
 <img align="left" width="150px" height="150px" src="../images/people-sebastian.jpg">
 Sebastian Wallkötter is a PhD student at the Department of Information Technology, Uppsala University, and works as a researcher in the Social Robotics Lab. His work is part of the Horizon 2020 funded ANIMATAS project. He is interested in social learning for robots, ethical behavior of robotic systems as well as advancing the field of machine learning in the areas of reinforcement learning and deep learning.
+
+[Sebastian Wallkötter's Personal Website](https://yuangao.ai/)
