@@ -1,6 +1,5 @@
 ---
 layout: post
-author_profile: false
 title: People
 ---
 
