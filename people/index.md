@@ -22,7 +22,9 @@ Ginevra Castellano is an Associate Professor at the Department of Information Te
 <img align="left" width="150px" height="150px" src="../images/people-maike.jpg">
 Maike Paetzel is a PhD student in the Social Robotics Lab and mainly focused on studying the uncanny valley effect. She is specifically interested in how interactions with an agent can change an initial (uncanny) perception. Maike’s background is both in humanoid robotics and conversational agents. Apart from Human-Robot Interaction her heart belongs to the RoboCup community, where she is still actively engaged in the team Hamburg Bit-Bots and the organization of the Humanoid League.
 
-
+<br />
+<br />
+<br />
 >[Maike Paetzel's Personal Website](https://maike-paetzel.de/)
 
 ### Yuan Gao
