@@ -39,4 +39,4 @@ Alex Yuan Gao is a Ph.D. candidate, who wants to live in a world filled with inn
 <img align="left" width="150px" height="150px" src="../images/people-sebastian.jpg">
 Sebastian Wallkötter is a PhD student at the Department of Information Technology, Uppsala University, and works as a researcher in the Social Robotics Lab. His work is part of the Horizon 2020 funded ANIMATAS project. He is interested in social learning for robots, ethical behavior of robotic systems as well as advancing the field of machine learning in the areas of reinforcement learning and deep learning.
 
->[Sebastian Wallkötter's Personal Website](https://yuangao.ai/)
+>[Sebastian Wallkötter's Personal Website](https://sebastian.wallkoetter.net)
