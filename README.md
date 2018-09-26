@@ -1,3 +1,3 @@
-# http://usr-lab.github.io
+# Introduction
 
 This is Uppsala Social Robotics Group's Website.
