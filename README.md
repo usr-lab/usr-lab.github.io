@@ -1,3 +1,3 @@
-# yuangao.ai
+# http://usr-lab.github.io
 
-This is (Alex) Yuan Gao's personal website.
+This is Uppsala Social Robotics Group's Website.
