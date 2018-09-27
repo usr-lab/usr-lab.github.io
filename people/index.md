@@ -44,3 +44,12 @@ Sebastian Wallkötter is a PhD student at the Department of Information Technolo
 
 <br />
 >[Sebastian Wallkötter's Personal Website](https://sebastian.wallkoetter.net)
+
+
+### Mohammad Obaid
+<span style="color:grey"> Visiting Researcher </span>
+
+<img align="left" width="150px" height="150px" src="../images/people-mohammad.jpg">
+Dr. Mohammad Obaid received his BSc., MSc. (First Class Honors) and Ph.D. degrees in Computer Science from the University of Canterbury, Christchurch, New Zealand, in 2004, 2007 and 2011, respectively. He worked at several international research centers including the Human Centered Multimedia Lab (HCM Lab), University of Augsburg (Germany), the Human Interface Technology Lab New Zealand (HITLab NZ), University of Canterbury (New Zealand), and the t2i Lab, Chalmers University of Technology (Sweden). In 2016, he joined the the Social Robotics Lab, Department of Information Technology, Uppsala University (Uppsala, Sweden) as a researcher.
+
+>[Mohammad Obaid's Personal Website](https://http://t2i.se/mohammad-obaid/)
