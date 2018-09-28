@@ -1,4 +1,5 @@
 ---
 layout: home
-author_profile: false
+excerpt: ""
+tags: [Jekyll, theme, responsive, blog, template]
 ---
