@@ -33,7 +33,7 @@ function toggleAbstract(btn) {
 
 <div class='container'>
     <div>
-	<img src='image/research-modeling.jpg' class='iconDetails'>
+	<img src='../images/research-modeling.jpg' class='iconDetails'>
     </div>  
     <div style='margin-left:25%;'>
     <h4>User modelling for personalised and co-adaptive human-robot interaction</h4>
@@ -45,7 +45,7 @@ function toggleAbstract(btn) {
 
 <div class='container'>
     <div>
-	<img src='papers/research-synergies.bmp' class='iconDetails'>
+	<img src='../images/research-synergies.bmp' class='iconDetails'>
     </div>  
     <div style='margin-left:25%;'>
     <h4>Synergies between robot appearance, behavior and quality of the interaction</h4>
@@ -57,10 +57,12 @@ function toggleAbstract(btn) {
 
 <div class='container'>
     <div>
-	<img src='papers/research-social.bmp' class='iconDetails'>
+	<img src='../images/research-social.bmp' class='iconDetails'>
     </div>  
     <div style='margin-left:25%;'>
-    <h4>In order to successfully cooperate with humans, robots need to learn new skills and behaviours from them, for example, through gesture and speech. This type of social learning, achieved in a social context, may be facilitated by humans acting as teachers, in an implicit or explicit manner. The challenge here is to develop new statistical learning methods for social learning that find an optimal level of human intervention in the robot learning process. By adopting a breadth-first, holistic approach that integrates interdisciplinary research on social robotics and machine learning grounded in principles from the social sciences, the objective of this research is to develop computational social abilities that allow robots to behave in a socially intelligent way.</div>
+	<h4>Social learning</h4>
+	<div style="font-size:.8em"> In order to successfully cooperate with humans, robots need to learn new skills and behaviours from them, for example, through gesture and speech. This type of social learning, achieved in a social context, may be facilitated by humans acting as teachers, in an implicit or explicit manner. The challenge here is to develop new statistical learning methods for social learning that find an optimal level of human intervention in the robot learning process. By adopting a breadth-first, holistic approach that integrates interdisciplinary research on social robotics and machine learning grounded in principles from the social sciences, the objective of this research is to develop computational social abilities that allow robots to behave in a socially intelligent way..</div>
+    <h4></div>
 	<h6></h6>
     <div style="float:right;font-size:.6em">RO-MAN, 2018</div>
     </div>
@@ -68,10 +70,11 @@ function toggleAbstract(btn) {
 
 <div class='container'>
     <div>
-	<img src='papers/research-education.jpg' class='iconDetails'>
+	<img src='../images/research-education.jpg' class='iconDetails'>
     </div>  
     <div style='margin-left:25%;'>
-    <h4>Robotics is now one of a few technologies that have the potential to have an impact over the next few decades similar to the one that the Internet has today. One of the main reasons is that new robotics applications are extending the role of robots beyond jobs that humans do not want or cannot do to socially assistive scenarios that aim to help people in more personal ways and provide not only physical, but also social support. In this context, we investigate how robots can be used as educational agents to support students’ learning. In addition to the technological advancements required to achieve this objective, we are interested in how robots can be used as a support for teachers in a classroom environment and how they can be integrated in the design of new engaging scenarios for learning.</div>
+	<h4>Educational robots</h4>
+	<div style="font-size:.8em"> Robotics is now one of a few technologies that have the potential to have an impact over the next few decades similar to the one that the Internet has today. One of the main reasons is that new robotics applications are extending the role of robots beyond jobs that humans do not want or cannot do to socially assistive scenarios that aim to help people in more personal ways and provide not only physical, but also social support. In this context, we investigate how robots can be used as educational agents to support students’ learning. In addition to the technological advancements required to achieve this objective, we are interested in how robots can be used as a support for teachers in a classroom environment and how they can be integrated in the design of new engaging scenarios for learning.</div>
 	<h6></h6>
     <div style="float:right;font-size:.6em">RO-MAN, 2018</div>
     </div>
