@@ -4,7 +4,7 @@ title: People
 ---
 <style>
 .iconDetails {
-	float:left; 
+	display:inline-block; 
 	width:20%;
     	height:20%;
 	max-height:150px;
@@ -110,7 +110,7 @@ function toggleAbstract(btn) {
 </div>
 <br/>
 <button class="button black" onclick="location.href='http://user.it.uu.se/~ginca820/'" type="button">
-	<h4>Ginevra Castellano's Personal Website</h4></button>
+	Ginevra Castellano's Personal Website</button>
 
 <h3> Maike Paetzel </h3>
 <h4 style="color:grey">  Ph.D. Candidate </h4>
@@ -124,7 +124,7 @@ function toggleAbstract(btn) {
 </div>
 <br/>
 <button class="button black" onclick="location.href='https://maike-paetzel.de/'" type="button">
-	<h4>Maike Paetzel's Personal Website</h4></button>
+	Maike Paetzel's Personal Website</button>
 
 <h3> Alex Yuan Gao </h3>
 <h4 style="color:grey">  Ph.D. Candidate </h4>
@@ -138,7 +138,7 @@ function toggleAbstract(btn) {
 </div>
 <br/>
 <button class="button black" onclick="location.href='https://yuangao.ai/'" type="button">
-	<h4>Yuan Gao's Personal Website</h4></button>
+	Yuan Gao's Personal Website</button>
 
 <h3>Sebastian Wallkötter</h3>
 <h4 style="color:grey">  Ph.D. Candidate </h4>
@@ -153,7 +153,7 @@ function toggleAbstract(btn) {
 
 <br/>
 <button class="button black" onclick="location.href='https://sebastian.wallkoetter.net'" type="button">
-	<h4>Sebastian Wallkötter's Personal Website</h4></button>
+	Sebastian Wallkötter's Personal Website</button>
 
 <h3>Mohammad Obaid</h3>
 <h4 style="color:grey"> Visiting Researcher </h4>
@@ -168,4 +168,4 @@ function toggleAbstract(btn) {
 
 <br/>
 <button class="button black" onclick="location.href='https://http://t2i.se/mohammad-obaid/'" type="button">
-	<h4>Mohammad Obaid's Personal Website</h4></button>
+	Mohammad Obaid's Personal Website</button>
