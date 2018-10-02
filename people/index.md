@@ -31,7 +31,7 @@ h4 {
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
     cursor: pointer;
-    clear: both;
+    clear: left;
 }
 
 .green {
