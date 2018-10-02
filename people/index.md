@@ -56,7 +56,7 @@ function toggleAbstract(btn) {
 </div>
 >[Maike Paetzel's Personal Website](https://maike-paetzel.de/)
 
-### Yuan Gao
+<h2> Alex Yuan Gao </h2>
 <h4 style="color:grey">  Ph.D. Candidate </h4>
 <div class='container'>
     <div>
@@ -69,11 +69,11 @@ function toggleAbstract(btn) {
 
 >[Yuan Gao's Personal Website](https://yuangao.ai/)
 
-### Sebastian Wallkötter
+<h2>Sebastian Wallkötter</h2>
 <h4 style="color:grey">  Ph.D. Candidate </h4>
 <div class='container'>
     <div>
-		<img style="border-radius: 10px;" src='../images/people-alex.jpg' class='iconDetails'>
+		<img style="border-radius: 10px;" src='../images/people-sebastian.jpg' class='iconDetails'>
     </div>  
     <div style='margin-left:25%;'>
     <div style="font-size:.8em"> Sebastian Wallkötter is a PhD student at the Department of Information Technology, Uppsala University, and works as a researcher in the Social Robotics Lab. His work is part of the Horizon 2020 funded ANIMATAS project. He is interested in social learning for robots, ethical behavior of robotic systems as well as advancing the field of machine learning in the areas of reinforcement learning and deep learning.</div>
