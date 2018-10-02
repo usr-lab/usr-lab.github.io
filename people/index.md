@@ -18,6 +18,72 @@ title: People
 h4 {
     margin:0px;
 }
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 8px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.green {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+}
+
+.green:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.blue {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+}
+
+.blue:hover {
+    background-color: #008CBA;
+    color: white;
+}
+
+.red {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #f44336;
+}
+
+.red:hover {
+    background-color: #f44336;
+    color: white;
+}
+
+.gray {
+    background-color: white;
+    color: black;
+    border: 2px solid #e7e7e7;
+}
+
+.gray:hover {background-color: #e7e7e7;}
+
+.black {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+}
+
+.black:hover {
+    background-color: #555555;
+    color: white;
+}
 </style>
 
 <script>
@@ -31,7 +97,7 @@ function toggleAbstract(btn) {
 }
 </script>
 
-### Ginevra Castellano
+<h3> Ginevra Castellano </h3>
 <h4 style="color:grey"> Associate Professor </h4>
 <h4 style="color:grey"> Lab Director </h4>
 <div class='container'>
@@ -42,9 +108,10 @@ function toggleAbstract(btn) {
     <div style="font-size:.8em"> Ginevra Castellano is an Associate Professor at the Department of Information Technology, Uppsala University, where she leads the Social Robotics Lab. Her research interests are in the areas of social robotics and affective computing, and include social learning, personalized adaptive robots, multimodal behaviours and uncanny valley effect in robots and virtual agents. Over the last ten years she has been working on the development of computational abilities that allow robots to behave in a socially intelligent way in scenarios where robots provide social support to humans, for example as tutors in the classroom or as companions for children.</div>
     </div>
 </div>
->[Ginevra Castellano's Personal Website](http://user.it.uu.se/~ginca820/)
+<button onclick="location.href='http://user.it.uu.se/~ginca820/'" type="button">
+     Ginevra Castellano's Personal Website</button>
 
-### Maike Paetzel
+<h3> Maike Paetzel </h3>
 <h4 style="color:grey">  Ph.D. Candidate </h4>
 <div class='container'>
     <div>
@@ -56,7 +123,7 @@ function toggleAbstract(btn) {
 </div>
 >[Maike Paetzel's Personal Website](https://maike-paetzel.de/)
 
-<h2> Alex Yuan Gao </h2>
+<h3> Alex Yuan Gao </h3>
 <h4 style="color:grey">  Ph.D. Candidate </h4>
 <div class='container'>
     <div>
@@ -69,7 +136,7 @@ function toggleAbstract(btn) {
 
 >[Yuan Gao's Personal Website](https://yuangao.ai/)
 
-<h2>Sebastian Wallkötter</h2>
+<h3>Sebastian Wallkötter</h3>
 <h4 style="color:grey">  Ph.D. Candidate </h4>
 <div class='container'>
     <div>
@@ -82,7 +149,7 @@ function toggleAbstract(btn) {
 
 >[Sebastian Wallkötter's Personal Website](https://sebastian.wallkoetter.net)
 
-### Mohammad Obaid
+<h3>Mohammad Obaid</h3>
 <h4 style="color:grey"> Visiting Researcher </h4>
 <div class='container'>
     <div>
