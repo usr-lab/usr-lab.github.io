@@ -33,7 +33,7 @@ function toggleAbstract(btn) {
 
 <div class='container'>
     <div>
-	<img src='{{ site.url }}/images/research-modeling.jpg' class='iconDetails'>
+	<img src='{{ site.url }}images/research-modeling.jpg' class='iconDetails'>
     </div>  
     <div style='margin-left:25%;'>
     <h4>User modelling for personalised and co-adaptive human-robot interaction</h4>
@@ -44,7 +44,7 @@ function toggleAbstract(btn) {
 
 <div class='container'>
     <div>
-	<img src='{{ site.url }}/images/research-synergies.bmp' class='iconDetails'>
+	<img src='{{ site.url }}images/research-synergies.bmp' class='iconDetails'>
     </div>  
     <div style='margin-left:25%;'>
     <h4>Synergies between robot appearance, behavior and quality of the interaction</h4>
@@ -55,7 +55,7 @@ function toggleAbstract(btn) {
 
 <div class='container'>
     <div>
-	<img src='{{ site.url }}/images/research-social.bmp' class='iconDetails'>
+	<img src='{{ site.url }}images/research-social.bmp' class='iconDetails'>
     </div>  
     <div style='margin-left:25%;'>
 	<h4>Social learning</h4>
@@ -65,7 +65,7 @@ function toggleAbstract(btn) {
 
 <div class='container'>
     <div>
-	<img src='{{ site.url }}/images/research-education.jpg' class='iconDetails'>
+	<img src='{{ site.url }}images/research-education.jpg' class='iconDetails'>
     </div>  
     <div style='margin-left:25%;'>
 	<h4>Educational robots</h4>
