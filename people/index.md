@@ -26,7 +26,7 @@ h4 {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 12px;
     margin: 4px 2px;
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
@@ -122,7 +122,9 @@ function toggleAbstract(btn) {
     <div style="font-size:.8em"> Maike Paetzel is a PhD student in the Social Robotics Lab and mainly focused on studying the uncanny valley effect. She is specifically interested in how interactions with an agent can change an initial (uncanny) perception. Maike’s background is both in humanoid robotics and conversational agents. Apart from Human-Robot Interaction her heart belongs to the RoboCup community, where she is still actively engaged in the team Hamburg Bit-Bots and the organization of the Humanoid League.</div>
     </div>
 </div>
->[Maike Paetzel's Personal Website](https://maike-paetzel.de/)
+<br/>
+<button class="button black" onclick="location.href='https://maike-paetzel.de/'" type="button">
+	<h4>Maike Paetzel's Personal Website</h4></button>
 
 <h3> Alex Yuan Gao </h3>
 <h4 style="color:grey">  Ph.D. Candidate </h4>
@@ -134,8 +136,9 @@ function toggleAbstract(btn) {
     <div style="font-size:.8em"> Alex Yuan Gao is a Ph.D. candidate, who wants to live in a world filled with innovative businesses, robots, books that come bundled with extra hot chocolate and a steampunk-styled force field around his keyboard that repels cats. He is interested in machine learning, as applied to (social) robotics. In particular, he is interested in deep/reinforcement/neuro-based learning approaches to robotic perception, control, and physical modeling of the robot's environment. Currently, he is working on projects that can fill the gap between deep reinforcement learning and social robotics.</div>
     </div>
 </div>
-
->[Yuan Gao's Personal Website](https://yuangao.ai/)
+<br/>
+<button class="button black" onclick="location.href='https://yuangao.ai/'" type="button">
+	<h4>Yuan Gao's Personal Website</h4></button>
 
 <h3>Sebastian Wallkötter</h3>
 <h4 style="color:grey">  Ph.D. Candidate </h4>
@@ -148,7 +151,9 @@ function toggleAbstract(btn) {
     </div>
 </div>
 
->[Sebastian Wallkötter's Personal Website](https://sebastian.wallkoetter.net)
+<br/>
+<button class="button black" onclick="location.href='https://sebastian.wallkoetter.net'" type="button">
+	<h4>Sebastian Wallkötter's Personal Website</h4></button>
 
 <h3>Mohammad Obaid</h3>
 <h4 style="color:grey"> Visiting Researcher </h4>
@@ -160,4 +165,7 @@ function toggleAbstract(btn) {
     <div style="font-size:.8em"> Dr. Mohammad Obaid received his BSc., MSc. (First Class Honors) and Ph.D. degrees in Computer Science from the University of Canterbury, Christchurch, New Zealand, in 2004, 2007 and 2011, respectively. He worked at several international research centers including the Human Centered Multimedia Lab (HCM Lab), University of Augsburg (Germany), the Human Interface Technology Lab New Zealand (HITLab NZ), University of Canterbury (New Zealand), and the t2i Lab, Chalmers University of Technology (Sweden). In 2016, he joined the the Social Robotics Lab, Department of Information Technology, Uppsala University (Uppsala, Sweden) as a researcher.</div>
     </div>
 </div>
->[Mohammad Obaid's Personal Website](https://http://t2i.se/mohammad-obaid/)
+
+<br/>
+<button class="button black" onclick="location.href='https://http://t2i.se/mohammad-obaid/'" type="button">
+	<h4>Mohammad Obaid's Personal Website</h4></button>
