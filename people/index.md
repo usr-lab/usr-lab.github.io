@@ -108,7 +108,8 @@ function toggleAbstract(btn) {
     <div style="font-size:.8em"> Ginevra Castellano is an Associate Professor at the Department of Information Technology, Uppsala University, where she leads the Social Robotics Lab. Her research interests are in the areas of social robotics and affective computing, and include social learning, personalized adaptive robots, multimodal behaviours and uncanny valley effect in robots and virtual agents. Over the last ten years she has been working on the development of computational abilities that allow robots to behave in a socially intelligent way in scenarios where robots provide social support to humans, for example as tutors in the classroom or as companions for children.</div>
     </div>
 </div>
-<button onclick="location.href='http://user.it.uu.se/~ginca820/'" type="button">
+
+<button class="button black" onclick="location.href='http://user.it.uu.se/~ginca820/'" type="button">
      Ginevra Castellano's Personal Website</button>
 
 <h3> Maike Paetzel </h3>
