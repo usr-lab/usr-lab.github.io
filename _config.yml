@@ -28,9 +28,9 @@ kramdown:
 # Site owner
 owner:
   name: Uppsala Social Robotics Lab
-  avatar: uppsala.jpg
+  avatar: 
   bio: "Uppsala Social Robotics Website"
-  email: ginevra.castellano@it.uu.se
+  email: #ginevra.castellano@it.uu.se
   disqus-shortname:
   twitter: #alexyuangao
   facebook: #yaseen.gao.9406
