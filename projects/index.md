@@ -1,6 +1,6 @@
 ---
 layout: project-index
-title: All Projects
+title: Projects
 excerpt: "A List of Projects"
 ---
 
