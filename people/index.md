@@ -4,7 +4,7 @@ title: People
 ---
 <style>
 .iconDetails {
-	display:inline-block; 
+	float: left;
 	width:20%;
     	height:20%;
 	max-height:150px;
@@ -31,6 +31,7 @@ h4 {
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
     cursor: pointer;
+    clear: both;
 }
 
 .green {
