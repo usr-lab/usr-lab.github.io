@@ -6,8 +6,9 @@ title: Research
 	float:left; 
 	width:20%;
     	height:20%;
-	max-height:150px;
-	max-width:150px; 
+	max-height:170px;
+	max-width:170px; 
+	border-radius: 10px;
 } 
 
 .container {
