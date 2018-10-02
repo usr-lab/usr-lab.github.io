@@ -14,7 +14,6 @@ title: People
 .container {
     width:100%;
     height:24%;
-    padding:1%;
 }
 h4 {
     margin:0px;
@@ -38,7 +37,7 @@ function toggleAbstract(btn) {
 <h4 style="color:grey"> Lab Director </h4>
 <div class='container'>
     <div>
-		<img src='../images/people-ginevra.jpg' class='iconDetails'>
+		<img style="border-radius: 10px;" src='../images/people-ginevra.jpg' class='iconDetails'>
     </div>  
     <div style='margin-left:25%;'>
     <div style="font-size:.8em"> Ginevra Castellano is an Associate Professor at the Department of Information Technology, Uppsala University, where she leads the Social Robotics Lab. Her research interests are in the areas of social robotics and affective computing, and include social learning, personalized adaptive robots, multimodal behaviours and uncanny valley effect in robots and virtual agents. Over the last ten years she has been working on the development of computational abilities that allow robots to behave in a socially intelligent way in scenarios where robots provide social support to humans, for example as tutors in the classroom or as companions for children.</div>
