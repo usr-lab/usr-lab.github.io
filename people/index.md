@@ -34,19 +34,13 @@ function toggleAbstract(btn) {
 
 ### Ginevra Castellano
 
-<span style="color:grey"> Associate Professor </span>
-
-<span style="color:grey"> Lab Director </span>
-
-<img align="left" width="170px" height="170px" src="../images/people-ginevra.jpg">
-Ginevra Castellano is an Associate Professor at the Department of Information Technology, Uppsala University, where she leads the Social Robotics Lab. Her research interests are in the areas of social robotics and affective computing, and include social learning, personalized adaptive robots, multimodal behaviours and uncanny valley effect in robots and virtual agents. Over the last ten years she has been working on the development of computational abilities that allow robots to behave in a socially intelligent way in scenarios where robots provide social support to humans, for example as tutors in the classroom or as companions for children.
-
+<h4 style="color:grey"> Associate Professor </h4>
+<h4 style="color:grey"> Lab Director </h4>
 <div class='container'>
     <div>
 		<img src='../images/people-ginevra.jpg' class='iconDetails'>
     </div>  
     <div style='margin-left:25%;'>
-    <h4>Investigating Deep Learning Approaches for Human-Robot Proxemics </h4>
     <div style="font-size:.8em"> Ginevra Castellano is an Associate Professor at the Department of Information Technology, Uppsala University, where she leads the Social Robotics Lab. Her research interests are in the areas of social robotics and affective computing, and include social learning, personalized adaptive robots, multimodal behaviours and uncanny valley effect in robots and virtual agents. Over the last ten years she has been working on the development of computational abilities that allow robots to behave in a socially intelligent way in scenarios where robots provide social support to humans, for example as tutors in the classroom or as companions for children.</div>
 	<h6></h6>
     </div>
