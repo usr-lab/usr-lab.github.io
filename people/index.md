@@ -167,5 +167,5 @@ function toggleAbstract(btn) {
     </div>
 </div>
 <p style="clear:both;"></p>
-<button class="button black" onclick="window.open('https://http://t2i.se/mohammad-obaid/')" type="button">
+<button class="button black" onclick="window.open('http://t2i.se/mohammad-obaid/')" type="button">
 	Mohammad Obaid's Personal Website</button>
