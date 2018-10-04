@@ -111,7 +111,7 @@ function toggleAbstract(btn) {
     </div>
 </div>
 <p style="clear:both;"></p>
-<button class="button black" onclick="window.open(''http://user.it.uu.se/~ginca820/')" type="button">
+<button class="button black" onclick="window.open('http://user.it.uu.se/~ginca820/')" type="button">
 	Ginevra Castellano's Personal Website</button>
 
 <h3> Maike Paetzel </h3>
