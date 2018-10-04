@@ -125,7 +125,7 @@ function toggleAbstract(btn) {
     </div>
 </div>
 <p style="clear:both;"></p>
-<button class="button black" onclick="location.href='https://maike-paetzel.de/'" type="button">
+<button class="button black" onclick="window.open('https://maike-paetzel.de/')" type="button">
 	Maike Paetzel's Personal Website</button>
 
 <h3> Alex Yuan Gao </h3>
@@ -139,7 +139,7 @@ function toggleAbstract(btn) {
     </div>
 </div>
 <p style="clear:both;"></p>
-<button class="button black" onclick="location.href='https://yuangao.ai/'" type="button">
+<button class="button black" onclick="window.open('yuangao.ai')" type="button">
 	Yuan Gao's Personal Website</button>
 
 <h3>Sebastian Wallkötter</h3>
@@ -153,7 +153,7 @@ function toggleAbstract(btn) {
     </div>
 </div>
 <p style="clear:both;"></p>
-<button class="button black" onclick="location.href='https://sebastian.wallkoetter.net'" type="button">
+<button class="button black" onclick="window.open('sebastian.wallkoetter.net')" type="button">
 	Sebastian Wallkötter's Personal Website</button>
 
 <h3>Mohammad Obaid</h3>
@@ -167,5 +167,5 @@ function toggleAbstract(btn) {
     </div>
 </div>
 <p style="clear:both;"></p>
-<button class="button black" onclick="location.href='https://http://t2i.se/mohammad-obaid/'" type="button">
+<button class="button black" onclick="window.open('https://http://t2i.se/mohammad-obaid/')" type="button">
 	Mohammad Obaid's Personal Website</button>
