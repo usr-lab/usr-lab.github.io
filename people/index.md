@@ -111,7 +111,7 @@ function toggleAbstract(btn) {
     </div>
 </div>
 <p style="clear:both;"></p>
-<button class="button black" onclick="location.href='http://user.it.uu.se/~ginca820/'" type="button">
+<button class="button black" onclick="window.open(''http://user.it.uu.se/~ginca820/')" type="button">
 	Ginevra Castellano's Personal Website</button>
 
 <h3> Maike Paetzel </h3>
@@ -139,7 +139,7 @@ function toggleAbstract(btn) {
     </div>
 </div>
 <p style="clear:both;"></p>
-<button class="button black" onclick="window.open('yuangao.ai')" type="button">
+<button class="button black" onclick="window.open('http://yuangao.ai')" type="button">
 	Yuan Gao's Personal Website</button>
 
 <h3>Sebastian Wallkötter</h3>
@@ -153,7 +153,7 @@ function toggleAbstract(btn) {
     </div>
 </div>
 <p style="clear:both;"></p>
-<button class="button black" onclick="window.open('sebastian.wallkoetter.net')" type="button">
+<button class="button black" onclick="window.open('http://sebastian.wallkoetter.net')" type="button">
 	Sebastian Wallkötter's Personal Website</button>
 
 <h3>Mohammad Obaid</h3>
