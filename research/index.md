@@ -45,7 +45,7 @@ function toggleAbstract(btn) {
 
 <div class='container'>
     <div>
-	<img src='{{ site.url }}images/research-synergies.bmp' class='iconDetails'>
+	<img src='{{ site.url }}images/research-synergies.jpg' class='iconDetails'>
     </div>  
     <div style='margin-left:25%;'>
     <h4>Synergies between robot appearance, behavior and quality of the interaction</h4>
@@ -56,7 +56,7 @@ function toggleAbstract(btn) {
 
 <div class='container'>
     <div>
-	<img src='{{ site.url }}images/research-social.bmp' class='iconDetails'>
+	<img src='{{ site.url }}images/research-social.jpg' class='iconDetails'>
     </div>  
     <div style='margin-left:25%;'>
 	<h4>Social learning</h4>
