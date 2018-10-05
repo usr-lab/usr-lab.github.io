@@ -5,7 +5,6 @@ title: Research
 .iconDetails {
 	width:60%;
     height:40%;
-	float:left;
 	display: block;
 	border-radius: 5px;
 } 
