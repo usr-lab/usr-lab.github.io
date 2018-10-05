@@ -3,13 +3,10 @@ title: Research
 ---
 <style>
 .iconDetails {
-	width:30%;
-    height:30%;
+	width:60%;
+    height:40%;
 	float:left;
-	max-height:250px;
-	max-width:250px; 
 	border-radius: 5px;
-	margin-right: 5%;
 } 
 
 .container {
@@ -45,12 +42,13 @@ function toggleAbstract(btn) {
 
 </div>
 
-<div class='container'>
+<div class='container'>'
+    <h4>Synergies between robot appearance, behavior and quality of the interaction</h4>
     <div>
 	<img src='{{ site.url }}images/research-synergies.jpg' class='iconDetails'>
     </div>  
     <div>
-    <h4>Synergies between robot appearance, behavior and quality of the interaction</h4>
+
     <div style="font-size:.8em; text-align: justify;"> The physical body and appearance of a robot is at the heart of the effectiveness of socially-assistive roles due to innate human tendencies to engage with lifelike, emotional social behaviour and forms, developing social impressions and bonds based on various qualities of the physical body and how they relate to the individual. A key challenge here is to explore synergies between robot appearance and behaviour and quality of the interaction perceived by human users. For example, one important aspect in building likable social robots is to ensure that humans do not feel uncomfortable during the interaction or perceive the robot as uncanny. We investigate how the design of a robot’s appearance qualities and behaviours, as well as their synergies, affect the emergence of the uncanny valley phenomenon.</div>
 
     </div>
