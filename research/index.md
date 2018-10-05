@@ -6,7 +6,7 @@ title: Research
 	width:60%;
     height:40%;
 	float:left;
-	display: inline-block;
+	display: block;
 	border-radius: 5px;
 } 
 
