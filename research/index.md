@@ -3,8 +3,8 @@ title: Research
 ---
 <style>
 .iconDetails {
-	width:60%;
-    height:40%;
+	width:40%;
+    height:30%;
 	display: block;
 	border-radius: 5px;
 } 
