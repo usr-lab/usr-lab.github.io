@@ -7,7 +7,7 @@ title: Projects
       <div class="project-list">
          <div class="project">
             <div class="project__card">
-               <a href="" class="project__image"><img src="http://unsplash.it/600/400?image=189" width=600 height=400 alt=""/></a>
+               <a href="google.com" class='project__image'><img src="http://unsplash.it/600/400?image=189" width=600 height=400 alt=""/></a>
                <div class="project__detail">
                   <h2 class="project__title"><a href="#">Project Name</a></h2>
                   <small class="project__category"><a href="#">Photography</a></small>
@@ -68,11 +68,6 @@ title: Projects
 <script src="../assets/js/plugins/jquery.hover3d.js" ></script>
 <script>
    $(document).ready(function(){
-	$('#getimage').each(function(){
-		var $this = $(this);
-		var t = $this.text();
-		$this.html(t.replace('&lt','<').replace('&gt', '>'));
-	});
    	$(".project").hover3d({
    		selector: ".project__card"
    	});
