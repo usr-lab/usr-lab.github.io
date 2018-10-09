@@ -1,7 +1,7 @@
 ---
 title: Projects
 ---
-<link rel="stylesheet" href="asset/css/research/style.css">
+<link rel="stylesheet" href="../asset/css/research-style.css">
 <div class="site-content">
    <div class="demo demo-1">
       <div class="project-list">
@@ -65,7 +65,7 @@ title: Projects
    return t;
    }(document, "script", "twitter-wjs"));
 </script>
-<script src="asset/js/plugins/jquery.hover3d.js" ></script>
+<script src="../asset/js/plugins/jquery.hover3d.js" ></script>
 <script>
    $(document).ready(function(){
    	$(".project").hover3d({
