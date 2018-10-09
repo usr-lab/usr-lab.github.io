@@ -1,7 +1,5 @@
 ---
-layout: project-index
 title: Projects
-excerpt: "A List of Projects"
 ---
 <link rel="stylesheet" href="asset/css/research/style.css">
 <div class="site-content">
