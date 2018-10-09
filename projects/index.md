@@ -68,6 +68,11 @@ title: Projects
 <script src="../assets/js/plugins/jquery.hover3d.js" ></script>
 <script>
    $(document).ready(function(){
+	$('#getimage').each(function(){
+		var $this = $(this);
+		var t = $this.text();
+		$this.html(t.replace('&lt','<').replace('&gt', '>'));
+	});
    	$(".project").hover3d({
    		selector: ".project__card"
    	});
