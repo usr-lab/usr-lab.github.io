@@ -7,7 +7,7 @@ title: Projects
       <div class="project-list">
          <div class="project">
             <div class="project__card">
-               <a href="" class="project__image"> <img src="http://unsplash.it/600/400?image=189" width=600 height=400 alt=""> </a>
+               <a href="" class="project__image"><img src="http://unsplash.it/600/400?image=189" width=600 height=400 alt=""></a>
                <div class="project__detail">
                   <h2 class="project__title"><a href="#">Project Name</a></h2>
                   <small class="project__category"><a href="#">Photography</a></small>
@@ -44,7 +44,7 @@ title: Projects
       </div>
    </div>
 </div>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.1.min.js"><\\/script>')</script>
 <!-- Place this tag right after the last button or just before your close body tag. -->
 <script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
