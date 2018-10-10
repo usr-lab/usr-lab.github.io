@@ -108,10 +108,9 @@ function toggleAbstract(btn) {
 		<a href="http://www.animatas.eu/"><h4>ANIMATAS: Advancing intuitive human-machine interaction with human-like social capabilities for education in schools</h4>
 		<div style="font-size:.8em"> ANIMATAS will establish a leading European Training Network (ETN) devoted to the development of a new generation of creative and critical research leaders and innovators who have a skill-set tailored for the creation of social capabilities necessary for realising step changes in the development of intuitive human-machine interaction (HMI) in educational settings.</a>
 This will be achieved through a transnational network of universities and industrial partners that will supervise and deliver specialized training for early stage researchers (ESRs), and the cross-fertilization of state-of-the-art methods from the domains of social robotics, embodied virtual characters, social and educational sciences in order to facilitate the development of skills necessary to design machines capable of engaging in intuitive sustained encounters with teachers and children.
-ANIMATAS is a Marie Sklodowska Curie European Training Network funded by the European Commission in the EU Horizon 2020 Framework Programme (2018-2021).
-		</div> 
-	</div> 
-</div> 
+ANIMATAS is a Marie Sklodowska Curie European Training Network funded by the European Commission in the EU Horizon 2020 Framework Programme (2018-2021).</div>
+	</div>
+</div>
 <p style="clear:both;"></p>
 
 <div class='container'>
