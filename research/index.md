@@ -7,12 +7,12 @@ title: Research
 <div class="site-content">
    <div class="demo demo-1">
       <div class="project-list">
-         <div class="project">
+         <div>
 			<div><a href="http://www.animatas.eu/"><h6>User modelling for personalised and co-adaptive human-robot interaction</h6></a></div>
-            <div class="project__card">
-               <a href="modelling.md" class="project__image"><img src="../images/research-modeling.jpg"></a>
+            <div>
+               <a href="modelling.md"><img src="../images/research-modeling.jpg"></a>
 			   <!--<a href="google.com" class='project__image'>-->
-               <div class="project__detail">
+               <div>
                   <small class="project__title"><a href="www.google.com"></a></small>
                </div>
             </div>
