@@ -22,12 +22,12 @@ title: Research
    <div class="demo demo-1">
       <div class="project-list">
          <div class="project">
+			<div><h4>User modelling for personalised and co-adaptive human-robot interaction</h4></div>
             <div class="project__card">
                <a href="www.google.com" class="project__image"><img src="../images/research-modeling.jpg"></a>
 			   <!--<a href="google.com" class='project__image'>-->
                <div class="project__detail">
                   <small class="project__title"><a href="#">User modelling for personalised and co-adaptive human-robot interaction</a></small>
-                  
                </div>
             </div>
          </div>
