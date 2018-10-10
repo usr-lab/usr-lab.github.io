@@ -7,10 +7,10 @@ title: Research
       <div class="project-list">
          <div class="project">
             <div class="project__card">
-               <a href="www.google.com"><img src="../images/research-modeling.jpg"></a>
+               <a href="www.google.com" class="project__image"><img src="../images/research-modeling.jpg"></a>
 			   <!--<a href="google.com" class='project__image'>-->
                <div class="project__detail">
-                  <h2 class="project__title"><a href="#">Project Name</a></h2>
+                  <h3 class="project__title"><a href="#">User modelling for personalised and co-adaptive human-robot interaction</a></h3>
                   <small class="project__category"><a href="#">Photography</a></small>
                </div>
             </div>
@@ -19,7 +19,7 @@ title: Research
             <div class="project__card">
                <a href="" class="project__image"><img src="../images/research-synergies.jpg"></a>
                <div class="project__detail">
-                  <h2 class="project__title"><a href="#">Project Name</a></h2>
+                  <h3 class="project__title"><a href="#">Synergies between robot appearance, behavior and quality of the interaction</a></h3>
                   <small class="project__category"><a href="#">Photography</a></small>
                </div>
             </div>
@@ -28,7 +28,7 @@ title: Research
             <div class="project__card">
                <a href="" class="project__image"><img src="../images/research-social.jpg"></a>
                <div class="project__detail">
-                  <h2 class="project__title"><a href="#">Project Name</a></h2>
+                  <h3 class="project__title"><a href="#">Social learning</a></h3>
                   <small class="project__category"><a href="#">Photography</a></small>
                </div>
             </div>
@@ -37,7 +37,7 @@ title: Research
             <div class="project__card">
                <a href="" class="project__image"><img src="../images/research-education.jpg"></a>
                <div class="project__detail">
-                  <h2 class="project__title"><a href="#">Project Name</a></h2>
+                  <h3 class="project__title"><a href="#">Educational robots</a></h3>
                   <small class="project__category"><a href="#">Photography</a></small>
                </div>
             </div>
