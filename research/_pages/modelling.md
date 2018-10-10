@@ -1,8 +1,10 @@
 ---
 permalink: /modelling.html
 ---
+<link rel="stylesheet" type="text/css" href="../../assets/css/button.css">
 
-[Back](../research/)
+<button class="button black" onclick="window.open('../research/')" type="button">
+	Back</button>
 
 ## User modelling for personalised and co-adaptive human-robot interaction
 
