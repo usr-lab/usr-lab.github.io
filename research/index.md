@@ -2,6 +2,7 @@
 title: Research
 ---
 <link rel="stylesheet" href="../assets/css/research-style.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 <script src="../assets/js/plugins/jquery.hover3d.js" ></script>
 <script>
    $(document).ready(function(){
@@ -60,7 +61,7 @@ title: Research
       </div>
    </div>
 </div>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.1.min.js"><\\/script>')</script>
 <!-- Place this tag right after the last button or just before your close body tag. -->
 <script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
