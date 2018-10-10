@@ -26,8 +26,8 @@ title: Research
                <a href="www.google.com" class="project__image"><img src="../images/research-modeling.jpg"></a>
 			   <!--<a href="google.com" class='project__image'>-->
                <div class="project__detail">
-                  <h3 class="project__title"><a href="#">User modelling for personalised and co-adaptive human-robot interaction</a></h3>
-                  <small class="project__category"><a href="#">Photography</a></small>
+                  <small class="project__title"><a href="#">User modelling for personalised and co-adaptive human-robot interaction</a></small>
+                  
                </div>
             </div>
          </div>
