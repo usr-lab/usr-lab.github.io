@@ -128,7 +128,7 @@ COIN is funded by the Swedish Foundation for Strategic Research (SSF) (2016-2021
 
 <div class='container'>
     <div>
-		<img src='../images/project-adaplus.png' class='iconDetails'>
+		<img src='../images/project-adaplus.jpg' class='iconDetails'>
     </div>  
     <div style='margin-left:30%;'>
 		<h4>ADAPT-PLUS: Adaptive learning for personalised instructional robots</h4>
