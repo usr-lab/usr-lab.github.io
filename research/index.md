@@ -10,25 +10,25 @@ title: Research
          <div class="project">
 			<div><a href="http://www.animatas.eu/"><h6>User modelling for personalised and co-adaptive human-robot interaction</h6></a></div>
             <div>
-               <a href="{{ site.url }}/modelling.html" class="project__image"><img src="../images/research-modeling.jpg"></a>
+               <a href="{{ site.url }}modelling.html" class="project__image"><img src="../images/research-modeling.jpg"></a>
             </div>
          </div>
          <div class="project">
 			<div><a href="http://www.coinssf.se/ "><h6>Synergies between robot appearance, behavior and quality of the interaction</h6></a></div>
             <div>
-               <a href="{{ site.url }}/synergies.html" class="project__image"><img src="../images/research-synergies.jpg"></a>
+               <a href="{{ site.url }}synergies.html" class="project__image"><img src="../images/research-synergies.jpg"></a>
             </div>
          </div>
          <div class="project">
 			<div><h6>Social learning</h6></div>
             <div>
-               <a href="{{ site.url }}/social.html" class="project__image"><img src="../images/research-social.jpg"></a>
+               <a href="{{ site.url }}social.html" class="project__image"><img src="../images/research-social.jpg"></a>
             </div>
          </div>
          <div class="project">
 			<div><a href="http://www.emote-project.eu/"><h6>Educational robots</h6></a></div>
             <div>
-               <a href="{{ site.url }}/education.html" class="project__image"><img src="../images/research-education.jpg"></a>
+               <a href="{{ site.url }}education.html" class="project__image"><img src="../images/research-education.jpg"></a>
             </div>
          </div>
       </div>
