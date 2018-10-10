@@ -1,8 +1,10 @@
 ---
-permalink: /educational.html
+permalink: /education.html
 ---
+<link rel="stylesheet" type="text/css" href="../../assets/css/button.css">
 
-[Back](../research/)
+<button class="button black" onclick="window.location.href='../research/'" type="button">
+	Back</button>
 
 ## Educational robots
 
