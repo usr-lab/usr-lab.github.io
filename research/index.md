@@ -22,42 +22,39 @@ title: Research
    <div class="demo demo-1">
       <div class="project-list">
          <div class="project">
-			<div><h6>User modelling for personalised and co-adaptive human-robot interaction</h6></div>
+			<div><a href="http://www.animatas.eu/"><h6>User modelling for personalised and co-adaptive human-robot interaction</h6></a></div>
             <div class="project__card">
                <a href="www.google.com" class="project__image"><img src="../images/research-modeling.jpg"></a>
 			   <!--<a href="google.com" class='project__image'>-->
                <div class="project__detail">
-                  <small class="project__title"><a href="#">User modelling for personalised and co-adaptive human-robot interaction</a></small>
+                  <!--<small class="project__title"><a href="#">User modelling for personalised and co-adaptive human-robot interaction</a></small>-->
                </div>
             </div>
          </div>
          <div class="project">
-			<div><h6>User modelling for personalised and co-adaptive human-robot interaction</h6></div>
+			<div><a href="http://www.coinssf.se/ "><h6>Synergies between robot appearance, behavior and quality of the interaction</h6></a></div>
             <div class="project__card">
                <a href="" class="project__image"><img src="../images/research-synergies.jpg"></a>
                <div class="project__detail">
-                  <h3 class="project__title"><a href="#">Synergies between robot appearance, behavior and quality of the interaction</a></h3>
-                  <small class="project__category"><a href="#">Photography</a></small>
+                  <!--<small class="project__title"><a href="#">User modelling for personalised and co-adaptive human-robot interaction</a></small>-->
                </div>
             </div>
          </div>
          <div class="project">
-			<div><h6>User modelling for personalised and co-adaptive human-robot interaction</h6></div>
+			<div><h6>Social learning</h6></div>
             <div class="project__card">
                <a href="" class="project__image"><img src="../images/research-social.jpg"></a>
                <div class="project__detail">
-                  <h3 class="project__title"><a href="#">Social learning</a></h3>
-                  <small class="project__category"><a href="#">Photography</a></small>
+                  <!--<small class="project__title"><a href="#">User modelling for personalised and co-adaptive human-robot interaction</a></small>-->
                </div>
             </div>
          </div>
          <div class="project">
-			<div><h6>User modelling for personalised and co-adaptive human-robot interaction</h6></div>
+			<div>a href="http://www.emote-project.eu/"><h6><Educational robots</h6></a></div>
             <div class="project__card">
                <a href="" class="project__image"><img src="../images/research-education.jpg"></a>
                <div class="project__detail">
-                  <h3 class="project__title"><a href="#">Educational robots</a></h3>
-                  <small class="project__category"><a href="#">Photography</a></small>
+                  <!--<small class="project__title"><a href="#">User modelling for personalised and co-adaptive human-robot interaction</a></small>-->
                </div>
             </div>
          </div>
