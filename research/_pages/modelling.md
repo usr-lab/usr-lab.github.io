@@ -1,8 +1,8 @@
 ---
-title: Research
+permalink: /modelling.html
 ---
 
-[Back](index.md)
+[Back](../research/index.md)
 
 ## User modelling for personalised and co-adaptive human-robot interaction
 
