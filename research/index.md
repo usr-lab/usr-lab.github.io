@@ -3,21 +3,7 @@ title: Research
 ---
 <link rel="stylesheet" href="../assets/css/research-style.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.min.js"></script>
-<script src="../assets/js/plugins/jquery.hover3d.js" ></script>
-<script>
-   $(document).ready(function(){
-   	$(".project").hover3d({
-   		selector: ".project__card"
-   	});
-   
-   	$(".movie").hover3d({
-   		selector: ".movie__card",
-   		shine: true,
-   		sensitivity: 20,
-   	});
-   });
-   
-</script>
+
 <div class="site-content">
    <div class="demo demo-1">
       <div class="project-list">
