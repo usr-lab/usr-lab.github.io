@@ -2,7 +2,7 @@
 permalink: /modelling.html
 ---
 
-[Back](../research/index.md)
+[Back](../research/)
 
 ## User modelling for personalised and co-adaptive human-robot interaction
 
