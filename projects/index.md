@@ -104,10 +104,12 @@ function toggleAbstract(btn) {
 <h4 style="color:grey"> Lab Director </h4>
 <div class='container'>
     <div>
-		<img src='../images/project-animatas.jpg' class='iconDetails'>
+		<img src='../images/project-animatas.png' class='iconDetails'>
     </div>  
     <div style='margin-left:25%;'>
-    <div style="font-size:.8em"> Ginevra Castellano is an Associate Professor at the Department of Information Technology, Uppsala University, where she leads the Social Robotics Lab. Her research interests are in the areas of social robotics and affective computing, and include social learning, personalized adaptive robots, multimodal behaviours and uncanny valley effect in robots and virtual agents. Over the last ten years she has been working on the development of computational abilities that allow robots to behave in a socially intelligent way in scenarios where robots provide social support to humans, for example as tutors in the classroom or as companions for children.</div>
+    <div style="font-size:.8em"> ANIMATAS will establish a leading European Training Network (ETN) devoted to the development of a new generation of creative and critical research leaders and innovators who have a skill-set tailored for the creation of social capabilities necessary for realising step changes in the development of intuitive human-machine interaction (HMI) in educational settings.
+This will be achieved through a transnational network of universities and industrial partners that will supervise and deliver specialized training for early stage researchers (ESRs), and the cross-fertilization of state-of-the-art methods from the domains of social robotics, embodied virtual characters, social and educational sciences in order to facilitate the development of skills necessary to design machines capable of engaging in intuitive sustained encounters with teachers and children.
+ANIMATAS is a Marie Sklodowska Curie European Training Network funded by the European Commission in the EU Horizon 2020 Framework Programme (2018-2021).
     </div>
 </div>
 <p style="clear:both;"></p>
@@ -121,7 +123,8 @@ function toggleAbstract(btn) {
 		<img src='../images/project-coin.jpg' class='iconDetails'>
     </div>  
     <div style='margin-left:25%;'>
-    <div style="font-size:.8em"> Maike Paetzel is a PhD student in the Social Robotics Lab and mainly focused on studying the uncanny valley effect. She is specifically interested in how interactions with an agent can change an initial (uncanny) perception. Maike’s background is both in humanoid robotics and conversational agents. Apart from Human-Robot Interaction her heart belongs to the RoboCup community, where she is still actively engaged in the team Hamburg Bit-Bots and the organization of the Humanoid League.</div>
+    <div style="font-size:.8em"> COIN aims to develop a systematic, bi-directional short- and long-term adaptive framework that yields safe, effective, efficient, and socially acceptable robot behaviors and human-robot interactions (HRI).
+COIN is funded by the Swedish Foundation for Strategic Research (SSF) (2016-2021).
     </div>
 </div>
 <p style="clear:both;"></p>
@@ -132,10 +135,11 @@ function toggleAbstract(btn) {
 <h4 style="color:grey">  Ph.D. Candidate </h4>
 <div class='container'>
     <div>
-		<img src='../images/project-adaplus.jpg' class='iconDetails'>
+		<img src='../images/project-adaplus.png' class='iconDetails'>
     </div>  
     <div style='margin-left:25%;'>
-    <div style="font-size:.8em"> Alex Yuan Gao is a Ph.D. candidate, who wants to live in a world filled with innovative businesses, robots, books that come bundled with extra hot chocolate and a steampunk-styled force field around his keyboard that repels cats. He is interested in machine learning, as applied to (social) robotics. In particular, he is interested in deep/reinforcement/neuro-based learning approaches to robotic perception, control, and physical modeling of the robot's environment. Currently, he is working on projects that can fill the gap between deep reinforcement learning and social robotics.</div>
+    <div style="font-size:.8em"> This project will develop novel adaptive learning algorithms for effective human-robot interaction in instructional settings that rely on robust real-time modelling and adaptation to human users and task performance. 
+ADAPT-PLUS is funded by the Swedish Research Council (2016-2020).
     </div>
 </div>
 <p style="clear:both;"></p>
@@ -146,10 +150,11 @@ function toggleAbstract(btn) {
 <h4 style="color:grey">  Ph.D. Candidate </h4>
 <div class='container'>
     <div>
-		<img src='../images/people-emote.jpg' class='iconDetails'>
+		<img src='../images/project-emote.jpg' class='iconDetails'>
     </div>  
     <div style='margin-left:25%;'>
-    <div style="font-size:.8em"> Sebastian Wallkötter is a PhD student at the Department of Information Technology, Uppsala University, and works as a researcher in the Social Robotics Lab. His work is part of the Horizon 2020 funded ANIMATAS project. He is interested in social learning for robots, ethical behavior of robotic systems as well as advancing the field of machine learning in the areas of reinforcement learning and deep learning.</div>
+    <div style="font-size:.8em"> This project designed, developed and evaluated a new generation of fully autonomous, embodied tutors that have empathic capabilities to engage in personalised interactions with learners in a shared physical space. Specifically, EMOTE’s objectives were: (1) to research the role of personalised interventions in the process of engaging the learner and facilitating their learning progress, and (2) to explore if and how the exchange of socio-emotional cues with an embodied tutor in a shared physical space can create a sense of connection and bonding and act as a facilitator of the learning experience. This was done across different embodiments (both virtual and robotic, i.e., the Nao robot with torso and arms), allowing for the effects of embodiment on engagement and empathy to be explored. 
+EMOTE was funded by the European Commission in the EU FP7 Framework Programme (2012-2016).
     </div>
 </div>
 <p style="clear:both;"></p>
