@@ -45,18 +45,13 @@ a {
       width: 130px !important; }
 
 .demo {
-  margin: 100px 0; }
+  margin: 0; }
   .demo h2 {
     margin-bottom: 10px;
     line-height: 1; }
 
 .demo-1 {
   text-align: center; }
-
-.demo-2 {
-  text-align: left; }
-  .demo-2 .section-title {
-    text-align: left; }
 
 .columns:after {
   content: " ";
