@@ -7,7 +7,8 @@ title: Projects
       <div class="project-list">
          <div class="project">
             <div class="project__card">
-               <a href="google.com" class='project__image'><div><img src="http://unsplash.it/600/400?image=189" width=600 height=400 alt="fdfdsf"></div></a>
+               <a href="www.google.com"><img src="../assets/images/uppsala.jpg"></a>
+			   <!--<a href="google.com" class='project__image'>-->
                <div class="project__detail">
                   <h2 class="project__title"><a href="#">Project Name</a></h2>
                   <small class="project__category"><a href="#">Photography</a></small>
