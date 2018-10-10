@@ -17,7 +17,7 @@ title: Research
          </div>
          <div class="project">
             <div class="project__card">
-               <a href="" class="project__image"><img src="../images/research-synergies.jpg" width=600 height=400 alt=""></a>
+               <a href="" class="project__image"><img src="../images/research-synergies.jpg"></a>
                <div class="project__detail">
                   <h2 class="project__title"><a href="#">Project Name</a></h2>
                   <small class="project__category"><a href="#">Photography</a></small>
@@ -26,7 +26,7 @@ title: Research
          </div>
          <div class="project">
             <div class="project__card">
-               <a href="" class="project__image"><img src="../images/research-social.jpg" width=600 height=400 alt=""></a>
+               <a href="" class="project__image"><img src="../images/research-social.jpg"></a>
                <div class="project__detail">
                   <h2 class="project__title"><a href="#">Project Name</a></h2>
                   <small class="project__category"><a href="#">Photography</a></small>
@@ -35,7 +35,7 @@ title: Research
          </div>
          <div class="project">
             <div class="project__card">
-               <a href="" class="project__image"><img src="../images/research-education.jpg" width=600 height=400 alt=""></a>
+               <a href="" class="project__image"><img src="../images/research-education.jpg"></a>
                <div class="project__detail">
                   <h2 class="project__title"><a href="#">Project Name</a></h2>
                   <small class="project__category"><a href="#">Photography</a></small>
