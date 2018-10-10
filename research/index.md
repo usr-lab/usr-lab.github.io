@@ -27,7 +27,7 @@ title: Research
                <a href="www.google.com" class="project__image"><img src="../images/research-modeling.jpg"></a>
 			   <!--<a href="google.com" class='project__image'>-->
                <div class="project__detail">
-                  <!--<small class="project__title"><a href="#">User modelling for personalised and co-adaptive human-robot interaction</a></small>-->
+                  <small class="project__title"><a href="www.google.com"></a></small>
                </div>
             </div>
          </div>
@@ -36,7 +36,7 @@ title: Research
             <div class="project__card">
                <a href="" class="project__image"><img src="../images/research-synergies.jpg"></a>
                <div class="project__detail">
-                  <!--<small class="project__title"><a href="#">User modelling for personalised and co-adaptive human-robot interaction</a></small>-->
+                  <small class="project__title"><a href="www.google.com"></a></small>
                </div>
             </div>
          </div>
@@ -45,16 +45,16 @@ title: Research
             <div class="project__card">
                <a href="" class="project__image"><img src="../images/research-social.jpg"></a>
                <div class="project__detail">
-                  <!--<small class="project__title"><a href="#">User modelling for personalised and co-adaptive human-robot interaction</a></small>-->
+                  <small class="project__title"><a href="www.google.com"></a></small>
                </div>
             </div>
          </div>
          <div class="project">
-			<div>a href="http://www.emote-project.eu/"><h6><Educational robots</h6></a></div>
+			<div><a href="http://www.emote-project.eu/"><h6>Educational robots</h6></a></div>
             <div class="project__card">
                <a href="" class="project__image"><img src="../images/research-education.jpg"></a>
                <div class="project__detail">
-                  <!--<small class="project__title"><a href="#">User modelling for personalised and co-adaptive human-robot interaction</a></small>-->
+                  <small class="project__title"><a href="www.google.com"></a></small>
                </div>
             </div>
          </div>
