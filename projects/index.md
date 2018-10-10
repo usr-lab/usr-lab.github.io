@@ -1,6 +1,6 @@
 ---
 layout: post
-title: People
+title: Projects
 ---
 <style>
 .iconDetails {
