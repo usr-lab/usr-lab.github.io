@@ -131,7 +131,7 @@ COIN is funded by the Swedish Foundation for Strategic Research (SSF) (2016-2021
 		<img src='../images/project-adaplus.png' class='iconDetails'>
     </div>  
     <div style='margin-left:30%;'>
-		<h4>COIN: Co-adaptive human-robot interactive systems</h4>
+		<h4>ADAPT-PLUS: Adaptive learning for personalised instructional robots</h4>
 		<div style="font-size:.8em"> This project will develop novel adaptive learning algorithms for effective human-robot interaction in instructional settings that rely on robust real-time modelling and adaptation to human users and task performance. 
 ADAPT-PLUS is funded by the Swedish Research Council (2016-2020).
 		</div>
