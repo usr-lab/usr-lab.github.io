@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Research
 ---
 <link rel="stylesheet" href="../assets/css/research-style.css">
