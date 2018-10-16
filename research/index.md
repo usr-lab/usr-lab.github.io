@@ -1,10 +1,9 @@
 ---
-layout: post
 title: Research
 ---
+
 <link rel="stylesheet" href="../assets/css/research-style.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.min.js"></script>
-
 <div class="site-content">
    <div class="demo demo-1">
       <div class="project-list">
