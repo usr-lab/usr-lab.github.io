@@ -1,7 +1,6 @@
 ---
 title: Contact
 ---
-You can send me an email here:
 
 Visiting address:
  
