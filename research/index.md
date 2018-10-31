@@ -8,25 +8,25 @@ title: Research
    <div class="demo demo-1">
       <div class="project-list">
          <div class="project">
-			<div style="text-align: left;"><a href="http://www.animatas.eu/"><h4>User modelling for personalised and co-adaptive human-robot interaction</h4></a></div>
+			<div style="text-align: left;"><a href="{{ site.url }}modelling.html"><h4>User modelling for personalised and co-adaptive human-robot interaction</h4></a></div>
             <div>
                <a href="{{ site.url }}modelling.html" class="project__image"><img src="../images/research-modeling.jpg"></a>
             </div>
          </div>
          <div class="project">
-			<div style="text-align: left;"><a href="http://www.coinssf.se/ "><h4>Synergies between robot appearance, behavior and quality of the interaction</h4></a></div>
+			<div style="text-align: left;"><a href="{{ site.url }}synergies.html"><h4>Synergies between robot appearance, behavior and quality of the interaction</h4></a></div>
             <div>
                <a href="{{ site.url }}synergies.html" class="project__image"><img src="../images/research-synergies.jpg"></a>
             </div>
          </div>
          <div class="project">
-			<div style="text-align: left;"><h4>Social robot learning</h4></div>
+			<div style="text-align: left;" ><a href="{{ site.url }}social.html"><h4>Social robot learning</h4></a></div>
             <div>
                <a href="{{ site.url }}social.html" class="project__image"><img src="../images/research-social.jpg"></a>
             </div>
          </div>
          <div class="project">
-			<div style="text-align: left;"><a href="http://www.emote-project.eu/"><h4>Educational robots</h4></a></div>
+			<div style="text-align: left;"><a href="{{ site.url }}education.html"><h4>Educational robots</h4></a></div>
             <div>
                <a href="{{ site.url }}education.html" class="project__image"><img src="../images/research-education.jpg"></a>
             </div>
