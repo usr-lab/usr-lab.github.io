@@ -1,15 +1,16 @@
 ---
 title: Contact
 ---
-You can send me an email here:
 
-<form id="contactForm" method="POST" action="https://formspree.io/gaoyuankidult@gmail.com">
-  <fieldset>
-    <legend>Your message:</legend>
-    Name: <input name="name" type="text" size="30" required><br>
-    Email: <input name="_replyto" type="text" size="30" required><br>
-    Content:<textarea name="message" required></textarea>
-  </fieldset>
-</form>
-<br>
-<a href="#" class="btn--primary" onclick="document.getElementById('contactForm').submit();">Submit</a>
+Visiting address:
+ 
+Room 2115, House 2
+Department of Information Technology
+Polacksbacken (Lägerhyddsvägen 2)
+Uppsala
+ 
+[Travel directions](http://www.it.uu.se/contact)
+ 
+Contact person:
+ 
+[Ginevra Castellano](http://user.it.uu.se/~ginca820/)
