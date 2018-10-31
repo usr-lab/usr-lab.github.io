@@ -65,9 +65,9 @@ pre {
   padding: 10px; }
 
 .project {
-  width: 50%;
-  float: left;
-  padding: 15px; }
+  margin-right: 15px;
+  width: 45%;
+  float: left; }
   .project-list:after {
     content: " ";
     display: block;
