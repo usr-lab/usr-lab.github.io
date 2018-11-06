@@ -109,8 +109,6 @@ function toggleAbstract(btn) {
     <div style="font-size:.8em"> Yiwen Chen was a master thesis student at Uppsala Social Robotics Lab. She is interested in text generation, speech synthesis as well as music generation for she would like to create a virtual idol who can write and sing songs itself. She is going to start her Ph.D. in the NLIP group at the University of Cambridge in January 2019.
 	</div>
 </div>
-<p style="clear:both; font-size:.8em;"></p>
-<p style="font-size:.8em; margin:0;">Ph.D. University: University of Cambridge</p>
 <p style="font-size:.8em; margin:0;">Thesis name: Generating Chinese Lyrics using Neural Networks with Lyric Patterns</p>
 <p style="font-size:.8em; margin:0;">Supervisor : Alex Yuan Gao</p>
 
