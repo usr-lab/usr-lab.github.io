@@ -100,7 +100,7 @@ function toggleAbstract(btn) {
 </script>
 
 <h3> Yiwen Cheng </h3>
-<h4 style="color:grey"> Master Student </h4>
+<h4 style="color:grey"> Previous Master Student </h4>
 <div class='container'>
     <div>
 		<img src='yiwen.jpg' class='iconDetails'>
@@ -114,7 +114,7 @@ function toggleAbstract(btn) {
 <p style="font-size:.8em; margin:0;">Supervisor : Alex Yuan Gao</p>
 
 <h3> Erik Ekstedt </h3>
-<h4 style="color:grey"> Master Student </h4>
+<h4 style="color:grey"> Previous Master Student </h4>
 <div class='container'>
     <div>
 		<img src='erik.jpg' class='iconDetails'>
