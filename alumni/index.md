@@ -110,6 +110,7 @@ function toggleAbstract(btn) {
 	</div>
 </div>
 <p style="clear:both; font-size:.8em;"></p>
-<p style="clear:both; font-size:.8em;">Thesis name: Generating Chinese Lyrics using Neural Networks with Lyric Patterns</p>
-<p style="clear:both; font-size:.8em;">Supervisor : Alex Yuan Gao</p>
+<p style="font-size:.8em; margin:0;">Ph.D. University: University of Cambridge</p>
+<p style="font-size:.8em; margin:0;">Thesis name: Generating Chinese Lyrics using Neural Networks with Lyric Patterns</p>
+<p style="font-size:.8em; margin:0;">Supervisor : Alex Yuan Gao</p>
 
