@@ -125,4 +125,4 @@ function toggleAbstract(btn) {
 </div>
 <p style="font-size:.8em; clear:both;"></p>
 <p style="font-size:.8em;">Thesis name: A Deep Reinforcement Learning Framework where Agents Learn a Basic form of Social Movement</p>
-<p style="font-size:.8em; margin:0;">Supervisor : Alex Yuan Gao</p>
+<p style="font-size:.8em;">Supervisor : Alex Yuan Gao</p>
