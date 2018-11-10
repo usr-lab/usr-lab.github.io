@@ -14,7 +14,7 @@ Robotics is now one of a few technologies that have the potential to have an imp
 
 ### Selected Publications
 
-Obaid, M., Aylett, R., Barendregt, W., Basedow, C. A., Corrigan, L. J., Hall, L., Jones, A., Kappas, A., Küster, D., Paiva, A., Papadopoulos, F., Serholt, S., & Castellano, G. (accepted). *Endowing a Robotic Tutor with Empathic Qualities: Exploring Children's Learning and Perceptions. International Journal of Humanoid Robotics.* [[preprint](http://user.it.uu.se/~ginca820/MO-EtAl-IJHR-2018.pdf)]  
+Obaid, M., Aylett, R., Barendregt, W., Basedow, C. A., Corrigan, L. J., Hall, L., Jones, A., Kappas, A., Küster, D., Paiva, A., Papadopoulos, F., Serholt, S., & Castellano, G. (accepted). Endowing a Robotic Tutor with Empathic Qualities: Exploring Children's Learning and Perceptions. *International Journal of Humanoid Robotics.* [[preprint](http://user.it.uu.se/~ginca820/MO-EtAl-IJHR-2018.pdf)]  
 
 Jones, A., Bull, S., & Castellano, G. (2018). “I Know That Now, I’m Going to Learn This Next” Promoting Self-regulated Learning with a Robotic Tutor. *International Journal of Social Robotics, 10(4),439-454*. [[PDF](http://user.it.uu.se/~ginca820/AJ-EtAl-IJSR-2018.pdf)] 
 
