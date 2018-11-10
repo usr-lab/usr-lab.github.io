@@ -125,8 +125,7 @@ function toggleAbstract(btn) {
     </div>
 </div>
 <p style="clear:both;"></p>
-<button class="button black" onclick="window.open('https://maike-paetzel.de/')" type="button">
-	Maike Paetzel's Personal Website</button>
+<button class="button black" onclick="window.open('https://maike-paetzel.de/')" type="button">Website in Preparation</button>
 	
 <h3> Maike Paetzel </h3>
 <h4 style="color:grey">  Ph.D. Candidate </h4>
@@ -174,7 +173,7 @@ function toggleAbstract(btn) {
 <h4 style="color:grey">  Ph.D. Candidate </h4>
 <div class='container'>
     <div>
-		<img src='../images/people-natalia.jpg' class='iconDetails'>
+		<img src='../images/people-natalia.png' class='iconDetails'>
     </div>  
     <div style='margin-left:25%;'>
     <div style="font-size:.8em"> Natalia Calvo is a Ph.D. student in the Social Robotics Lab. She believes in a world where robots can actively assist humans in different scenarios.  Her work is focused on modeling trust in human-robot educational interactions, and it is part of the ANIMATAS Project funded by Horizon 2020. Her research interests cover deep learning and human-robot interaction towards an interdisciplinary approach mostly focused on manipulation tasks, speech recognition interfaces, computer vision, and social robotics.    </div>
