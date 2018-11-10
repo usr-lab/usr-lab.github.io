@@ -114,6 +114,20 @@ function toggleAbstract(btn) {
 <button class="button black" onclick="window.open('http://user.it.uu.se/~ginca820/')" type="button">
 	Ginevra Castellano's Personal Website</button>
 
+<h3> Giulia Perugia </h3>
+<h4 style="color:grey">  Postdoc Researcher </h4>
+<div class='container'>
+    <div>
+		<img src='../images/people-giulia.jpg' class='iconDetails'>
+    </div>  
+    <div style='margin-left:25%;'>
+    <div style="font-size:.8em"> Dr. Giulia Perugia received a BA in Literature and Linguistics from the University of Roma Tre (Rome, Italy) in 2011, a MSc in Cognitive Science from the University of Siena (Italy) in 2013, and a double degree PhD in Assistive Technologies from the Polytechnic University of Catalonia (UPC; Barcelona, Spain) and Eindhoven University of Technology (TU/e; Netherlands) in 2018. In November 2018, she joined the Social Robotics Lab at Uppsala University (Sweden) as a postdoctoral researcher. As a scientist, she is interested in understanding and modeling the emotional and social linkage that the interaction with social robots triggers, how this can be used for assistive and educational purposes, and how it might impact and shape our society. </div>
+    </div>
+</div>
+<p style="clear:both;"></p>
+<button class="button black" onclick="window.open('https://maike-paetzel.de/')" type="button">
+	Maike Paetzel's Personal Website</button>
+	
 <h3> Maike Paetzel </h3>
 <h4 style="color:grey">  Ph.D. Candidate </h4>
 <div class='container'>
@@ -155,6 +169,19 @@ function toggleAbstract(btn) {
 <p style="clear:both;"></p>
 <button class="button black" onclick="window.open('http://sebastian.wallkoetter.net')" type="button">
 	Sebastian Wallkötter's Personal Website</button>
+	
+<h3>Natalia Calvo</h3>
+<h4 style="color:grey">  Ph.D. Candidate </h4>
+<div class='container'>
+    <div>
+		<img src='../images/people-natalia.jpg' class='iconDetails'>
+    </div>  
+    <div style='margin-left:25%;'>
+    <div style="font-size:.8em"> Natalia Calvo is a Ph.D. student in the Social Robotics Lab. She believes in a world where robots can actively assist humans in different scenarios.  Her work is focused on modeling trust in human-robot educational interactions, and it is part of the ANIMATAS Project funded by Horizon 2020. Her research interests cover deep learning and human-robot interaction towards an interdisciplinary approach mostly focused on manipulation tasks, speech recognition interfaces, computer vision, and social robotics.    </div>
+</div>
+<p style="clear:both;"></p>
+<button class="button black" onclick="window.open('http://www.natycalvo.com')" type="button">
+	Natalia Calvo's Personal Website</button>	
 
 <h3>Mohammad Obaid</h3>
 <h4 style="color:grey"> Visiting Researcher </h4>
