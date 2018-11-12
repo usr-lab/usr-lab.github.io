@@ -14,8 +14,8 @@ permalink: /synergies.html
  
 ### Selected Publications
 
-Obaid, M., Aylett, R., Barendregt, W., Basedow, C. A., Corrigan, L. J., Hall, L., Jones, A., Kappas, A., Küster, D., Paiva, A., Papadopoulos, F., Serholt, S., & Castellano, G. (accepted). Endowing a Robotic Tutor with Empathic Qualities: Exploring Children's Learning and Perceptions. *International Journal of Humanoid Robotics*. [[preprint](http://user.it.uu.se/~ginca820/MO-EtAl-IJHR-2018.pdf)]  
+Paetzel, M., Varni, G., Hupont, I., Chetouani, M., Peters, C., & Castellano, G. (2018). The Attribution of Emotional State – How Embodiment Features and Social Traits Affect the Perception of an Artificial Agent. *IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN 2018)*, 2018. [[PDF](http://user.it.uu.se/~ginca820/MP-RO-MAN-2018.pdf)]
 
-Jones, A., Bull, S., & Castellano, G. (2018). “I Know That Now, I’m Going to Learn This Next” Promoting Self-regulated Learning with a Robotic Tutor. *International Journal of Social Robotics, 10(4)*,439-454. [[PDF](http://user.it.uu.se/~ginca820/AJ-EtAl-IJSR-2018.pdf)]
+Paetzel, M., Varni, G., Hupont, I., Chetouani, M., Peters, C., & Castellano, G. (2017). Investigating the Influence of Embodiment on Facial Mimicry in HRI Using Computer Vision-Based Measures. *IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN 2017)*, 2017. [[PDF(http://user.it.uu.se/~ginca820/MP-EtAl-ROMAN-2017.pdf)]]
 
-Papadopoulos, F. Küster, D. Corrigan, L. J., Kappas, A., & Castellano, G. (2016). Do relative positions and proxemics affect the engagement in a human-robot collaborative scenario? *Interaction Studies*, 17 (3). [[PDF](http://user.it.uu.se/~ginca820/FP-EtAl-IS-2016.pdf)]
+Castellano, G., Mancini, M., Peters, C., & McOwan, P.W. (2012). Expressive Copying Behavior for Social Agents: A Perceptual Analysis.  *IEEE Transactions on Systems, Man and Cybernetics, Part A - Systems and Humans*, 42(3), 776-783. [[PDF]( http://user.it.uu.se/~ginca820/GC-SMCA-2012.pdf)
