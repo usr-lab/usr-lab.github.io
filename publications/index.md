@@ -4,7 +4,7 @@ title: Publications
 
 
 
-2018 
+#### 2018 
 
 Obaid, M., Aylett, R., Barendregt, W., Basedow, C. A., Corrigan, L. J., Hall, L., Jones, A., Kappas, A., Küster, D., Paiva, A., Papadopoulos, F., Serholt, S., & Castellano, G. (accepted). Endowing a Robotic Tutor with Empathic Qualities: Exploring Children's Learning and Perceptions. *International Journal of Humanoid Robotics*.
 
@@ -24,7 +24,7 @@ Yuan, G., Wallkötter, S., Obaid, M., & Castellano, G. (2018). Investigating Dee
  
 Paetzel, M., Varni, G., Hupont, I., Chetouani, M., Peters, C., & Castellano, G. (2018). The Attribution of Emotional State – How Embodiment Features and Social Traits Affect the Perception of an Artificial Agent. *IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN 2018)*, 2018. [PDF]
 
-2017
+#### 2017
  
 Castellano, G., Leite, I., & Paiva, A. (2017). *Detecting perceived quality of interaction with a robot using contextual features. Autonomous Robots*, 41(5), 1245–1261.
 
@@ -43,7 +43,7 @@ Hirsch, L., Björsell, A., Laaksoharju, M., & Obaid, M. (2017). Investigating De
 Obaid, M., Baykal, G.E., Yantaç, A.E., & Barendregt, W. (2017). Developing a Prototyping Method for Involving Children in the Design of Classroom Robots. *International Journal of Social Robotics*, Springer, 2017.
 
 
-2016
+#### 2016
 
 Papadopoulos, F. Küster, D. Corrigan, L. J., Kappas, A., & Castellano, G. (2016). Do relative positions and proxemics affect the engagement in a human-robot collaborative scenario? *Interaction Studies*, 17 (3).
 
@@ -64,7 +64,7 @@ Deshmukh, A.,  Janarthanam, S., Hastie, H.,  Lim, M. Y., Aylett, R., & Castellan
 Hall, L.,  Hume, C., Tazzyman, S., Deshmukh, A., Janarthanam, S., Hastie, H., Aylett, R.,  Castellano, G., Papadopoulos, F.,  Jones, A., Corrigan, L.G., Paiva, A., Alves Oliveira, P.,  Ribeiro, T.,  Barendregt, W., Serholt, W., &  Kappas, A. (2016). Map Reading with and Empathic Robot Tutor. *In Proceedings of the 2016 ACM/IEEE International Conference on Human-Robot Interaction, Christchurch*, New Zealand, Extended Abstracts, March 2016.
 
 
-2015
+#### 2015
 
 Castellano, G., Gunes, H., Peters, C., & Schuller, B. (2015). Multimodal Affect Recognition for Naturalistic Human-Computer and Human-Robot Interactions. *In Oxford Handbook of Affective Computing*, R. A. Calvo, S. D’Mello, J. Gratch, A. Kappas (eds.), Oxford University Press, 2015.
 
@@ -85,7 +85,7 @@ Deshmukh, A., Jones, A., Janarthanam, S., Foster, M.-E., Ribeiro, T., Corrigan, 
 Jones, A., Bull, S., & Castellano, G. (2015). Open Learner Modelling with a Robotic Tutor. *In Proceedings of the HRI Pioneers Workshop, ACM/IEEE International Conference on Human-Robot Interaction 2015*, Portland, USA.
 
 
-2014
+#### 2014
 
 Castellano, G., Leite, I., Pereira, A., Martinho, C., Paiva, A., & McOwan, P. W. (2014). *Context-Sensitive Affect Recognition for a Robotic Game Companion. ACM Transactions on Interactive Intelligent Systems*, 4(2).
 
@@ -106,7 +106,7 @@ Mancini, M., Ermilov, A., Castellano, G., Liarokapis, F., Varni, G., & Peters, C
 Corrigan, L.J., Basedow, C., Küster, D., Kappas, A., Peters, C., & Castellano, G. (2014). Mixing Implicit and Explicit Probes:  Finding a Ground Truth for Engagement in Social Human-Robot Interactions. *In Proceedings of the ACM/IEEE International Conference on Human-Robot Interaction (HRI’14)*, Bielefeld, Germany, March 2014. Best paper award nominee, late breaking reports.
 
 
-2013
+#### 2013
 
 Castellano, G., Leite, I., Pereira, A., Martinho, C., Paiva, A, & McOwan, P. W. (2013). Multimodal Affect Modelling and Recognition for Empathic Robot Companions. *International Journal of Humanoid Robotics*, 10(1).
 
@@ -132,7 +132,7 @@ Deshmukh, A., Castellano, G., Kappas, A., Barendregt, W., Nabais, F., Paiva, A.,
 
 Castellano, G., Karpouzis, K., Morency, L.-P., Martin, J.-C., Peters, C., & Riek, L. (2013). 5th International Workshop on Affective Interaction in Natural Environments (AFFINE): Interacting with Affective Artefacts in the Wild. *Proceedings of the 5th Humaine Association Conference on Affective Computing and Intelligent Interaction (ACII’13)*, Geneva, Switzerland, September 2013.
 
-2012
+#### 2012
 
 Castellano, G., Mancini, M., Peters, C., & McOwan, P.W. (2012). Expressive Copying Behavior for Social Agents: A Perceptual Analysis.  *IEEE Transactions on Systems, Man and Cybernetics, Part A - Systems and Humans*, 42(3), 776-783.
 
@@ -151,7 +151,7 @@ Leite, I., Castellano, G., Pereira, A., Martinho, C., & Paiva, A. (2012). Modell
 
 
 
-2011
+#### 2011
 
 Aylett, R., Castellano, G., Raducanu, B., Paiva, A., & Hanheide, M. (2011). Long-Term Socially Perceptive and Interactive Robot Companions: Challenges and Future Perspectives. *Proceedings of the International Conference on Multimodal Interaction (ICMI’11)*, Alicante, Spain, November 2011.
 
@@ -165,7 +165,7 @@ Sanghvi, J., Castellano, G., Leite, I., Pereira, A., McOwan, P. W., & Paiva, A. 
 
 Peters, C., Castellano, G., Rehm, M., Andre, E., Volpe, G., Camurri, A., Raouzaiou, A., Rapantzikos, K., Karpouzis, K., & Vasalou, A. (2011). Agent Perception and Attention Modelling. In P. Petta, C. Pelachaud & R. Cowie (Eds.), *Handbook of Emotion-Oriented Technologies*. Berlin: Springer-Verlag.
 
-2010
+#### 2010
 
 Castellano, G., & Peters, C. (2010). Socially Perceptive Robots: Challenges and Concerns. *Interaction Studies*, 11(2), John Benjamins Publishing Company.
 
@@ -186,7 +186,7 @@ Deshmukh, A., Castellano, G., Lim, M. Y., Aylett, R., & McOwan, P. W. (2010). Ub
 Leite, I., Pereira, A., Mascarenhas, S., Castellano, G., Martinho, C., Prada, R., & Paiva, A. (2010). Closing the Loop: from Affect Recognition to Empathic Interaction. *Proceedings of the 3rd International Workshop on Affect Interaction in Natural Environments*, ACM Multimedia 2010, Florence, Italy, October 2010. 
 
 
-2009
+#### 2009
 
 Castellano, G., Martin, J.-C., Murray, J., Karpouzis, K., and Peters, C. (2009). Proceedings of the International Workshop on Affective-Aware Virtual Agents and Social Robots. *International Conference on Multimodal Interfaces/Workshop on Machine Learning for Multimodal Interfaces (ICMI-MLMI’09)*, Cambridge, MA, USA, 2009.
 
@@ -207,7 +207,7 @@ Castellano, G., & McOwan, P. W. (2009). Analysis of Affective Cues in Human-Robo
 Leite, I., Pereira, A., Martinho, C., Paiva, A., & Castellano, G. (2009). Towards an Empathic Chess Companion. Proceedings of Workshop on Empathic Agents, *8th International Conference on Autonomous Agents and Multiagent Systems (AAMAS'09)*, Budapest, Hungary.
 
 
-2008
+#### 2008
 
 Castellano, G. (2008). Movement Expressivity Analysis in Affective Computers: From Recognition to Expression of Emotion. Ph.D. Thesis, Department of Communication, Computer and System Sciences, University of Genoa, Italy, February 2008.
 
@@ -223,7 +223,7 @@ Castellano, G., Aylett, R., Dautenhahn, K., Paiva, A., McOwan, P. W., & Ho, S. (
 Castellano, G., & McOwan, P. W. (2008). Movement Expressivity for Affect Sensitive Long-Term Artificial Companions. *Workshop "A Virtual Butler: Prerequisites to its Development"*, Vienna, Austria.
 
 
-2007
+#### 2007
 
 Castellano, G., Villalba, S. D., & Camurri, A. (2007). Recognising Human Emotions from Body Movement and Gesture Dynamics. Proceedings of 2nd International Conference on Affective Computing and Intelligent Interaction, Lisbon, Portugal. In A. Paiva, R. Prada, & R. W. Picard (Eds.), Affective Computing and Intelligent Interaction, *Lecture Notes in Computer Science*, Vol. 4738, (pp. 71-82). Berlin: Springer-Verlag 
 
@@ -244,11 +244,11 @@ Castellano, G., Camurri, A., Mazzarino, B., & Volpe, G. (2007). A Mathematical M
 Mancini, M., Castellano, G., Bevacqua, E., & Peters, C. (2007). Copying Behaviour of Expressive Motion. Proceedings of the 3rd Mirage International Conference, Versailles, France. In A. Gagalowicz & W. Philips (Eds.), Computer Vision/Computer Graphics Collaboration Techniques, *Lecture Notes in Computer Science*, Vol. 4418 (pp. 180-191). Berlin: Springer-Verlag.
 
 
-2006
+#### 2006
 
 Camurri, A., Castellano, G., Ricchetti, M., & Volpe, G. (2006). Subject Interfaces: Measuring Bodily Activation During an Emotional Experience of Music. In S. Gibet, N. Courty, & J. F. Kamp (Eds.), Gesture in Human-Computer Interaction and Simulation: 6th International Gesture Workshop, GW 2005, Berder Island, France, May 2005, Revised Selected Papers, *Lecture Notes in Artificial Intelligence*, Vol. 3881 (pp. 268-279). Berlin: Springer-Verlag.
 
-2005
+#### 2005
 
 Castellano, G., & Camurri, A. (2005). Experiments, Analysis and Models of Motor Activation as a Component of an Emotional Process. Symposium on Alternatives to Verbal Reports Measures of Appraisal and Emotion: Facial and Vocal Expression, *XIIIth Conference of the International Society for Research on Emotions (ISRE)*, Bari, Italy, July 11-15, 2005.
 
@@ -258,7 +258,7 @@ Camurri, A., Castellano, G., Coletta, P., Massari, A., Mazzarino, B., Varni, G.,
 
 Camurri, A., Castellano, G., Ricchetti, M., & Volpe, G. (2005). Subject Interfaces: Measuring Bodily Activation During an Emotional Experience of Music. *Proceedings of the 6th International Workshop on Gesture in Human-Computer Interaction and Simulation*, Berder Island, France, 2005.
 
-2004
+#### 2004
 
 Camurri, A., Castellano, G., Mazzarino, B., Varni, G., & Volpe, G. (2004). Expressive Gesture Analysis and Expressive Gestural Control Strategies. Proceedings of Stockholm Music and Music Science Symposium, Stockholm, Sweden.
 
