@@ -1,3 +1,8 @@
+---
+layout: post
+title: News
+---
+
 **November 2018**: Ginevra will give a talk at [**TEDxUppsalaUniversity 2018**](https://tedxuppsalauniversity.com/speakers/) titled *Can we bond with social robots?*
 
 
