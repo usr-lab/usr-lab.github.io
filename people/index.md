@@ -125,7 +125,7 @@ function toggleAbstract(btn) {
     </div>
 </div>
 <p style="clear:both;"></p>
-<button class="button black" onclick="window.open('https://maike-paetzel.de/')" type="button">Website in Preparation</button>
+<button class="button black" onclick="window.open('http://katalog.uu.se/profile/?id=N18-2160')" type="button">Giulia Perugia's Website</button>
 
 <h3>Mohammad Obaid</h3>
 <h4 style="color:grey"> Visiting Researcher </h4>
