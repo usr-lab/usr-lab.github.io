@@ -162,7 +162,7 @@ function toggleAbstract(btn) {
 		<img src='../images/people-alex.jpg' class='iconDetails'>
     </div>  
     <div style='margin-left:25%;'>
-    <div style="font-size:.8em"> Alex Yuan Gao is a Ph.D. candidate, who wants to live in a world filled with innovative businesses, robots, books that come bundled with extra hot chocolate and a steampunk-styled force field around his keyboard that repels cats. He is interested in machine learning, as applied to (social) robotics. In particular, he is interested in deep/reinforcement/neuro-based learning approaches to robotic perception, control, and physical modeling of the robot's environment. Currently, he is working on projects that can fill the gap between deep reinforcement learning and social robotics.</div>
+    <div style="font-size:.8em"> (Alex) Yuan Gao is a Ph.D. candidate at Uppsala University. His research interests are driven by a final goal of developing AI-driven robots that can think and feel like real humans (e.g. Ex Machina). This encircles robot's learning and control, nature language processing, image processing, neuroscience and computational phycology. In particular, he is interested in deep/reinforcement/neuro-based learning approaches to robotic perception, control, and physical modeling of the robot’s environment, which can help us to understand ourselves and build a unified learning structure for adaptive, efficient and robust complex robotic system. Currently, he is working on projects that can fill the gap between deep reinforcement learning and social robotics.</div>
     </div>
 </div>
 <p style="clear:both;"></p>
