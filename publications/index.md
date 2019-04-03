@@ -13,7 +13,7 @@ Obaid, M., Aylett, R., Barendregt, W., Basedow, C. A., Corrigan, L. J., Hall, L.
 
 Chengjie, L., Androulakaki, T., Gao, Y., Fangkai, Y., Saikia, H,. Peters, C., & Skantze, G. Effects of Posture and Embodiment on Social Distance in Human-Agent Interaction in Mixed Reality, *18th ACM International Conference on Intelligent Virtual Agents*, 2018. 
 
-Paetzel, M., Kennedy, J., Castellano, G., & Lehman, J. (2018). Incremental Acquisition and Reuse of Multimodal Affective Behaviors in a Conversational Agent. To appear in *International Conference on Human-Agent Interaction* 2018. 
+Paetzel, M., Kennedy, J., Castellano, G., & Lehman, J. (2018). Incremental Acquisition and Reuse of Multimodal Affective Behaviors in a Conversational Agent. *International Conference on Human-Agent Interaction* 2018. 
 
 Jones, A., & Castellano, G. (2018). Adaptive Robotic Tutors that Support Self-Regulated Learning: A Longer-Term Investigation with Primary School Children. *International Journal of Social Robotics*, 10(3), 357-370.
 
