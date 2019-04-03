@@ -4,8 +4,8 @@ title: Publications
 
 #### 2019 
 
-Alves Oliveira, P., Sequeira, P., Melo, F., Castellano, G., Paiva, A. (In press). Empathic Robot for  
-Group Learning: A Field Study. *ACM Transactions in Human-Robot Interaction*. [https://arxiv.org/abs/1902.01800](https://arxiv.org/abs/1902.01800)
+Alves Oliveira, P., Sequeira, P., Melo, F., Castellano, G., Paiva, A. (In press). Empathic Robot for Group Learning: A Field Study. *ACM Transactions in Human-Robot Interaction*. 
+[https://arxiv.org/abs/1902.01800](https://arxiv.org/abs/1902.01800)
 
 #### 2018 
 
