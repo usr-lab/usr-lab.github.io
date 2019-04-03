@@ -11,7 +11,7 @@ Group Learning: A Field Study. *ACM Transactions in Human-Robot Interaction*. [h
 
 Obaid, M., Aylett, R., Barendregt, W., Basedow, C. A., Corrigan, L. J., Hall, L., Jones, A., Kappas, A., Küster, D., Paiva, A., Papadopoulos, F., Serholt, S., & Castellano, G. (2018). Endowing a Robotic Tutor with Empathic Qualities: Exploring Children's Learning and Perceptions. *International Journal of Humanoid Robotics*, 15(6).
 
-Chengjie, L., Androulakaki, T., Yuan, G., Fangkai, Y., Saikia, H,. Peters, C., & Skantze, G. Effects of Posture and Embodiment on Social Distance in Human-Agent Interaction in Mixed Reality, *18th ACM International Conference on Intelligent Virtual Agents*, 2018. 
+Chengjie, L., Androulakaki, T., Gao, Y., Fangkai, Y., Saikia, H,. Peters, C., & Skantze, G. Effects of Posture and Embodiment on Social Distance in Human-Agent Interaction in Mixed Reality, *18th ACM International Conference on Intelligent Virtual Agents*, 2018. 
 
 Paetzel, M., Kennedy, J., Castellano, G., & Lehman, J. (2018). Incremental Acquisition and Reuse of Multimodal Affective Behaviors in a Conversational Agent. To appear in *International Conference on Human-Agent Interaction* 2018. 
 
@@ -21,9 +21,9 @@ Jones, A., Bull, S., & Castellano, G. (2018). “I Know That Now, I’m Going to
 
 Johal, W., Castellano, G., Tanaka, F., & Okita, S. (2018). Robots for Learning. *International Journal of Social Robotics*, 10(3), 293–294.
  
-Yuan, G., Barendregt, W., Obaid, M., & Castellano, G. (2018). When robot personalisation does not help: Insights from a robot-supported learning study. *IEEE International Symposium on Robot and Human Interactive Communication* (RO-MAN 2018).
+Gao, Y., Barendregt, W., Obaid, M., & Castellano, G. (2018). When robot personalisation does not help: Insights from a robot-supported learning study. *IEEE International Symposium on Robot and Human Interactive Communication* (RO-MAN 2018).
  
-Yuan, G., Wallkötter, S., Obaid, M., & Castellano, G. (2018). Investigating Deep Learning Approaches for Human-Robot Proxemics. IEEE *International Symposium on Robot and Human Interactive Communication (RO-MAN 2018)*, 2018.
+Gao, Y., Wallkötter, S., Obaid, M., & Castellano, G. (2018). Investigating Deep Learning Approaches for Human-Robot Proxemics. IEEE *International Symposium on Robot and Human Interactive Communication (RO-MAN 2018)*, 2018.
  
 Paetzel, M., Varni, G., Hupont, I., Chetouani, M., Peters, C., & Castellano, G. (2018). The Attribution of Emotional State – How Embodiment Features and Social Traits Affect the Perception of an Artificial Agent. *IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN 2018)*, 2018. 
 
@@ -39,7 +39,7 @@ Paetzel, M., Varni, G., Hupont, I., Chetouani, M., Peters, C., & Castellano, G. 
 
 Obaid, M. Yuan, G., Barendregt, W., & Castellano, G. (2017). *Exploring Tangible Implicit Probes to Measure Human-Robot Engagement. 9th Intl. Conference on Social Robotics (ICSR 2017)*, Tsukuba, Japan, 2017.
 
-Yuan, G., Barendregt, W., & Ginevra Castellano (2017). Personalised Human-Robot Co-Adaptation in Instructional Settings using Reinforcement Learning. In Workshop “Persuasive Embodied Agents for Behavior Change”, *International Conference on Intelligent Virtual Agents 2017 (IVA 2017)*.
+Gao, Y., Barendregt, W., & Ginevra Castellano (2017). Personalised Human-Robot Co-Adaptation in Instructional Settings using Reinforcement Learning. In Workshop “Persuasive Embodied Agents for Behavior Change”, *International Conference on Intelligent Virtual Agents 2017 (IVA 2017)*.
 
 Hirsch, L., Björsell, A., Laaksoharju, M., & Obaid, M. (2017). Investigating Design Implications Towards a Social Robot as a Memory Trainer.  *In Proceedings of the Fourth International Conference on Human Agent Interaction (HAI ’17)*, ACM, 2017.
 
