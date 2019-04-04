@@ -14,7 +14,7 @@ In order to successfully cooperate with humans, robots need to learn new skills 
 
 ### Selected Publications
 
-Yuan, G., Barendregt, W., Obaid, M., & Castellano, G. (2018). When robot personalisation does not help: Insights from a robot-supported learning study. *IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN 2018)*. [[PDF](http://user.it.uu.se/~ginca820/YG-WB-EtAl-ROMAN-2018.pdf)]
+Gao, Y., Barendregt, W., Obaid, M., & Castellano, G. (2018). When robot personalisation does not help: Insights from a robot-supported learning study. *IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN 2018)*. [[PDF](http://user.it.uu.se/~ginca820/YG-WB-EtAl-ROMAN-2018.pdf)]
 
 Sequeira, P., Alves-Oliveira, P., Ribeiro, T., Di Tullio, E., Petisca., S., Melo, F. S., Castellano, G., & Paiva, A. (2016). Discovering Social Interaction Strategies for Robots from Restricted-Perception Wizard-of-Oz Studies. *In Proceedings of the 2016 ACM/IEEE International Conference on Human-Robot Interaction (HRI 2016)*.**Best paper award**. [[PDF](http://user.it.uu.se/~ginca820/PS-EtAl-HRI-2016.pdf)]
 
