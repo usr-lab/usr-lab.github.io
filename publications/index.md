@@ -3,7 +3,7 @@ title: Publications
 ---
 
 #### 2019 
-Gao, Y., Sibirtseva, E., Castellano, G., Kragic, D. (2019). Fast Adaptation with Meta-Reinforcement Learning for Trust Modelling in Human-Robot Interaction. *IEEE/RSJ International Conference on Intelligent Robots and Systems*, 2019. 
+Gao, Y., Sibirtseva, E., Castellano, G., Kragic, D. (2019). Fast Adaptation with Meta-Reinforcement Learning for Trust Modelling in Human-Robot Interaction. *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019)*, 2019. 
 
 Alves Oliveira, P., Sequeira, P., Melo, F., Castellano, G., Paiva, A. (2019). Empathic Robot for Group Learning: A Field Study. *ACM Transactions in Human-Robot Interaction*, 8(1). 
 
