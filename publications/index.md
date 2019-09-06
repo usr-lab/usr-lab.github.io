@@ -5,6 +5,10 @@ title: Publications
 #### 2019 
 Gao, Y., Sibirtseva, E., Castellano, G., Kragic, D. (2019). Fast Adaptation with Meta-Reinforcement Learning for Trust Modelling in Human-Robot Interaction. *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019)*, 2019. 
 
+Gao Y., Fangkai Y., Martin F., Daniel H., Christopher P., Ginevra C. (2019). Learning Socially Appropriate Robot Approaching Behavior Toward Groups using Deep Reinforcement Learning. *The 28th IEEE International Conference on Robot & Human Interactive Communication (RO-MAN 2019)*, 2019. 
+
+Hernandez D., Denamgana K., Gao Y., Y. Peter, Sam D., Samothrakis S. and Walker J. A.  A Generalized Framework for Self-Play Training, *IEEE/RSJ International Conference on Games (CoG 2019)*, 2019
+
 Alves Oliveira, P., Sequeira, P., Melo, F., Castellano, G., Paiva, A. (2019). Empathic Robot for Group Learning: A Field Study. *ACM Transactions in Human-Robot Interaction*, 8(1). 
 
 #### 2018 
