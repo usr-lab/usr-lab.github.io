@@ -2,6 +2,20 @@
 layout: post
 title: News
 ---
+**October 2019**: Ginevra received the **10 year Technical Impact Award** at the [**ACM International Conference on Multimodal Interaction (ICMI) 2019**](http://icmi.acm.org/2019/), for her paper "Detecting user engagement with a robot companion using task and social interaction-based features" published in 2009.
+The Ten-Year Technical Impact Award  is awarded to a scientist or group of scientists for contributing a seminal paper published in ICMI (or previous conferences/workshops that evolved into ICMI) that has had the largest influence in shaping an area within the field of multimodal interaction, interfaces, and system development.
+
+**October 2019**: Alex presented paper "Learning Socially Appropriate Robot Approaching Behavior Toward Groups using Deep Reinforcement Learning" at <a class="news-link" href="http://ro-man2019.org/">ROMAN</a> conference, 2019.
+
+**October 2019**: we received a visit from the Aros Rotary Club Uppsala
+
+
+**September 2019**: Ginevra received funding for the project [**"The ethics and social consequences of AI and caring robots. Learning trust, empathy and accountability”**](http://wasp-hs.org/), supported by the Marianne and Marcus Wallenberg Foundation, Sweden, in collaboration with Linköping University
+
+**September 2019**: 
+
+**May 2019**: We received a visit from [Prof. Roberto Bresin’s](https://www.kth.se/profile/roberto) group, Division of Media Technology and Interaction Design, KTH, Stockholm
+
 **March 2019**: Our lab will have a booth at [SciFest](https://www.scifest.uu.se).
 
 **November 2018**: Ginevra will give a talk at [**TEDxUppsalaUniversity 2018**](https://tedxuppsalauniversity.com/speakers/) titled *Can we bond with social robots?*
