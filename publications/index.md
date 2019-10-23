@@ -7,6 +7,10 @@ Gao, Y., Sibirtseva, E., Castellano, G., Kragic, D. (2019). Fast Adaptation with
 
 Gao Y., Fangkai Y., Martin F., Daniel H., Christopher P., Ginevra C. (2019). Learning Socially Appropriate Robot Approaching Behavior Toward Groups using Deep Reinforcement Learning. *The 28th IEEE International Conference on Robot & Human Interactive Communication (RO-MAN 2019)*, 2019. 
 
+Paetzel, M., Castellano, G. (2019). Let Me Get To Know You Better - Can Interactions Help to Overcome Uncanny Feelings? *7th annual International Conference on Human-Agent Interaction (HAI)*, 2019.
+
+Paetzel, M., Manuvinakurike, R. (2019). "Can you say more about the location?" The Development of a Pedagogical Reference Resolution Agent. *Dialog for Good - Workshop on Speech and Language Technology Serving Society (DiGo)*, 2019.
+
 Hernandez D., Denamgana K., Gao Y., Y. Peter, Sam D., Samothrakis S. and Walker J. A.  A Generalized Framework for Self-Play Training, *IEEE/RSJ International Conference on Games (CoG 2019)*, 2019
 
 Alves Oliveira, P., Sequeira, P., Melo, F., Castellano, G., Paiva, A. (2019). Empathic Robot for Group Learning: A Field Study. *ACM Transactions in Human-Robot Interaction*, 8(1). 
