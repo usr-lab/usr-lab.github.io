@@ -200,7 +200,7 @@ function toggleAbstract(btn) {
 <h4 style="color:grey">  Master Student </h4>
 <div class='container'>
     <div>
-		<img src='../images/people-sita.png' class='iconDetails'>
+		<img src='../images/people-sita.jpg' class='iconDetails'>
     </div>  
     <div style='margin-left:25%;'>
     <div style="font-size:.8em"> Sita Vriend is a master student in Human-Computer Interaction at Uppsala University and an intern at the social robotics lab. She received a BSc in game architecture and design from the Breda university of applied sciences (the Netherlands). She provides an interesting combination with her experience and knowledge in game design, and her knowledge in usability and UX methods.   </div>
