@@ -126,21 +126,7 @@ function toggleAbstract(btn) {
 </div>
 <p style="clear:both;"></p>
 <button class="button black" onclick="window.open('http://katalog.uu.se/profile/?id=N18-2160')" type="button">Giulia Perugia's Website</button>
-<!--
-<h3>Mohammad Obaid</h3>
-<h4 style="color:grey"> Visiting Researcher </h4>
-<div class='container'>
-    <div>
-		<img src='../images/people-mohammad.jpg' class='iconDetails'>
-    </div>  
-    <div style='margin-left:25%;'>
-    <div style="font-size:.8em"> Dr. Mohammad Obaid received his BSc., MSc. (First Class Honors) and Ph.D. degrees in Computer Science from the University of Canterbury, Christchurch, New Zealand, in 2004, 2007 and 2011, respectively. He worked at several international research centers including the Human Centered Multimedia Lab (HCM Lab), University of Augsburg (Germany), the Human Interface Technology Lab New Zealand (HITLab NZ), University of Canterbury (New Zealand), and the t2i Lab, Chalmers University of Technology (Sweden). In 2016, he joined the the Social Robotics Lab, Department of Information Technology, Uppsala University (Uppsala, Sweden) as a researcher.</div>
-    </div>
-</div>
-<p style="clear:both;"></p>
-<button class="button black" onclick="window.open('http://t2i.se/mohammad-obaid/')" type="button">
-	Mohammad Obaid's Personal Website</button>
--->
+
 <h3> Maike Paetzel </h3>
 <h4 style="color:grey">  Ph.D. Candidate </h4>
 <div class='container'>
