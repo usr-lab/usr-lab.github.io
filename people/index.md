@@ -126,7 +126,7 @@ function toggleAbstract(btn) {
 </div>
 <p style="clear:both;"></p>
 <button class="button black" onclick="window.open('http://katalog.uu.se/profile/?id=N18-2160')" type="button">Giulia Perugia's Website</button>
-
+<!--
 <h3>Mohammad Obaid</h3>
 <h4 style="color:grey"> Visiting Researcher </h4>
 <div class='container'>
@@ -140,7 +140,7 @@ function toggleAbstract(btn) {
 <p style="clear:both;"></p>
 <button class="button black" onclick="window.open('http://t2i.se/mohammad-obaid/')" type="button">
 	Mohammad Obaid's Personal Website</button>
-	
+-->
 <h3> Maike Paetzel </h3>
 <h4 style="color:grey">  Ph.D. Candidate </h4>
 <div class='container'>
