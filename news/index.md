@@ -16,7 +16,7 @@ The Ten-Year Technical Impact Award  is awarded to a scientist or group of scien
 
 **September 2019**: Ginevra received funding for the project [**"The ethics and social consequences of AI and caring robots. Learning trust, empathy and accountability”**](http://wasp-hs.org/), supported by the Marianne and Marcus Wallenberg Foundation, Sweden, in collaboration with Linköping University
 
-**September 2019**: we showcased our research at the 100-year celebration of [**The Royal Swedish Academy of Engineering Sciences (IVA)**] (https://www.iva.se/iva-in-english1/) at Tekniska Museet in Stockholm.
+**September 2019**: we showcased our research at the 100-year celebration of the [**Royal Swedish Academy of Engineering Sciences (IVA)**] (https://www.iva.se/iva-in-english1/) at Tekniska Museet in Stockholm.
 
 **August 2019**: [Kerstin Fischer](https://www.sdu.dk/en/om_sdu/institutter_centre/idk/projekter/human-robot+interaction/research+team/kerstin+fischer), the Director of the Human-Robot Interaction Lab Sønderborg, visited our lab.
 
