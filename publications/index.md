@@ -2,6 +2,9 @@
 title: Publications
 ---
 
+#### 2020
+Wallkötter, S., Stower, R., Kappas, A., Castellano, G. (2020). A Robot by Any Other Frame: Framing and Behaviour Influence Mind Perception in Virtual but not Real-World Environments. *2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI2020)*. https://doi.org/10.1145/3319502.3374800
+
 #### 2019 
 Gao, Y., Sibirtseva, E., Castellano, G., Kragic, D. (2019). Fast Adaptation with Meta-Reinforcement Learning for Trust Modelling in Human-Robot Interaction. *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019)*, 2019. 
 
