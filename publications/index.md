@@ -3,6 +3,8 @@ title: Publications
 ---
 
 #### 2020
+Calvo Barajas, N., El-Garf, M., Perugia, G., Peters, C., & Castellano, G. (2020). Can a Social Robot Be Persuasive Without Losing Children’s Trust? *15th ACM/IEEE International Conference on Human Robot Interaction (HRI), 2020*. Late breaking reports.
+
 Paetzel, M., Karkada, D., Manuvinakurike, R. (2020). RDG-Map: A Multimodal Corpus of Pedagogical Human-Agent Spoken Interactions. *International Conference on Language Resources and Evaluation (LREC 2020)*, 2020.
 
 Wallkötter, S., Stower, R., Kappas, A., Castellano, G. (2020). A Robot by Any Other Frame: Framing and Behaviour Influence Mind Perception in Virtual but not Real-World Environments. *2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI2020)*, 2020. https://doi.org/10.1145/3319502.3374800
