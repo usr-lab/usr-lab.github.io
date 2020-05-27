@@ -6,10 +6,10 @@ title: Projects
 	float: left;
 	width:25%;
     height:25%;
-	max-height:180px;
+	max-height:150px;
 	max-width:200px; 
 	border-radius: 10px;
-	overflow: hidden;
+	object-fit: cover;
 } 
 
 .container {
