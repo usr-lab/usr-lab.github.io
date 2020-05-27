@@ -21,4 +21,3 @@ Paetzel, M., Varni, G., Hupont, I., Chetouani, M., Peters, C., & Castellano, G. 
 
 Paetzel, M., Varni, G., Hupont, I., Chetouani, M., Peters, C., & Castellano, G. (2017). Investigating the Influence of Embodiment on Facial Mimicry in HRI Using Computer Vision-Based Measures. *IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN 2017)*, 2017. [[PDF](http://user.it.uu.se/~ginca820/MP-EtAl-ROMAN-2017.pdf)]
 
-Castellano, G., Mancini, M., Peters, C., & McOwan, P.W. (2012). Expressive Copying Behavior for Social Agents: A Perceptual Analysis.  *IEEE Transactions on Systems, Man and Cybernetics, Part A - Systems and Humans*, 42(3), 776-783. [[PDF]( http://user.it.uu.se/~ginca820/GC-SMCA-2012.pdf)]
