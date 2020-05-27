@@ -20,4 +20,3 @@ Gao, Y., Barendregt, W., Obaid, M., & Castellano, G. (2018). When robot personal
 
 Sequeira, P., Alves-Oliveira, P., Ribeiro, T., Di Tullio, E., Petisca., S., Melo, F. S., Castellano, G., & Paiva, A. (2016). Discovering Social Interaction Strategies for Robots from Restricted-Perception Wizard-of-Oz Studies. *In Proceedings of the 2016 ACM/IEEE International Conference on Human-Robot Interaction (HRI 2016)*.**Best paper award**. [[PDF](http://user.it.uu.se/~ginca820/PS-EtAl-HRI-2016.pdf)]
 
-Leite, I., Castellano, G., Pereira, A., Martinho, C., & Paiva, A. (2014). Empathic Robots for Long-term Interaction: Evaluating Social Presence, Engagement and Perceived Support in Children. International Journal of Social Robotics, 6(3): 329-341. [[PDF](http://user.it.uu.se/~ginca820/IL-EtAl-IJSR-2014.pdf)]
