@@ -14,6 +14,9 @@ permalink: /synergies.html
  
 ### Selected Publications
 
+
+Paetzel, M., Perugia, G., Castellano, G. (2020). The Persistence of First Impressions: The Effect of Repeated Interactions on the Perception of a Social Robot. *ACM/IEEE International Conference on Human-Robot Interaction 2020 (HRI2020)*, 2020.  [[PDF](http://user.it.uu.se/~ginca820/MP-GP-GC-HRI_2020.pdf)]
+
 Paetzel, M., Varni, G., Hupont, I., Chetouani, M., Peters, C., & Castellano, G. (2018). The Attribution of Emotional State – How Embodiment Features and Social Traits Affect the Perception of an Artificial Agent. *IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN 2018)*, 2018. [[PDF](http://user.it.uu.se/~ginca820/MP-RO-MAN-2018.pdf)]
 
 Paetzel, M., Varni, G., Hupont, I., Chetouani, M., Peters, C., & Castellano, G. (2017). Investigating the Influence of Embodiment on Facial Mimicry in HRI Using Computer Vision-Based Measures. *IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN 2017)*, 2017. [[PDF](http://user.it.uu.se/~ginca820/MP-EtAl-ROMAN-2017.pdf)]
