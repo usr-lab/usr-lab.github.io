@@ -98,6 +98,15 @@ function toggleAbstract(btn) {
 }
 </script>
 
+<div class='container'>
+    <div>
+		<img src='../images/project-ethic.png' class='iconDetails'>
+    </div>  
+    <div style='margin-left:30%;'>
+		<a href=""><h4>The ethics and social consequences of AI & caring robots. Learning trust, empathy and accountability</h4></a>
+		<div style="font-size:.8em"> It is likely that robots will soon be providing us with health and social care at different stages of our lives. For this to work, the robots must be able to build trusting relationships with people and act in a manner that is ethically acceptable. One important aspect of these relational intra-actions, and a challenge for researchers working with human-machine interaction,is therefore to program robots to behave sympathetically and accessibly. The project, funded by the Marianne and Marcus Wallenberg Foundation, is a collaboration with social science researchers at Linköping University.</div>
+	</div>
+</div>
 
 <div class='container'>
     <div>
