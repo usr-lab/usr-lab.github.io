@@ -6,7 +6,7 @@ title: Projects
 	float: left;
 	width:25%;
     height:25%;
-	max-height:200px;
+	max-height:180px;
 	max-width:200px; 
 	border-radius: 10px;
 } 
