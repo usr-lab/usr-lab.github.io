@@ -9,6 +9,7 @@ title: Projects
 	max-height:180px;
 	max-width:200px; 
 	border-radius: 10px;
+	overflow: hidden;
 } 
 
 .container {
