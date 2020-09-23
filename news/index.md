@@ -3,7 +3,7 @@ layout: post
 title: News
 ---
  
-**December 2019**: we had three full papers accepted at the [**HRI 2020 conference**](https://humanrobotinteraction.org/2020/)! 
+**December 2019**: we had two full papers accepted at the [**HRI 2020 conference**](https://humanrobotinteraction.org/2020/)! 
 
 **October 2019**: we received a visit from the Aros Rotary Club Uppsala we had two full papers accepted 
 
