@@ -2,7 +2,7 @@
 layout: post
 title: News
 ---
-**March 2020**: We showcased the lab's research at this year's [SciFest] (https://www.scifest.uu.se), Uppsala's yearly Science Festival.
+**March 2020**: We showcased the lab's research at this year's [SciFest](https://www.scifest.uu.se), Uppsala's yearly Science Festival.
 
 **January 2020**: Ginevra gave the talk "Social Artificial Intelligence: Towards Human-Centric Robotics" at the 20-year celebration of the Department of Information Technology, Uppsala University.
 
