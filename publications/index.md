@@ -3,6 +3,10 @@ title: Publications
 ---
 
 #### 2020
+Oertel, C., Castellano, G., Chetouani, M., Nasir, J., Obaid, M., Pelachaud, C., and Peters, C. (2020). Engagement in Human-Agent Interaction: An Overview.
+*Frontiers in Robotics and AI, Human-Robot Interaction section*, 2020.
+
+Calvo-Barajas, N., Perugia, G., & Castellano, G. (2020). The Effects of Robot's Facial Expressions on Children's First Impressions of Trustworthiness. In the *29th IEEE International Conference on Robot & Human Interactive Communication (ROMAN 2020)*, 2020.
 
 Paetzel, M., Karkada, D., Manuvinakurike, R. (2020). RDG-Map: A Multimodal Corpus of Pedagogical Human-Agent Spoken Interactions. *International Conference on Language Resources and Evaluation (LREC 2020)*, 2020.
 
@@ -10,7 +14,7 @@ Paetzel, M., Perugia, G., Castellano, G. (2020). The Persistence of First Impres
 
 Wallkötter, S., Stower, R., Kappas, A., Castellano, G. (2020). A Robot by Any Other Frame: Framing and Behaviour Influence Mind Perception in Virtual but not Real-World Environments. *2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI2020)*, 2020. https://doi.org/10.1145/3319502.3374800
 
-Calvo Barajas, N., El-Garf, M., Perugia, G., Peters, C., & Castellano, G. (2020). Can a Social Robot Be Persuasive Without Losing Children’s Trust? *In Companion of the 2020 ACM/IEEE International Conference on Human Robot Interaction (HRI2020)*, 2020. https://doi.org/10.1145/3371382.3378272
+Calvo-Barajas, N., El-Garf, M., Perugia, G., Peters, C., & Castellano, G. (2020). Can a Social Robot Be Persuasive Without Losing Children’s Trust?. *In Companion of the 2020 ACM/IEEE International Conference on Human Robot Interaction (HRI2020)*, 2020. https://doi.org/10.1145/3371382.3378272
 
 
 #### 2019 
