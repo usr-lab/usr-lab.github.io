@@ -2,6 +2,13 @@
 layout: post
 title: News
 ---
+**May 2020**: Ginevra received funding for the project **"Robot-assisted diagnosis of women’s depression around childbirth"**, supported by Uppsala University's WoMHeR (Women's Mental Health during the Reproductive Lifespan) Centre.
+
+**May 2020**: Ginevra received funding for the project [**"Explainable deep learning methods for human-human and human-robot interaction", supported by
+Uppsala University's Centre for Interdisciplinary Mathematics**](link: https://www.math.uu.se/research/cim/).
+
+**May 2020**: Our lab organised a watch party on Zoom around a number of papers accepted at [HRI 2020](http://humanrobotinteraction.org/2020/).
+
 **March 2020**: We showcased the lab's research at this year's [SciFest](https://www.scifest.uu.se), Uppsala's yearly Science Festival.
 
 **January 2020**: Ginevra gave the talk "Social Artificial Intelligence: Towards Human-Centric Robotics" at the 20-year celebration of the Department of Information Technology, Uppsala University.
