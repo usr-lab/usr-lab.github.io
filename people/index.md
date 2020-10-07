@@ -179,7 +179,7 @@ function toggleAbstract(btn) {
     <div style="font-size:.8em"> Natalia Calvo is a Ph.D. student in the Social Robotics Lab. She believes in a world where robots can actively assist humans in different scenarios.  Her work is focused on modeling trust in human-robot educational interactions, and it is part of the ANIMATAS Project funded by Horizon 2020. Her research interests cover deep learning and human-robot interaction towards an interdisciplinary approach mostly focused on manipulation tasks, speech recognition interfaces, computer vision, and social robotics.    </div>
 </div>
 <p style="clear:both;"></p>
-<button class="button black" onclick="window.open('http://www.natycalvo.com')" type="button">
+<button class="button black" onclick="window.open('https://www.it.uu.se/katalog/natca979')" type="button">
 	Natalia Calvo's Personal Website</button>	
 
 <h3>Sita Vriend</h3>
