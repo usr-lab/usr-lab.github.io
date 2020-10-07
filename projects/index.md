@@ -101,7 +101,7 @@ function toggleAbstract(btn) {
 
 <div class='container'>
     <div>
-		<img src='../images/project-ethic.png' class='iconDetails'>
+		<img src='../images/project-ethics-2.jpg' class='iconDetails'>
     </div>  
     <div style='margin-left:30%;'>
 		<a href="https://wasp-hs.org/projects/the-ethics-and-social-consequences-of-ai-caring-robots-learning-trust-empathy-and-accountability/"><h4>The ethics and social consequences of AI & caring robots. Learning trust, empathy and accountability</h4></a>
