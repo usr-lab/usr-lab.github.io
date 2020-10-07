@@ -10,7 +10,8 @@ Paetzel, M., Perugia, G., Castellano, G. (2020). The Persistence of First Impres
 
 Wallkötter, S., Stower, R., Kappas, A., Castellano, G. (2020). A Robot by Any Other Frame: Framing and Behaviour Influence Mind Perception in Virtual but not Real-World Environments. *2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI2020)*, 2020. https://doi.org/10.1145/3319502.3374800
 
-Calvo Barajas, N., El-Garf, M., Perugia, G., Peters, C., & Castellano, G. (2020). Can a Social Robot Be Persuasive Without Losing Children’s Trust? *15th ACM/IEEE International Conference on Human Robot Interaction (HRI), 2020*. Late breaking reports.
+Calvo Barajas, N., El-Garf, M., Perugia, G., Peters, C., & Castellano, G. (2020). Can a Social Robot Be Persuasive Without Losing Children’s Trust? *In Companion of the 2020 ACM/IEEE International Conference on Human Robot Interaction (HRI2020)*, 2020. https://doi.org/10.1145/3371382.3378272
+
 
 #### 2019 
 Gao, Y., Sibirtseva, E., Castellano, G., Kragic, D. (2019). Fast Adaptation with Meta-Reinforcement Learning for Trust Modelling in Human-Robot Interaction. *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019)*, 2019. 
@@ -61,7 +62,7 @@ Gao, Y., Barendregt, W., & Ginevra Castellano (2017). Personalised Human-Robot C
 
 Hirsch, L., Björsell, A., Laaksoharju, M., & Obaid, M. (2017). Investigating Design Implications Towards a Social Robot as a Memory Trainer.  *In Proceedings of the Fourth International Conference on Human Agent Interaction (HAI ’17)*, ACM, 2017.
 
-Obaid, M., Baykal, G.E., Yantaç, A.E., & Barendregt, W. (2017). Developing a Prototyping Method for Involving Children in the Design of Classroom Robots. *International Journal of Social Robotics*, Springer, 2017.
+Obaid, M., Baykal, G.E., Yantaç, A.E., & Barendregt, W. (2017). Developing a Prototyping Method for Involving Children in the Design of Classroom Robots. *International Journal of Social Robotics*, Springer, 2017.
 
 
 #### 2016
