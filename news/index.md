@@ -2,7 +2,8 @@
 layout: post
 title: News
 ---
- 
+**January 2020**: Ginevra gave the talk "Social Artificial Intelligence: Towards Human-Centric Robotics" at the 20-year celebration of the Department of Information Technology, Uppsala University.
+
 **December 2019**: we had two full papers accepted at the [**HRI 2020 conference**](https://humanrobotinteraction.org/2020/)! 
 
 **October 2019**: we received a visit from the Aros Rotary Club Uppsala we had two full papers accepted 
