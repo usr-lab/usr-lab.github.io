@@ -2,7 +2,7 @@
 layout: post
 title: News
 ---
-**September 2020**: Natalia presented her paper "The Effects of Robot’s Facial Expressions on Children’s First Impressions of Trustworthiness" at <a class="news-link" href="http://ro-man2020.unina.it/index.php">ROMAN</a> virtual conference, 2020. 
+**September 2020**: Natalia presented her paper "The Effects of Robot’s Facial Expressions on Children’s First Impressions of Trustworthiness" at <a class="news-link" href="http://ro-man2020.unina.it/index.php">ROMAN</a> virtual conference, 2020. Our paper was finalist for two categories, **Best Paper Award** and **RSJ/KROS Distinguished Interdisciplinary Research Award**. 
 
 **September 2020**: Marc Fraile Fabrega joined the lab as a PhD student.
 
