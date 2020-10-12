@@ -182,6 +182,19 @@ function toggleAbstract(btn) {
 <button class="button black" onclick="window.open('https://www.it.uu.se/katalog/natca979')" type="button">
 	Natalia Calvo's Personal Website</button>	
 
+<h3>Marc Fraile</h3>
+<h4 style="color:grey">  Ph.D. Candidate </h4>
+<div class='container'>
+    <div>
+		<img src='../images/people-marc.jpg' class='iconDetails'>
+    </div>
+    <div style='margin-left:25%;'>
+    <div style="font-size:.8em"> Marc Fraile is a Ph.D. candidate under the Centre for Interdisciplinary Mathematics (CIM) at Uppsala University. He conducts his research in Uppsala Social Robotics Lab, in close collaboration with the Methods for Image Data Analysis (MIDA) group. His interests lie in developing explainable AI (XAI) methods, and applying those to make more trustable machines. </div>
+</div>
+<p style="clear:both;"></p>
+<button class="button black" onclick="window.open('https://www.it.uu.se/katalog/marfr327')" type="button">
+	Marc Fraile's Personal Website</button>
+
 <h3>Sita Vriend</h3>
 <h4 style="color:grey">  Master Student </h4>
 <div class='container'>
