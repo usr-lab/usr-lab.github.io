@@ -3,6 +3,10 @@ title: Publications
 ---
 
 #### 2020
+Perugia, G., Paetzel, M., & Castellano, G. (2020, November) On the Role of Personality and Empathy in Human-Human, Human-Agent, and Human-Robot Mimicry. *In International Conference on Social Robotics (ICSR)*, (accepted). Springer, Cham.
+
+Perugia, G., Díaz-Boladeras, M., Català-Mallofré, A., Barakova, E. I., & Rauterberg, M. (2020). ENGAGE-DEM: A Model of Engagement of People with Dementia. *IEEE Transactions on Affective Computing*. DOI: 10.1109/TAFFC.2020.2980275
+
 Oertel, C., Castellano, G., Chetouani, M., Nasir, J., Obaid, M., Pelachaud, C., and Peters, C. (2020). Engagement in Human-Agent Interaction: An Overview.
 *Frontiers in Robotics and AI, Human-Robot Interaction section*, 2020.
 
