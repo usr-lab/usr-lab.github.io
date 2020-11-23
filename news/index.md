@@ -2,6 +2,16 @@
 layout: post
 title: News
 ---
+**November 2020**: Giulia presented her paper **"On the Role of Personality and Empathy in Human-Human, Human-Agent, and Human-Robot Mimicry"** at the International Conference of Social Robotics (ICSR 2020).
+ 
+**November 2020**: Giulia served as Poster Chair for the conference [Human-Agent Interaction (HAI 2020)](http://hai-conference.net/hai2020/keynote-speakers/).
+
+**November 2020**: Ginevra gave a keynote talk at the 8th [International Conference on Human-Agent Interaction (HAI)](http://hai-conference.net/hai2020/keynote-speakers/) titled [**"What kind of human-centric robotics do we need? Investigations from human-robot interactions in socially assistive scenarios"**](https://dl.acm.org/doi/abs/10.1145/3406499.3422313)
+
+**November 2020**: Natalia gave a talk at Talking Robotics (https://talking-robotics.github.io/session_details/natalia.html) titled **"How do children build a trust model of a social robot in the first encounter?"**. 
+
+**October 2020**: Ginevra gave a keynote talk at the ["Workshop on Affective Shared Perception"](https://www.whisperproject.eu/wasp2020) at the IEEE International Conference on Development and Learning and Epigenetic Robotics (ICDL-EPIROB 2020) conference, titled **"Investigating People’s Affective Responses to Robots"**.
+
 **September 2020**: Natalia presented her paper "The Effects of Robot’s Facial Expressions on Children’s First Impressions of Trustworthiness" at <a class="news-link" href="http://ro-man2020.unina.it/index.php">ROMAN</a> virtual conference, 2020. Our paper was finalist for two categories, **Best Paper Award** and **RSJ/KROS Distinguished Interdisciplinary Research Award**. 
 
 **September 2020**: Marc Fraile Fabrega joined the lab as a PhD student.
