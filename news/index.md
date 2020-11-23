@@ -8,7 +8,7 @@ title: News
 
 **November 2020**: Ginevra gave a keynote talk at the 8th [International Conference on Human-Agent Interaction (HAI)](http://hai-conference.net/hai2020/keynote-speakers/) titled [**"What kind of human-centric robotics do we need? Investigations from human-robot interactions in socially assistive scenarios"**](https://dl.acm.org/doi/abs/10.1145/3406499.3422313)
 
-**November 2020**: Natalia gave a talk at Talking Robotics (https://talking-robotics.github.io/session_details/natalia.html) titled **"How do children build a trust model of a social robot in the first encounter?"**. 
+**November 2020**: Natalia gave a talk at [Talking Robotics](https://talking-robotics.github.io/session_details/natalia.html) titled **"How do children build a trust model of a social robot in the first encounter?"**. 
 
 **October 2020**: Ginevra gave a keynote talk at the ["Workshop on Affective Shared Perception"](https://www.whisperproject.eu/wasp2020) at the IEEE International Conference on Development and Learning and Epigenetic Robotics (ICDL-EPIROB 2020) conference, titled **"Investigating People’s Affective Responses to Robots"**.
 
