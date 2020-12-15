@@ -2,13 +2,17 @@
 layout: post
 title: News
 ---
+**December 2020**: Alex has successfully defended her PhD thesis **“Machine Behavior Development and Analysis using Reinforcement Learning”.**
+
 **November 2020**: Giulia presented her paper **"On the Role of Personality and Empathy in Human-Human, Human-Agent, and Human-Robot Mimicry"** at the International Conference of Social Robotics (ICSR 2020).
- 
+
 **November 2020**: Giulia served as Poster Chair for the conference [Human-Agent Interaction (HAI 2020)](http://hai-conference.net/hai2020/keynote-speakers/).
 
 **November 2020**: Ginevra gave a keynote talk at the 8th [International Conference on Human-Agent Interaction (HAI)](http://hai-conference.net/hai2020/keynote-speakers/) titled [**"What kind of human-centric robotics do we need? Investigations from human-robot interactions in socially assistive scenarios"**](https://dl.acm.org/doi/abs/10.1145/3406499.3422313)
 
 **November 2020**: Natalia gave a talk at [Talking Robotics](https://talking-robotics.github.io/session_details/natalia.html) titled **"How do children build a trust model of a social robot in the first encounter?"**. 
+
+**October 2020**: Maike has successfully defended her PhD thesis **“The Novelty in the Uncanny Designing Interactions to Change First Impressions”.**
 
 **October 2020**: Ginevra gave a keynote talk at the ["Workshop on Affective Shared Perception"](https://www.whisperproject.eu/wasp2020) at the IEEE International Conference on Development and Learning and Epigenetic Robotics (ICDL-EPIROB 2020) conference, titled **"Investigating People’s Affective Responses to Robots"**.
 
@@ -61,15 +65,11 @@ The Ten-Year Technical Impact Award  is awarded to a scientist or group of scien
 
 **September 2018**: Ginevra gave an invited talk at the [**SMART Summer School on  Computational Social and Behavioural Sciences 2018**](http://www.animatas.eu/index.php?perma=smart_school), titled *Learning robot’s social behaviours: overview and implications for human-robot interaction design*
 
-
 **September 2018**: Huawei Technologies Sweden AB visited our Lab
 
 **August 2018**: Alex and Maike attended **RO-MAN 2018**. Our lab had three [papers](https://usr-lab.github.io/publications/) accepted at the conference this year!
 
-
 **May 2018**: Ginevra gave an invited talk titled *Socially Intelligent Robots* at the seminar [Understanding the Human Brain – Re-thinking Man and Machine](http://www.uu.se/en/news-media/news/article/?id=10680&area=2,4,5,7,16&typ=artikel&lang=en), at **Human Brain Project Campus Biotech**, Geneva. The seminar was organised by Uppsala University and the Uppsala University Switzerland Alumni Chapter, jointly with the Swedish Swiss Chamber of Commerce and the EU Human Brain Project (HBP) research programme. 
-
-
 
 **May 2018**: Dr. Pietro Falco, from ABB Sweden, visited our Lab
 
