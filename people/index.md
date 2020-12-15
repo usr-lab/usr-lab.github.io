@@ -181,7 +181,7 @@ function toggleAbstract(btn) {
 <button class="button black" onclick="window.open('https://www.it.uu.se/katalog/marfr327')" type="button">
 	Marc Fraile's Personal Website</button>
 
-<h2 style="color:grey"> Former Members <h2>
+<h2 style="color:grey"> Former Members </h2>
 <h3> Maike Paetzel </h3>
 <h4 style="color:grey">  Ph.D. </h4>
 <div class='container'>
