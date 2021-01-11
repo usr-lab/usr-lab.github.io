@@ -2,6 +2,8 @@
 layout: post
 title: News
 ---
+**December 2020**: We had one full paper accepted at the [**CHI 2021 conference**](https://chi2021.acm.org)! 
+ 
 **December 2020**: Alex has successfully defended her PhD thesis **“Machine Behavior Development and Analysis using Reinforcement Learning”.**
 
 **November 2020**: Giulia presented her paper **"On the Role of Personality and Empathy in Human-Human, Human-Agent, and Human-Robot Mimicry"** at the International Conference of Social Robotics (ICSR 2020).
