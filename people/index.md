@@ -172,15 +172,25 @@ function toggleAbstract(btn) {
 	
 	
 <h3>Piercosma Bisconti Lucidi</h3>
-<h4 style="color:grey">  Visiting Researcher </h4>
+<h4 style="color:grey">  Visiting Ph.D. Researcher </h4>
 <div class='container'>
     <div>
 		<img src='../images/people-piercosma.jpg' class='iconDetails'>
     </div>
     <div style='margin-left:25%;'>
-    <div style="font-size:.8em"> Piercosma Bisconti, visiting researcher at Uppsala University in the context of the Social Robotics Lab, is a Ph.D. candidate in Political Philosophy at Sant’Anna School of Advanced Studies. His research focuses on how human-robot interactions may influence human-human ones, especially with regards to Social Robotics. His background is in Philosophy, both the B.A and M.A, and a large part of his studies focused on Psychology. While doing his Ph.D, he is researcher at the CyberethicsLab, addressing the socio-technical implications of disruptive technologies in EU Horizon 2020 projects. </div>
+    <div style="font-size:.8em"> Piercosma Bisconti, visiting Ph.D. researcher at Uppsala University in the context of the Social Robotics Lab, is a Ph.D. candidate in Political Philosophy at Sant’Anna School of Advanced Studies. His research focuses on how human-robot interactions may influence human-human ones, especially with regards to Social Robotics. His background is in Philosophy, both the B.A and M.A, and a large part of his studies focused on Psychology. While doing his Ph.D, he is researcher at the CyberethicsLab, addressing the socio-technical implications of disruptive technologies in EU Horizon 2020 projects. </div>
 </div>
-	
+
+<h3>Jude Felix</h3>
+<h4 style="color:grey">  Master's Student </h4>
+<div class='container'>
+    <div>
+		<img src='../images/people-jude.jpg' class='iconDetails'>
+    </div>
+    <div style='margin-left:25%;'>
+    <div style="font-size:.8em"> Jude Felix is a master's student in Computer Science at Uppsala University and works as an intern at Uppsala Social Robotics Lab. His interests are in applying Machine Learning algorithms and deep learning techniques to solve different problems. He is contributing to the COIN project which focuses on social human-robot interaction for education. </div>
+</div>
+
 
 <h2 style="color:grey"> Alumni  </h2>
 <h3> Maike Paetzel </h3>
