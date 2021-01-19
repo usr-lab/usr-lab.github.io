@@ -127,19 +127,6 @@ function toggleAbstract(btn) {
 <p style="clear:both;"></p>
 <button class="button black" onclick="window.open('http://katalog.uu.se/profile/?id=N18-2160')" type="button">Giulia Perugia's Website</button>
 
-<h3> Alex Yuan Gao </h3>
-<h4 style="color:grey">  Ph.D. Candidate </h4>
-<div class='container'>
-    <div>
-		<img src='../images/people-alex.jpg' class='iconDetails'>
-    </div>  
-    <div style='margin-left:25%;'>
-    <div style="font-size:.8em"> (Alex) Yuan Gao is a Ph.D. candidate at Uppsala University. His research interests are driven by a final goal of developing AI-driven robots that can think and feel like real humans (e.g. Ex Machina). This encircles robot's learning and control, nature language processing, image processing, neuroscience and computational phycology. In particular, he is interested in deep/reinforcement/neuro-based learning approaches to robotic perception, control, and physical modeling of the robot’s environment, which can help us to understand ourselves and build a unified learning structure for adaptive, efficient and robust complex robotic system. Currently, he is working on projects that can fill the gap between deep reinforcement learning and social robotics.</div>
-    </div>
-</div>
-<p style="clear:both;"></p>
-<button class="button black" onclick="window.open('http://yuangao.ai')" type="button">
-	Yuan Gao's Personal Website</button>
 
 <h3>Sebastian Wallkötter</h3>
 <h4 style="color:grey">  Ph.D. Candidate </h4>
@@ -155,6 +142,7 @@ function toggleAbstract(btn) {
 <button class="button black" onclick="window.open('http://sebastian.wallkoetter.net')" type="button">
 	Sebastian Wallkötter's Personal Website</button>
 	
+	
 <h3>Natalia Calvo</h3>
 <h4 style="color:grey">  Ph.D. Candidate </h4>
 <div class='container'>
@@ -168,6 +156,7 @@ function toggleAbstract(btn) {
 <button class="button black" onclick="window.open('https://www.it.uu.se/katalog/natca979')" type="button">
 	Natalia Calvo's Personal Website</button>	
 
+
 <h3>Marc Fraile</h3>
 <h4 style="color:grey">  Ph.D. Candidate </h4>
 <div class='container'>
@@ -180,6 +169,18 @@ function toggleAbstract(btn) {
 <p style="clear:both;"></p>
 <button class="button black" onclick="window.open('https://www.it.uu.se/katalog/marfr327')" type="button">
 	Marc Fraile's Personal Website</button>
+	
+	
+<h3>Piercosma Bisconti Lucidi</h3>
+<h4 style="color:grey">  Visiting Researcher </h4>
+<div class='container'>
+    <div>
+		<img src='../images/people-piercosma.jpg' class='iconDetails'>
+    </div>
+    <div style='margin-left:25%;'>
+    <div style="font-size:.8em"> Piercosma Bisconti, visiting researcher at Uppsala University in the context of the Social Robotics Lab, is a Ph.D. candidate in Political Philosophy at Sant’Anna School of Advanced Studies. His research focuses on how human-robot interactions may influence human-human ones, especially with regards to Social Robotics. His background is in Philosophy, both the B.A and M.A, and a large part of his studies focused on Psychology. While doing his Ph.D, he is researcher at the CyberethicsLab, addressing the socio-technical implications of disruptive technologies in EU Horizon 2020 projects. </div>
+</div>
+	
 
 <h2 style="color:grey"> Former Members </h2>
 <h3> Maike Paetzel </h3>
@@ -195,4 +196,18 @@ function toggleAbstract(btn) {
 <p style="clear:both;"></p>
 <button class="button black" onclick="window.open('https://maike-paetzel.de/')" type="button">
 	Maike Paetzel's Personal Website</button>
+	
+<h3> Alex Yuan Gao </h3>
+<h4 style="color:grey">  Ph.D. </h4>
+<div class='container'>
+    <div>
+		<img src='../images/people-alex.jpg' class='iconDetails'>
+    </div>  
+    <div style='margin-left:25%;'>
+    <div style="font-size:.8em"> (Alex) Yuan Gao is a former Ph.D. candidate at Uppsala University. His research interests are driven by a final goal of developing AI-driven robots that can think and feel like real humans (e.g. Ex Machina). This encircles robot's learning and control, nature language processing, image processing, neuroscience and computational phycology. In particular, he is interested in deep/reinforcement/neuro-based learning approaches to robotic perception, control, and physical modeling of the robot’s environment, which can help us to understand ourselves and build a unified learning structure for adaptive, efficient and robust complex robotic system. Currently, he is working on projects that can fill the gap between deep reinforcement learning and social robotics.</div>
+    </div>
+</div>
+<p style="clear:both;"></p>
+<button class="button black" onclick="window.open('http://yuangao.ai')" type="button">
+	Yuan Gao's Personal Website</button>
 
