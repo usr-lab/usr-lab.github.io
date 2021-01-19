@@ -182,7 +182,7 @@ function toggleAbstract(btn) {
 </div>
 	
 
-<h2 style="color:grey"> Former Members </h2>
+<h2 style="color:grey"> Alumni  </h2>
 <h3> Maike Paetzel </h3>
 <h4 style="color:grey">  Ph.D. </h4>
 <div class='container'>
