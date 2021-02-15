@@ -2,6 +2,9 @@
 title: Publications
 ---
 
+#### 2021
+Stower, R., Calvo-Barajas, N., Castellano, G., & Kappas, A. (2021). A meta-analysis on children’s trust in social robots. *International Journal of Social Robotics*, 1-23, 2021. 
+
 #### 2020
 Perugia, G., Paetzel, M., & Castellano, G. (2020, November) On the Role of Personality and Empathy in Human-Human, Human-Agent, and Human-Robot Mimicry. *In International Conference on Social Robotics (ICSR)*, (accepted). Springer, Cham.
 
