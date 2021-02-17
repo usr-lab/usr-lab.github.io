@@ -2,6 +2,8 @@
 layout: post
 title: News
 ---
+**February 2021**: Mengyu Zhong joined the lab as a PhD student
+
 **December 2020**: We had one full paper accepted at the [**CHI 2021 conference**](https://chi2021.acm.org)! 
  
 **December 2020**: Alex has successfully defended her PhD thesis **“Machine Behavior Development and Analysis using Reinforcement Learning”.**
