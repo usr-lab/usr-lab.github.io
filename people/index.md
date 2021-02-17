@@ -170,7 +170,17 @@ function toggleAbstract(btn) {
 <button class="button black" onclick="window.open('https://www.it.uu.se/katalog/marfr327')" type="button">
 	Marc Fraile's Personal Website</button>
 	
-	
+<h3>Mengyu Zhong/h3>
+<h4 style="color:grey">  Ph.D. Candidate </h4>
+<div class='container'>
+    <div>
+		<img src='../images/people-mengyu.png' class='iconDetails'>
+    </div>
+    <div style='margin-left:25%;'>
+    <div style="font-size:.8em"> Mengyu Zhong is a PhD student in the Social Robotics Lab. She received an MSc in IT and Cognition from the University of Copenhagen in 2021. She believes that AI-powered robots are changing the world and will free humans from trivial and repetitive works. Her work is focused on data-driven socially assistive robotics, and it is part of the Project funded by WoMHeR. She is interested in human-robot interaction, multi-modal deep learning, and especially robot-assisted medical diagnosis. </div>
+</div>
+
+
 <h3>Piercosma Bisconti Lucidi</h3>
 <h4 style="color:grey">  Visiting Ph.D. Researcher </h4>
 <div class='container'>
