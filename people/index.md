@@ -171,7 +171,7 @@ function toggleAbstract(btn) {
 	Marc Fraile's Personal Website</button>
 
 
-<h3>Mengyu Zhong/h3>
+<h3>Mengyu Zhong</h3>
 <h4 style="color:grey">  Ph.D. Candidate </h4>
 <div class='container'>
     <div>
