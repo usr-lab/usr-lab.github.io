@@ -3,6 +3,8 @@ title: Publications
 ---
 
 #### 2021
+Paetzel-Prüsmann, M., Perugia, G., & Castellano, G. (2021). The Influence of Robot Personality on the Development of Uncanny Feelings. *Computers in Human Behavior*, 106756.
+
 Stower, R., Calvo-Barajas, N., Castellano, G., & Kappas, A. (2021). A meta-analysis on children’s trust in social robots. *International Journal of Social Robotics*, 1-23, 2021. 
 
 #### 2020
