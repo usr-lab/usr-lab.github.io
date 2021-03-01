@@ -5,7 +5,7 @@ title: Publications
 #### 2021
 Paetzel-Prüsmann, M., Perugia, G., & Castellano, G. (2021). The Influence of Robot Personality on the Development of Uncanny Feelings. *Computers in Human Behavior*, 106756.
 
-Stower, R., Calvo-Barajas, N., Castellano, G., & Kappas, A. (2021). A meta-analysis on children’s trust in social robots. *International Journal of Social Robotics*, 1-23, 2021. 
+Stower, R., Calvo-Barajas, N., Castellano, G., & Kappas, A. (2021). A Meta-analysis on Children’s Trust in Social Robots. *International Journal of Social Robotics*, 1-23, 2021. https://doi.org/10.1007/s12369-020-00736-8 
 
 #### 2020
 Perugia, G., Paetzel, M., & Castellano, G. (2020, November) On the Role of Personality and Empathy in Human-Human, Human-Agent, and Human-Robot Mimicry. *In International Conference on Social Robotics (ICSR)*, (accepted). Springer, Cham.
@@ -15,7 +15,7 @@ Perugia, G., Díaz-Boladeras, M., Català-Mallofré, A., Barakova, E. I., & Raut
 Oertel, C., Castellano, G., Chetouani, M., Nasir, J., Obaid, M., Pelachaud, C., and Peters, C. (2020). Engagement in Human-Agent Interaction: An Overview.
 *Frontiers in Robotics and AI, Human-Robot Interaction section*, 2020.
 
-Calvo-Barajas, N., Perugia, G., & Castellano, G. (2020). The Effects of Robot's Facial Expressions on Children's First Impressions of Trustworthiness. In the *29th IEEE International Conference on Robot & Human Interactive Communication (ROMAN 2020)*, 2020.
+Calvo-Barajas, N., Perugia, G., & Castellano, G. (2020). The Effects of Robot's Facial Expressions on Children's First Impressions of Trustworthiness. In the *29th IEEE International Conference on Robot & Human Interactive Communication (ROMAN 2020)*, 2020. DOI: 10.1109/RO-MAN47096.2020.9223456 
 
 Paetzel, M., Karkada, D., Manuvinakurike, R. (2020). RDG-Map: A Multimodal Corpus of Pedagogical Human-Agent Spoken Interactions. *International Conference on Language Resources and Evaluation (LREC 2020)*, 2020.
 
