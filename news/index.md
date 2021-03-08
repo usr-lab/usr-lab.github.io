@@ -30,7 +30,7 @@ title: News
 
 **May 2020**: Ginevra received funding for the project **"Robot-assisted diagnosis of women’s depression around childbirth"**, supported by Uppsala University's WoMHeR (Women's Mental Health during the Reproductive Lifespan) Centre.
 
-**May 2020**: Ginevra received funding for the project [**"Explainable deep learning methods for human-human and human-robot interaction"**](link: https://www.math.uu.se/research/cim/), supported by Uppsala University's Centre for Interdisciplinary Mathematics.
+**May 2020**: Ginevra received funding for the project [**"Explainable deep learning methods for human-human and human-robot interaction"**](https://www.math.uu.se/research/cim/), supported by Uppsala University's Centre for Interdisciplinary Mathematics.
 
 **May 2020**: Our lab organised a watch party on Zoom around a number of papers accepted at [HRI 2020](http://humanrobotinteraction.org/2020/).
 
