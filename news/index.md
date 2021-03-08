@@ -2,6 +2,10 @@
 layout: post
 title: News
 ---
+**March 2021**: Natalia is co-organizing the Workshop [**Measuring Child-Robot Relationships**](https://child-robot-interaction.github.io) at the [**HRI 2021 conference**](https://humanrobotinteraction.org/2021/).
+
+**March 2021**: We showcased the lab's research at this year's [SciFest](https://www.scifest.uu.se), Uppsala's yearly Science Festival. This year SciFest was digital. 
+
 **February 2021**: Mengyu Zhong joined the lab as a PhD student
 
 **December 2020**: We had one full paper accepted at the [**CHI 2021 conference**](https://chi2021.acm.org)! 
