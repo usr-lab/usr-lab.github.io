@@ -3,6 +3,15 @@ title: Publications
 ---
 
 #### 2021
+Wallkötter, S., Tulli, S., Castellano, G., Paiva, A., & Chetouani, M. (2021). Explainable Embodied Agents Through Social Cues: A Review, ACM Transactions on Human-Robot Interaction. To appear.
+ 
+Yang, F., Gao, Y., Ma, R., Zojaji, S., Castellano, G., & Peters, C. (2021). A dataset of human and robot approach behaviors into small free-standing conversational groups. PLOS ONE,  https://doi.org/10.1371/journal.pone.0247364
+ 
+Perugia, G., Paetzel-Prüsmann, M., Madelene Alanenpää, & Castellano, G. (2021). I Can See it in Your Eyes: Gaze as an Implicit Cue of Uncanniness and Task Performance in Repeated Interactions with Robots. Frontiers in Robotics and AI. DOI: 10.3389/frobt.2021.645956
+ 
+Elgarf, M., Calvo-Barajas, N.,  Paiva, A., Castellano, G. & Peters, C.  (2021)
+Reward Seeking or Loss Aversion? Impact of Regulatory Focus Theory on Emotional Induction in Children and Their Behavior Towards a Social Robot. CHI 2021
+
 Paetzel-Prüsmann, M., Perugia, G., & Castellano, G. (2021). The Influence of Robot Personality on the Development of Uncanny Feelings. *Computers in Human Behavior*, 106756.
 
 Stower, R., Calvo-Barajas, N., Castellano, G., & Kappas, A. (2021). A Meta-analysis on Children’s Trust in Social Robots. *International Journal of Social Robotics*, 1-23, 2021. https://doi.org/10.1007/s12369-020-00736-8 
