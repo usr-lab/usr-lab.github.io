@@ -2,7 +2,7 @@
 layout: post
 title: News
 ---
-**May 2021**: We had one Work in Progress paper accepted at the [**IDC 2021 conference**](https://idc.acm.org/2021/)! 
+**May 2021**: We have one Work in Progress paper accepted at the [**IDC 2021 conference**](https://idc.acm.org/2021/)! 
 
 **March 2021**: Natalia is co-organizing the Workshop [**Measuring Child-Robot Relationships**](https://child-robot-interaction.github.io) at the [**HRI 2021 conference**](https://humanrobotinteraction.org/2021/).
 
@@ -10,7 +10,7 @@ title: News
 
 **February 2021**: Mengyu Zhong joined the lab as a PhD student
 
-**December 2020**: We had one full paper accepted at the [**CHI 2021 conference**](https://chi2021.acm.org)! 
+**December 2020**: We have one full paper accepted at the [**CHI 2021 conference**](https://chi2021.acm.org)! 
  
 **December 2020**: Alex has successfully defended his PhD thesis **“Machine Behavior Development and Analysis using Reinforcement Learning”.**
 
