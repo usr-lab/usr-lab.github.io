@@ -3,6 +3,8 @@ title: Publications
 ---
 
 #### 2021
+Calvo-Barajas, N., Perugia, G., and Castellano., G. 2021. The Effects of Motivational Strategies and Goal Attainment on Children’s Trust in a Virtual Social Robot: A Pilot Study. In <i>Interaction Design and Children</i> (<i>IDC '21</i>). Association for Computing Machinery, New York, NY, USA, 537–541. [DOI:https://doi.org/10.1145/3459990.3465202](https://doi.org/10.1145/3459990.3465202)
+
 Arnelid, M.,  Boman, M., Brännström, A., Campano, E.,  Castellano, G., Dignum, V., Harrison, K., Johnson, E., Lee, F., Lindgren, E., Nilsson, I., Ostrowska, A., García Velázquez, I., and Winkle, K. (2021). <a class="news-link" href="../publications/papers/WASP-HS-CRM-Report-Healthcare-May-2021-1.pdf"> *WASP-HS. Community Reference Meeting: Healthcare. Report. May 2021.* </a>
 
 Wallkötter, S., Tulli, S., Castellano, G., Paiva, A., & Chetouani, M. (2021). Explainable Embodied Agents Through Social Cues: A Review, ACM Transactions on Human-Robot Interaction. To appear.
