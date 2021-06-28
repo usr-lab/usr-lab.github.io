@@ -3,6 +3,8 @@ title: Publications
 ---
 
 #### 2021
+Calvo-Barajas, N., Elgarf, M., Perugia, G., Paiva, A., Peters, C. E., & Castellano, G. (2021). Hurry up, we need to find the key! How Regulatory Focus Design Affects Children's Trust in a Social Robot. Frontiers in Robotics and AI, 8, 197. [doi: 10.3389/frobt.2021.652035](https://www.frontiersin.org/articles/10.3389/frobt.2021.652035/abstract)
+
 Calvo-Barajas, N., Perugia, G., and Castellano., G. 2021. The Effects of Motivational Strategies and Goal Attainment on Children’s Trust in a Virtual Social Robot: A Pilot Study. In <i>Interaction Design and Children</i> (<i>IDC '21</i>). Association for Computing Machinery, New York, NY, USA, 537–541. [DOI:https://doi.org/10.1145/3459990.3465202](https://doi.org/10.1145/3459990.3465202)
 
 Arnelid, M.,  Boman, M., Brännström, A., Campano, E.,  Castellano, G., Dignum, V., Harrison, K., Johnson, E., Lee, F., Lindgren, E., Nilsson, I., Ostrowska, A., García Velázquez, I., and Winkle, K. (2021). <a class="news-link" href="../publications/papers/WASP-HS-CRM-Report-Healthcare-May-2021-1.pdf"> *WASP-HS. Community Reference Meeting: Healthcare. Report. May 2021.* </a>
