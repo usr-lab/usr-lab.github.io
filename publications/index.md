@@ -3,7 +3,7 @@ title: Publications
 ---
 
 #### 2021
-Arnelid, M.,  Boman, M., Brännström, A., Campano, E.,  Castellano, G., Dignum, V., Harrison, K., Johnson, E., Lee, F., Lindgren, E., Nilsson, I., Ostrowska, A., García Velázquez, I., and Winkle, K. (2021). [*WASP-HS. Community Reference Meeting: Healthcare. Report. May 2021*]("../publications/papers/WASP-HS-CRM-Report-Healthcare-May-2021-1.pdf")
+Arnelid, M.,  Boman, M., Brännström, A., Campano, E.,  Castellano, G., Dignum, V., Harrison, K., Johnson, E., Lee, F., Lindgren, E., Nilsson, I., Ostrowska, A., García Velázquez, I., and Winkle, K. (2021). <a class="news-link" href="../publications/papers/WASP-HS-CRM-Report-Healthcare-May-2021-1.pdf"> *WASP-HS. Community Reference Meeting: Healthcare. Report. May 2021.* </a>
 
 Wallkötter, S., Tulli, S., Castellano, G., Paiva, A., & Chetouani, M. (2021). Explainable Embodied Agents Through Social Cues: A Review, ACM Transactions on Human-Robot Interaction. To appear.
  
