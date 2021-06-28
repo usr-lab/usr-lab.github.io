@@ -20,7 +20,7 @@ Reward Seeking or Loss Aversion? Impact of Regulatory Focus Theory on Emotional 
 
 Paetzel-Prüsmann, M., Perugia, G., & Castellano, G. (2021). The Influence of Robot Personality on the Development of Uncanny Feelings. *Computers in Human Behavior*, 106756.
 
-Stower, R., Calvo-Barajas, N., Castellano, G., & Kappas, A. (2021). A Meta-analysis on Children’s Trust in Social Robots. *International Journal of Social Robotics*, 1-23, 2021. https://doi.org/10.1007/s12369-020-00736-8 
+Stower, R., Calvo-Barajas, N., Castellano, G., & Kappas, A. (2021). A Meta-analysis on Children’s Trust in Social Robots. *International Journal of Social Robotics*, 1-23, 2021. [https://doi.org/10.1007/s12369-020-00736-8](https://doi.org/10.1007/s12369-020-00736-8)
 
 #### 2020
 Perugia, G., Paetzel, M., & Castellano, G. (2020, November) On the Role of Personality and Empathy in Human-Human, Human-Agent, and Human-Robot Mimicry. *In International Conference on Social Robotics (ICSR)*, (accepted). Springer, Cham.
