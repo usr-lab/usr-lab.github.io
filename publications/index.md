@@ -15,8 +15,7 @@ Yang, F., Gao, Y., Ma, R., Zojaji, S., Castellano, G., & Peters, C. (2021). A da
  
 Perugia, G., Paetzel-Prüsmann, M., Madelene Alanenpää, & Castellano, G. (2021). I Can See it in Your Eyes: Gaze as an Implicit Cue of Uncanniness and Task Performance in Repeated Interactions with Robots. Frontiers in Robotics and AI. DOI: 10.3389/frobt.2021.645956
  
-Elgarf, M., Calvo-Barajas, N.,  Paiva, A., Castellano, G. & Peters, C.  (2021)
-Reward Seeking or Loss Aversion? Impact of Regulatory Focus Theory on Emotional Induction in Children and Their Behavior Towards a Social Robot. CHI 2021
+Elgarf, M., Calvo-Barajas, N., Paiva, A., Castellano, G., and Peters, C. (2021). Reward Seeking or Loss Aversion? Impact of Regulatory Focus Theory on Emotional Induction in Children and Their Behavior Towards a Social Robot. <i>Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems</i>. Association for Computing Machinery, New York, NY, USA, Article 587, 1–11. [DOI:https://doi.org/10.1145/3411764.3445486](https://doi.org/10.1145/3411764.3445486)
 
 Paetzel-Prüsmann, M., Perugia, G., & Castellano, G. (2021). The Influence of Robot Personality on the Development of Uncanny Feelings. *Computers in Human Behavior*, 106756.
 
