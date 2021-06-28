@@ -17,6 +17,8 @@ Perugia, G., Paetzel-Prüsmann, M., Madelene Alanenpää, & Castellano, G. (2021
  
 Elgarf, M., Calvo-Barajas, N., Paiva, A., Castellano, G., and Peters, C. (2021). Reward Seeking or Loss Aversion? Impact of Regulatory Focus Theory on Emotional Induction in Children and Their Behavior Towards a Social Robot. <i>Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems</i>. Association for Computing Machinery, New York, NY, USA, Article 587, 1–11. [DOI:https://doi.org/10.1145/3411764.3445486](https://doi.org/10.1145/3411764.3445486)
 
+Stower, R., Ligthart, M., van Straten, C., Calvo-Barajas, N., Velner, E., and Beelen. (2021). Interdisciplinary Research Methods for Child-Robot Relationship Formation. In <i>Companion of the 2021 ACM/IEEE International Conference on Human-Robot Interaction</i> (<i>HRI '21 Companion</i>). Association for Computing Machinery, New York, NY, USA, 700–702. [DOI:https://doi.org/10.1145/3434074.3444869](https://doi.org/10.1145/3434074.3444869)
+
 Paetzel-Prüsmann, M., Perugia, G., & Castellano, G. (2021). The Influence of Robot Personality on the Development of Uncanny Feelings. *Computers in Human Behavior*, 106756.
 
 Stower, R., Calvo-Barajas, N., Castellano, G., & Kappas, A. (2021). A Meta-analysis on Children’s Trust in Social Robots. *International Journal of Social Robotics*, 1-23, 2021. [https://doi.org/10.1007/s12369-020-00736-8](https://doi.org/10.1007/s12369-020-00736-8)
