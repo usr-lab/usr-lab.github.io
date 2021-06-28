@@ -3,6 +3,8 @@ title: Publications
 ---
 
 #### 2021
+Arnelid, M.,  Boman, M., Brännström, A., Campano, E.,  Castellano, G., Dignum, V., Harrison, K., Johnson, E., Lee, F., Lindgren, E., Nilsson, I., Ostrowska, A., García Velázquez, I., and Winkle, K. (2021). *WASP-HS. Community Reference Meeting: Healthcare. Report. May 2021* 
+
 Wallkötter, S., Tulli, S., Castellano, G., Paiva, A., & Chetouani, M. (2021). Explainable Embodied Agents Through Social Cues: A Review, ACM Transactions on Human-Robot Interaction. To appear.
  
 Yang, F., Gao, Y., Ma, R., Zojaji, S., Castellano, G., & Peters, C. (2021). A dataset of human and robot approach behaviors into small free-standing conversational groups. PLOS ONE,  https://doi.org/10.1371/journal.pone.0247364
