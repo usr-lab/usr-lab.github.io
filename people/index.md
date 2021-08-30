@@ -114,20 +114,6 @@ function toggleAbstract(btn) {
 <button class="button black" onclick="window.open('http://user.it.uu.se/~ginca820/')" type="button">
 	Ginevra Castellano's Personal Website</button>
 
-<h3> Giulia Perugia </h3>
-<h4 style="color:grey">  Postdoc Researcher </h4>
-<div class='container'>
-    <div>
-		<img src='../images/people-giulia.jpg' class='iconDetails'>
-    </div>  
-    <div style='margin-left:25%;'>
-    <div style="font-size:.8em"> Dr. Giulia Perugia received a BA in Literature and Linguistics from the University of Roma Tre (Rome, Italy) in 2011, a MSc in Cognitive Science from the University of Siena (Italy) in 2013, and a double degree PhD in Assistive Technologies from the Polytechnic University of Catalonia (UPC; Barcelona, Spain) and Eindhoven University of Technology (TU/e; Netherlands) in 2018. In November 2018, she joined the Social Robotics Lab at Uppsala University (Sweden) as a postdoctoral researcher. As a scientist, she is interested in understanding and modeling the emotional and social linkage that the interaction with social robots triggers, how this can be used for assistive and educational purposes, and how it might impact and shape our society. </div>
-    </div>
-</div>
-<p style="clear:both;"></p>
-<button class="button black" onclick="window.open('http://katalog.uu.se/profile/?id=N18-2160')" type="button">Giulia Perugia's Website</button>
-
-
 <h3>Sebastian Wallkötter</h3>
 <h4 style="color:grey">  Ph.D. Candidate </h4>
 <div class='container'>
@@ -180,27 +166,9 @@ function toggleAbstract(btn) {
     <div style='margin-left:25%;'>
     <div style="font-size:.8em"> Mengyu Zhong is a PhD student in the Social Robotics Lab. She received an MSc in IT and Cognition from the University of Copenhagen in 2021. She believes that AI-powered robots are changing the world and will free humans from trivial and repetitive works. Her work is focused on data-driven socially assistive robotics, and it is part of the Project funded by WoMHeR. She is interested in human-robot interaction, multi-modal deep learning, and especially robot-assisted medical diagnosis. </div>
 </div>
-
-
-<h3>Piercosma Bisconti Lucidi</h3>
-<h4 style="color:grey">  Visiting Ph.D. Researcher </h4>
-<div class='container'>
-    <div>
-		<img src='../images/people-piercosma.jpg' class='iconDetails'>
-    </div>
-    <div style='margin-left:25%;'>
-    <div style="font-size:.8em"> Piercosma Bisconti, visiting Ph.D. researcher at Uppsala University in the context of the Social Robotics Lab, is a Ph.D. candidate in Political Philosophy at Sant’Anna School of Advanced Studies. His research focuses on how human-robot interactions may influence human-human ones, especially with regards to Social Robotics. His background is in Philosophy, both the B.A and M.A, and a large part of his studies focused on Psychology. While doing his Ph.D, he is researcher at the CyberethicsLab, addressing the socio-technical implications of disruptive technologies in EU Horizon 2020 projects. </div>
-</div>
-
-<h3>Jude Felix</h3>
-<h4 style="color:grey">  Master's Student </h4>
-<div class='container'>
-    <div>
-		<img src='../images/people-jude.jpg' class='iconDetails'>
-    </div>
-    <div style='margin-left:25%;'>
-    <div style="font-size:.8em"> Jude Felix is a master's student in Computer Science at Uppsala University and works as an intern at Uppsala Social Robotics Lab. His interests are in applying Machine Learning algorithms and deep learning techniques to solve different problems. He is contributing to the COIN project which focuses on social human-robot interaction for education. </div>
-</div>
+<p style="clear:both;"></p>
+<button class="button black" onclick="window.open('https://www.it.uu.se/katalog/menzh316)" type="button">
+	Marc Fraile's Personal Website</button>
 
 
 <h2 style="color:grey"> Alumni  </h2>
@@ -231,4 +199,29 @@ function toggleAbstract(btn) {
 <p style="clear:both;"></p>
 <button class="button black" onclick="window.open('http://yuangao.ai')" type="button">
 	Yuan Gao's Personal Website</button>
+
+
+<h3> Giulia Perugia </h3>
+<h4 style="color:grey">  Postdoc Researcher </h4>
+<div class='container'>
+    <div>
+		<img src='../images/people-giulia.jpg' class='iconDetails'>
+    </div>  
+    <div style='margin-left:25%;'>
+    <div style="font-size:.8em"> Dr. Giulia Perugia received a BA in Literature and Linguistics from the University of Roma Tre (Rome, Italy) in 2011, a MSc in Cognitive Science from the University of Siena (Italy) in 2013, and a double degree PhD in Assistive Technologies from the Polytechnic University of Catalonia (UPC; Barcelona, Spain) and Eindhoven University of Technology (TU/e; Netherlands) in 2018. In November 2018, she joined the Social Robotics Lab at Uppsala University (Sweden) as a postdoctoral researcher. As a scientist, she is interested in understanding and modeling the emotional and social linkage that the interaction with social robots triggers, how this can be used for assistive and educational purposes, and how it might impact and shape our society. </div>
+    </div>
+</div>
+<p style="clear:both;"></p>
+<button class="button black" onclick="window.open('http://katalog.uu.se/profile/?id=N18-2160')" type="button">Giulia Perugia's Website</button>
+
+<h3>Piercosma Bisconti Lucidi</h3>
+<h4 style="color:grey">  Visiting Ph.D. Researcher </h4>
+<div class='container'>
+    <div>
+		<img src='../images/people-piercosma.jpg' class='iconDetails'>
+    </div>
+    <div style='margin-left:25%;'>
+    <div style="font-size:.8em"> Piercosma Bisconti, visiting Ph.D. researcher at Uppsala University in the context of the Social Robotics Lab, is a Ph.D. candidate in Political Philosophy at Sant’Anna School of Advanced Studies. His research focuses on how human-robot interactions may influence human-human ones, especially with regards to Social Robotics. His background is in Philosophy, both the B.A and M.A, and a large part of his studies focused on Psychology. While doing his Ph.D, he is researcher at the CyberethicsLab, addressing the socio-technical implications of disruptive technologies in EU Horizon 2020 projects. </div>
+</div>
+
 
