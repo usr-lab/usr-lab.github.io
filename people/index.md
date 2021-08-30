@@ -167,7 +167,7 @@ function toggleAbstract(btn) {
     <div style="font-size:.8em"> Mengyu Zhong is a PhD student in the Social Robotics Lab. She received an MSc in IT and Cognition from the University of Copenhagen in 2021. She believes that AI-powered robots are changing the world and will free humans from trivial and repetitive works. Her work is focused on data-driven socially assistive robotics, and it is part of the Project funded by WoMHeR. She is interested in human-robot interaction, multi-modal deep learning, and especially robot-assisted medical diagnosis. </div>
 </div>
 <p style="clear:both;"></p>
-<button class="button black" onclick="window.open('https://www.it.uu.se/katalog/menzh316)" type="button">
+<button class="button black" onclick="window.open('https://www.it.uu.se/katalog/menzh316')" type="button">
 	Mengyu Zhong's Personal Website</button>
 
 
@@ -180,7 +180,9 @@ function toggleAbstract(btn) {
     <div style='margin-left:25%;'>
     <div style="font-size:.8em"> Elena Lechuga Redondo is a PhD student of the Robotics Brain and Cognitive Science (RBCS) department at the Italian Institute of Technology (IIT). Her main interests are social robotics and affective computing. Ideally, she would like to merge both and create robots able to recognize and adapt to the most relevant paterns within an interaction. Eager on getting deeper in this research, she started a collaboration with the Ginevra Castellano's group in the Social Robotics Lab at Uppsala University. </div>
 </div>
-
+<button class="button black" onclick="window.open('http://www.it.uu.se/katalog/marle917')" type="button">
+	Elena Lechuga's Personal Website</button>
+	
 	
 <h2 style="color:grey"> Alumni  </h2>
 <h3> Maike Paetzel </h3>
