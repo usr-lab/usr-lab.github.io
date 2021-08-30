@@ -175,7 +175,7 @@ function toggleAbstract(btn) {
 <h4 style="color:grey">  Visiting Ph.D. Student </h4>
 <div class='container'>
     <div>
-		<img src='../images/people-elena.png' class='iconDetails'>
+		<img src='../images/people-elena.jpg' class='iconDetails'>
     </div>
     <div style='margin-left:25%;'>
     <div style="font-size:.8em"> Elena Lechuga Redondo is a PhD student of the Robotics Brain and Cognitive Science (RBCS) department at the Italian Institute of Technology (IIT). Her main interests are social robotics and affective computing. Ideally, she would like to merge both and create robots able to recognize and adapt to the most relevant paterns within an interaction. Eager on getting deeper in this research, she started a collaboration with the Ginevra Castellano's group in the Social Robotics Lab at Uppsala University. </div>
