@@ -171,6 +171,17 @@ function toggleAbstract(btn) {
 	Mengyu Zhong's Personal Website</button>
 
 
+<h3>Elena Lechuga Redondo</h3>
+<h4 style="color:grey">  Visiting Ph.D. Student </h4>
+<div class='container'>
+    <div>
+		<img src='../images/people-elena.png' class='iconDetails'>
+    </div>
+    <div style='margin-left:25%;'>
+    <div style="font-size:.8em"> Elena Lechuga Redondo is a PhD student of the Robotics Brain and Cognitive Science (RBCS) department at the Italian Institute of Technology (IIT). Her main interests are social robotics and affective computing. Ideally, she would like to merge both and create robots able to recognize and adapt to the most relevant paterns within an interaction. Eager on getting deeper in this research, she started a collaboration with the Ginevra Castellano's group in the Social Robotics Lab at Uppsala University. </div>
+</div>
+
+	
 <h2 style="color:grey"> Alumni  </h2>
 <h3> Maike Paetzel </h3>
 <h4 style="color:grey">  Ph.D. </h4>
@@ -215,13 +226,13 @@ function toggleAbstract(btn) {
 <button class="button black" onclick="window.open('http://katalog.uu.se/profile/?id=N18-2160')" type="button">Giulia Perugia's Website</button>
 
 <h3>Piercosma Bisconti Lucidi</h3>
-<h4 style="color:grey">  Ph.D. Researcher </h4>
+<h4 style="color:grey">  Visiting Ph.D. Student </h4>
 <div class='container'>
     <div>
 		<img src='../images/people-piercosma.jpg' class='iconDetails'>
     </div>
     <div style='margin-left:25%;'>
-    <div style="font-size:.8em"> Piercosma Bisconti is a former visiting Ph.D. researcher in the Social Robotics Lab. He is a Ph.D. candidate in Political Philosophy at Sant’Anna School of Advanced Studies. His research focuses on how human-robot interactions may influence human-human ones, especially with regards to Social Robotics. His background is in Philosophy, both the B.A and M.A, and a large part of his studies focused on Psychology. While doing his Ph.D, he is researcher at the CyberethicsLab, addressing the socio-technical implications of disruptive technologies in EU Horizon 2020 projects. </div>
+    <div style="font-size:.8em"> Piercosma Bisconti is a former visiting Ph.D. student in the Social Robotics Lab. He is a Ph.D. candidate in Political Philosophy at Sant’Anna School of Advanced Studies. His research focuses on how human-robot interactions may influence human-human ones, especially with regards to Social Robotics. His background is in Philosophy, both the B.A and M.A, and a large part of his studies focused on Psychology. While doing his Ph.D, he is researcher at the CyberethicsLab, addressing the socio-technical implications of disruptive technologies in EU Horizon 2020 projects. </div>
 </div>
 
 
