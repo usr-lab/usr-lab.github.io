@@ -168,7 +168,7 @@ function toggleAbstract(btn) {
 </div>
 <p style="clear:both;"></p>
 <button class="button black" onclick="window.open('https://www.it.uu.se/katalog/menzh316)" type="button">
-	Marc Fraile's Personal Website</button>
+	Mengyu Zhong's Personal Website</button>
 
 
 <h2 style="color:grey"> Alumni  </h2>
@@ -179,7 +179,7 @@ function toggleAbstract(btn) {
 		<img src='../images/people-maike.jpg' class='iconDetails'>
     </div>  
     <div style='margin-left:25%;'>
-    <div style="font-size:.8em"> Maike Paetzel is a former PhD student in the Social Robotics Lab and mainly focused on studying the uncanny valley effect. She is specifically interested in how interactions with an agent can change an initial (uncanny) perception. Maike’s background is both in humanoid robotics and conversational agents. Apart from Human-Robot Interaction her heart belongs to the RoboCup community, where she is still actively engaged in the team Hamburg Bit-Bots and the organization of the Humanoid League.</div>
+    <div style="font-size:.8em"> Maike Paetzel is a former PhD student in the Social Robotics Lab and mainly focused on studying the uncanny valley effect. She was specifically interested in how interactions with an agent can change an initial (uncanny) perception. Maike’s background is both in humanoid robotics and conversational agents. Apart from Human-Robot Interaction her heart belongs to the RoboCup community, where she is still actively engaged in the team Hamburg Bit-Bots and the organization of the Humanoid League.</div>
     </div>
 </div>
 <p style="clear:both;"></p>
@@ -193,7 +193,7 @@ function toggleAbstract(btn) {
 		<img src='../images/people-alex.jpg' class='iconDetails'>
     </div>  
     <div style='margin-left:25%;'>
-    <div style="font-size:.8em"> (Alex) Yuan Gao is a former Ph.D. candidate at Uppsala University. His research interests are driven by a final goal of developing AI-driven robots that can think and feel like real humans (e.g. Ex Machina). This encircles robot's learning and control, nature language processing, image processing, neuroscience and computational phycology. In particular, he is interested in deep/reinforcement/neuro-based learning approaches to robotic perception, control, and physical modeling of the robot’s environment, which can help us to understand ourselves and build a unified learning structure for adaptive, efficient and robust complex robotic system. Currently, he is working on projects that can fill the gap between deep reinforcement learning and social robotics.</div>
+    <div style="font-size:.8em"> (Alex) Yuan Gao is a former PhD student in the Social Robotics Lab at Uppsala University. His research interests are driven by a final goal of developing AI-driven robots that can think and feel like real humans (e.g. Ex Machina). This encircles robot's learning and control, nature language processing, image processing, neuroscience and computational phycology. In particular, he is interested in deep/reinforcement/neuro-based learning approaches to robotic perception, control, and physical modeling of the robot’s environment, which can help us to understand ourselves and build a unified learning structure for adaptive, efficient and robust complex robotic system. Currently, he is working on projects that can fill the gap between deep reinforcement learning and social robotics.</div>
     </div>
 </div>
 <p style="clear:both;"></p>
@@ -208,20 +208,20 @@ function toggleAbstract(btn) {
 		<img src='../images/people-giulia.jpg' class='iconDetails'>
     </div>  
     <div style='margin-left:25%;'>
-    <div style="font-size:.8em"> Dr. Giulia Perugia received a BA in Literature and Linguistics from the University of Roma Tre (Rome, Italy) in 2011, a MSc in Cognitive Science from the University of Siena (Italy) in 2013, and a double degree PhD in Assistive Technologies from the Polytechnic University of Catalonia (UPC; Barcelona, Spain) and Eindhoven University of Technology (TU/e; Netherlands) in 2018. In November 2018, she joined the Social Robotics Lab at Uppsala University (Sweden) as a postdoctoral researcher. As a scientist, she is interested in understanding and modeling the emotional and social linkage that the interaction with social robots triggers, how this can be used for assistive and educational purposes, and how it might impact and shape our society. </div>
+    <div style="font-size:.8em"> Giulia Perugia is a formera postdoctoral researcher in the Social Robotics Lab. She received a BA in Literature and Linguistics from the University of Roma Tre (Rome, Italy) in 2011, a MSc in Cognitive Science from the University of Siena (Italy) in 2013, and a double degree PhD in Assistive Technologies from the Polytechnic University of Catalonia (UPC; Barcelona, Spain) and Eindhoven University of Technology (TU/e; Netherlands) in 2018. As a scientist, she is interested in understanding and modeling the emotional and social linkage that the interaction with social robots triggers, how this can be used for assistive and educational purposes, and how it might impact and shape our society. </div>
     </div>
 </div>
 <p style="clear:both;"></p>
 <button class="button black" onclick="window.open('http://katalog.uu.se/profile/?id=N18-2160')" type="button">Giulia Perugia's Website</button>
 
 <h3>Piercosma Bisconti Lucidi</h3>
-<h4 style="color:grey">  Visiting Ph.D. Researcher </h4>
+<h4 style="color:grey">  Ph.D. Researcher </h4>
 <div class='container'>
     <div>
 		<img src='../images/people-piercosma.jpg' class='iconDetails'>
     </div>
     <div style='margin-left:25%;'>
-    <div style="font-size:.8em"> Piercosma Bisconti, visiting Ph.D. researcher at Uppsala University in the context of the Social Robotics Lab, is a Ph.D. candidate in Political Philosophy at Sant’Anna School of Advanced Studies. His research focuses on how human-robot interactions may influence human-human ones, especially with regards to Social Robotics. His background is in Philosophy, both the B.A and M.A, and a large part of his studies focused on Psychology. While doing his Ph.D, he is researcher at the CyberethicsLab, addressing the socio-technical implications of disruptive technologies in EU Horizon 2020 projects. </div>
+    <div style="font-size:.8em"> Piercosma Bisconti is a former visiting Ph.D. researcher in the Social Robotics Lab. He is a Ph.D. candidate in Political Philosophy at Sant’Anna School of Advanced Studies. His research focuses on how human-robot interactions may influence human-human ones, especially with regards to Social Robotics. His background is in Philosophy, both the B.A and M.A, and a large part of his studies focused on Psychology. While doing his Ph.D, he is researcher at the CyberethicsLab, addressing the socio-technical implications of disruptive technologies in EU Horizon 2020 projects. </div>
 </div>
 
 
