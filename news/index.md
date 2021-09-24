@@ -2,6 +2,12 @@
 layout: post
 title: News
 ---
+**September 2021**: We have one full paper accepted at the [**ICSR 2021 conference**](https://www.colips.org/conferences/icsr2021/wp/)! 
+
+**September 2021**: Tobiaz Paaulsson joined the lab as a Master student intern
+
+**August 2021**: Elena Lechuga Redonde joined the lab as a visting PhD researcher
+
 **May 2021**: We have one Work in Progress paper accepted at the [**IDC 2021 conference**](https://idc.acm.org/2021/)! 
 
 **March 2021**: Natalia is co-organizing the Workshop [**Measuring Child-Robot Relationships**](https://child-robot-interaction.github.io) at the [**HRI 2021 conference**](https://humanrobotinteraction.org/2021/).
