@@ -7,10 +7,10 @@ title: Projects
 	width:25%;
     height:25%;
 	max-height:150px;
-	max-width:200px; 
+	max-width:200px;
 	border-radius: 10px;
 	object-fit: cover;
-} 
+}
 
 .container {
     width:100%;
@@ -36,8 +36,8 @@ h4 {
 }
 
 .green {
-    background-color: white; 
-    color: black; 
+    background-color: white;
+    color: black;
     border: 2px solid #4CAF50;
 }
 
@@ -47,8 +47,8 @@ h4 {
 }
 
 .blue {
-    background-color: white; 
-    color: black; 
+    background-color: white;
+    color: black;
     border: 2px solid #008CBA;
 }
 
@@ -58,8 +58,8 @@ h4 {
 }
 
 .red {
-    background-color: white; 
-    color: black; 
+    background-color: white;
+    color: black;
     border: 2px solid #f44336;
 }
 
@@ -101,18 +101,31 @@ function toggleAbstract(btn) {
 
 <div class='container'>
     <div>
+		<img src='../images/research-synergies.jpg' class='iconDetails'>
+    </div>
+    <div style='margin-left:30%;'>
+		<h4>Explainable deep learning methods for human-human and human-robot interaction</h4>
+		<div style="font-size:.8em"> Human-human interaction (HHI) relies on people’s ability to mutually understand each other, often by making use of implicit signals that do not require the sender’s awareness. When we are engrossed in a conversation, we align with our partner: we unconsciously mimic each other, coordinate our behaviours and synchronize positive displays of emotion. This vital skill is currently lacking in robots. This project aims at building on advances in Deep Learning and Explainable Artificial Intelligence (XAI), to develop new methods that: (1) automatically analyse and predict alignment in HHI, (2) visualize and provide interpretation of regions of focus, as well as the type of used information (e.g., face expression, eye movement, body position, etc), (3) mine HHI data to bootstrap emotional alignment in HRI, and (4) interpret and analyse the learned HHI strategies and the derived HRI alignments to both evaluate the system, and gain knowledge about subtle HHI during co-adaptive emotional alignment.
+</div>
+	</div>
+</div>
+<p style="clear:both;"></p>
+
+<div class='container'>
+    <div>
 		<img src='../images/project-ethics-2.jpg' class='iconDetails'>
-    </div>  
+    </div>
     <div style='margin-left:30%;'>
 		<a href="https://wasp-hs.org/projects/the-ethics-and-social-consequences-of-ai-caring-robots-learning-trust-empathy-and-accountability/"><h4>The ethics and social consequences of AI & caring robots. Learning trust, empathy and accountability</h4></a>
 		<div style="font-size:.8em"> It is likely that robots will soon be providing us with health and social care at different stages of our lives. For this to work, the robots must be able to build trusting relationships with people and act in a manner that is ethically acceptable. One important aspect of these relational intra-actions, and a challenge for researchers working with human-machine interaction,is therefore to program robots to behave sympathetically and accessibly. The project, funded by the Marianne and Marcus Wallenberg Foundation, is a collaboration with social science researchers at Linköping University (2020-2024).</div>
 	</div>
 </div>
 <p style="clear:both;"></p>
+
 <div class='container'>
     <div>
 		<img src='../images/project-animatas.png' class='iconDetails'>
-    </div>  
+    </div>
     <div style='margin-left:30%;'>
 		<a href="http://www.animatas.eu/"><h4>ANIMATAS: Advancing intuitive human-machine interaction with human-like social capabilities for education in schools</h4></a>
 		<div style="font-size:.8em"> ANIMATAS will establish a leading European Training Network (ETN) devoted to the development of a new generation of creative and critical research leaders and innovators who have a skill-set tailored for the creation of social capabilities necessary for realising step changes in the development of intuitive human-machine interaction (HMI) in educational settings.
@@ -125,7 +138,7 @@ ANIMATAS is a Marie Sklodowska Curie European Training Network funded by the Eur
 <div class='container'>
     <div>
 		<img src='../images/project-coin.jpg' class='iconDetails'>
-    </div>  
+    </div>
     <div style='margin-left:30%;'>
 		<a href="http://www.coinssf.se/"><h4>COIN: Co-adaptive human-robot interactive systems</h4></a>
 		<div style="font-size:.8em"> COIN aims to develop a systematic, bi-directional short- and long-term adaptive framework that yields safe, effective, efficient, and socially acceptable robot behaviors and human-robot interactions (HRI).
@@ -138,10 +151,10 @@ COIN is funded by the Swedish Foundation for Strategic Research (SSF) (2016-2021
 <div class='container'>
     <div>
 		<img src='../images/project-adaplus.jpg' class='iconDetails'>
-    </div>  
+    </div>
     <div style='margin-left:30%;'>
 		<h4>ADAPT-PLUS: Adaptive learning for personalised instructional robots</h4>
-		<div style="font-size:.8em"> This project will develop novel adaptive learning algorithms for effective human-robot interaction in instructional settings that rely on robust real-time modelling and adaptation to human users and task performance. 
+		<div style="font-size:.8em"> This project will develop novel adaptive learning algorithms for effective human-robot interaction in instructional settings that rely on robust real-time modelling and adaptation to human users and task performance.
 ADAPT-PLUS is funded by the Swedish Research Council (2016-2020).
 		</div>
     </div>
@@ -151,13 +164,12 @@ ADAPT-PLUS is funded by the Swedish Research Council (2016-2020).
 <div class='container'>
     <div>
 		<img src='../images/project-emote.jpg' class='iconDetails'>
-    </div>  
+    </div>
     <div style='margin-left:30%;'>
 		<a href="http://www.emote-project.eu/"><h4>EMOTE: Embodied Perceptive Tutors for Empathy-based Learning</h4></a>
-		<div style="font-size:.8em"> This project designed, developed and evaluated a new generation of fully autonomous, embodied tutors that have empathic capabilities to engage in personalised interactions with learners in a shared physical space. Specifically, EMOTE’s objectives were: (1) to research the role of personalised interventions in the process of engaging the learner and facilitating their learning progress, and (2) to explore if and how the exchange of socio-emotional cues with an embodied tutor in a shared physical space can create a sense of connection and bonding and act as a facilitator of the learning experience. This was done across different embodiments (both virtual and robotic, i.e., the Nao robot with torso and arms), allowing for the effects of embodiment on engagement and empathy to be explored. 
+		<div style="font-size:.8em"> This project designed, developed and evaluated a new generation of fully autonomous, embodied tutors that have empathic capabilities to engage in personalised interactions with learners in a shared physical space. Specifically, EMOTE’s objectives were: (1) to research the role of personalised interventions in the process of engaging the learner and facilitating their learning progress, and (2) to explore if and how the exchange of socio-emotional cues with an embodied tutor in a shared physical space can create a sense of connection and bonding and act as a facilitator of the learning experience. This was done across different embodiments (both virtual and robotic, i.e., the Nao robot with torso and arms), allowing for the effects of embodiment on engagement and empathy to be explored.
 EMOTE was funded by the European Commission in the EU FP7 Framework Programme (2012-2016).
 		</div>
     </div>
 </div>
 <p style="clear:both;"></p>
-
