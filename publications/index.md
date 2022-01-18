@@ -1,9 +1,13 @@
 ---
 title: Publications
 ---
+#### 2022
+Elgarf, M., Calvo-Barajas, N., Alves-Oliveira, P., Perugia, G., Castellano, G., Peters, C., and Paiva, A. "And then what happens?” Promoting Children’s Verbal Creativity Using a Robot. Proceedings of 17th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2022)
+
+Tanqueray, L., Paulsson, T., Zhong, M., Larsson, S., and Castellano, G. (2022). Gender Fairness in Social Robotics: Exploring a Future Care of Peripartum Depression. Proceedings of 17th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2022).
 
 #### 2021
-Zhong, M., Bilal, A., Papadopoulos, F., & Castellano, G. (2021). Psychiatrists’ views on robot-assisted diagnostics of peripartum depression (accepted to ICSR 2021)
+Zhong, M., Bilal, A. M., Papadopoulos, F. C., & Castellano, G. (2021, November). Psychiatrists’ Views on Robot-Assisted Diagnostics of Peripartum Depression. In International Conference on Social Robotics (pp. 464-474). Springer, Cham.
 
 Calvo-Barajas, N., Elgarf, M., Perugia, G., Paiva, A., Peters, C. E., & Castellano, G. (2021). Hurry up, we need to find the key! How Regulatory Focus Design Affects Children's Trust in a Social Robot. Frontiers in Robotics and AI, 8, 197. [doi: 10.3389/frobt.2021.652035](https://www.frontiersin.org/articles/10.3389/frobt.2021.652035/abstract)
 
