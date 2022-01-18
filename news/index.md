@@ -2,6 +2,8 @@
 layout: post
 title: News
 ---
+**December 2021**: we had two full papers accepted at the [**HRI 2022 conference**](https://humanrobotinteraction.org/2022/)! 
+
 **September 2021**: Ginevra will give a keynote at [**IROS 2021 conference**](https://iros2021.gcon.me/page/plenaries-and-keynotes), title **"Trustworthy human-robot interaction in socially assistive scenarios"**.
 
 **September 2021**: We have one full paper accepted at the [**ICSR 2021 conference**](https://www.colips.org/conferences/icsr2021/wp/)! 
