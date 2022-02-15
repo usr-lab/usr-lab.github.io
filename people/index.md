@@ -190,10 +190,10 @@ function toggleAbstract(btn) {
 
 	
 <h2 style="color:grey"> Alumni  </h2>
-<h3> [Maike Paetzel, Ph.D.](https://www.maike-paetzel.de/) </h3>
-<h3> [Yuan Gao, Ph.D.](http://yuangao.ai) </h3>
-<h3> [Giulia Perugia, Postdoc](https://giuliaperugia.eu) </h3> 
-<h3> Piercosma Bisconti Lucidi, Visiting Ph.D. </h3> 
-<h3> Elena Lechuga Redondo, Visiting Ph.D. </h3>
+<h4> Maike Paetzel, Ph.D. </h4>
+<h4> Yuan Gao, Ph.D. </h4>
+<h4> Giulia Perugia, Postdoc </h4> 
+<h4> Piercosma Bisconti Lucidi, Visiting Ph.D. </h4> 
+<h4> Elena Lechuga Redondo, Visiting Ph.D. </h4>
 
 
