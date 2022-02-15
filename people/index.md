@@ -184,21 +184,12 @@ function toggleAbstract(btn) {
 <button class="button black" onclick="window.open('http://www.it.uu.se/katalog/marle917')" type="button">
 	Elena Lechuga's Personal Website</button>
 	
+
 	
 <h2 style="color:grey"> Alumni  </h2>
 <h3> Maike Paetzel </h3>
-<h4 style="color:grey">  Ph.D. </h4>
-<div class='container'>
-    <div>
-		<img src='../images/people-maike.jpg' class='iconDetails'>
-    </div>  
-    <div style='margin-left:25%;'>
-    <div style="font-size:.8em"> Maike Paetzel is a former PhD student in the Social Robotics Lab and mainly focused on studying the uncanny valley effect. She was specifically interested in how interactions with an agent can change an initial (uncanny) perception. Maike’s background is both in humanoid robotics and conversational agents. Apart from Human-Robot Interaction her heart belongs to the RoboCup community, where she is still actively engaged in the team Hamburg Bit-Bots and the organization of the Humanoid League.</div>
-    </div>
-</div>
-<p style="clear:both;"></p>
-<button class="button black" onclick="window.open('https://maike-paetzel.de/')" type="button">
-	Maike Paetzel's Personal Website</button>
+<h4 style="color:grey">  Ph.D.</h4>
+
 	
 <h3> Alex Yuan Gao </h3>
 <h4 style="color:grey">  Ph.D. </h4>
