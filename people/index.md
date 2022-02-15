@@ -187,8 +187,7 @@ function toggleAbstract(btn) {
 
 	
 <h2 style="color:grey"> Alumni  </h2>
-<h3> Maike Paetzel </h3>
-<h4 style="color:grey">  Ph.D.</h4>
+<button class="button black" onclick="window.open('https://maike-paetzel.de/')" type="button"> <h4> Maike Paetzel, Ph.D. </h4> </button>
 
 	
 <h3> Alex Yuan Gao </h3>
