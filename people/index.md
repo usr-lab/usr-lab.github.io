@@ -114,6 +114,22 @@ function toggleAbstract(btn) {
 <button class="button black" onclick="window.open('http://user.it.uu.se/~ginca820/')" type="button">
 	Ginevra Castellano's Personal Website</button>
 
+
+<h3> Katie Winkle </h3>
+<h4 style="color:grey"> Assistat Professor </h4>
+<div class='container'>
+    <div>
+		<img src='../images/people-katie.jpg' class='iconDetails'>
+    </div>  
+    <div style='margin-left:25%;'>
+    <div style="font-size:.8em"> Katie Winkle is an Assistant Professor at the Department of Information Technology, Uppsala University, where she is developing new lines of research around trustworthy Human Robot Inteaction (and what that means) at the Social Robotics Lab. Her research interests cover the design, development, evaluation and application of socially assistive robotics, with a focus on human-in-the-loop design/development and mutual shaping approaches which recognise the two-way interaction between robots and society. </div>
+    </div>
+</div>
+<p style="clear:both;"></p>
+<button class="button black" onclick="window.open('https://kwinkle.github.io/')" type="button">
+	Katie Winkle's Personal Website</button>
+
+
 <h3>Sebastian Wallkötter</h3>
 <h4 style="color:grey">  Ph.D. Candidate </h4>
 <div class='container'>
