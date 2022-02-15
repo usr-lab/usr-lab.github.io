@@ -170,62 +170,14 @@ function toggleAbstract(btn) {
 <button class="button black" onclick="window.open('https://www.it.uu.se/katalog/menzh316')" type="button">
 	Mengyu Zhong's Personal Website</button>
 
-
-<h3>Elena Lechuga Redondo</h3>
-<h4 style="color:grey">  Visiting Ph.D. Student </h4>
-<div class='container'>
-    <div>
-		<img src='../images/people-elena.jpg' class='iconDetails'>
-    </div>
-    <div style='margin-left:25%;'>
-    <div style="font-size:.8em"> Elena Lechuga Redondo is a PhD student of the Robotics Brain and Cognitive Science (RBCS) department at the Italian Institute of Technology (IIT). Her main interests are social robotics and affective computing. Ideally, she would like to merge both and create robots able to recognize and adapt to the most relevant paterns within an interaction. Eager on getting deeper in this research, she started a collaboration with the Ginevra Castellano's group in the Social Robotics Lab at Uppsala University. </div>
-</div>
-<p style="clear:both;"></p>
-<button class="button black" onclick="window.open('http://www.it.uu.se/katalog/marle917')" type="button">
-	Elena Lechuga's Personal Website</button>
 	
 
 	
 <h2 style="color:grey"> Alumni  </h2>
-<button class="button black" onclick="window.open('https://maike-paetzel.de/')" type="button"> <h4> Maike Paetzel, Ph.D. </h4> </button>
-<button class="button black" onclick="window.open('http://yuangao.ai')" type="button"> <h4> Yuan Gao, Ph.D. </h4> </button>
-	
-<h3> Alex Yuan Gao </h3>
-<h4 style="color:grey">  Ph.D. </h4>
-<div class='container'>
-    <div>
-		<img src='../images/people-alex.jpg' class='iconDetails'>
-    </div>  
-    <div style='margin-left:25%;'>
-    <div style="font-size:.8em"> (Alex) Yuan Gao is a former PhD student in the Social Robotics Lab at Uppsala University. His research interests are driven by a final goal of developing AI-driven robots that can think and feel like real humans (e.g. Ex Machina). This encircles robot's learning and control, nature language processing, image processing, neuroscience and computational phycology. In particular, he is interested in deep/reinforcement/neuro-based learning approaches to robotic perception, control, and physical modeling of the robot’s environment, which can help us to understand ourselves and build a unified learning structure for adaptive, efficient and robust complex robotic system. Currently, he is working on projects that can fill the gap between deep reinforcement learning and social robotics.</div>
-    </div>
-</div>
-<p style="clear:both;"></p>
-<button class="button black" onclick="window.open('http://yuangao.ai')" type="button">
-	Yuan Gao's Personal Website</button>
-
-
-<h3> Giulia Perugia </h3>
-<h4 style="color:grey">  Postdoc Researcher </h4>
-<div class='container'>
-    <div>
-		<img src='../images/people-giulia.jpg' class='iconDetails'>
-    </div>  
-    <div style='margin-left:25%;'>
-    <div style="font-size:.8em"> Giulia Perugia is a formera postdoctoral researcher in the Social Robotics Lab. She received a BA in Literature and Linguistics from the University of Roma Tre (Rome, Italy) in 2011, a MSc in Cognitive Science from the University of Siena (Italy) in 2013, and a double degree PhD in Assistive Technologies from the Polytechnic University of Catalonia (UPC; Barcelona, Spain) and Eindhoven University of Technology (TU/e; Netherlands) in 2018. As a scientist, she is interested in understanding and modeling the emotional and social linkage that the interaction with social robots triggers, how this can be used for assistive and educational purposes, and how it might impact and shape our society. </div>
-    </div>
-</div>
-<p style="clear:both;"></p>
-<button class="button black" onclick="window.open('http://katalog.uu.se/profile/?id=N18-2160')" type="button">Giulia Perugia's Website</button>
-
-<h3>Piercosma Bisconti Lucidi</h3>
-<h4 style="color:grey">  Visiting Ph.D. Student </h4>
-<div class='container'>
-    <div>
-		<img src='../images/people-piercosma.jpg' class='iconDetails'>
-    </div>
-    <div style='margin-left:25%;'>
-    <div style="font-size:.8em"> Piercosma Bisconti is a former visiting Ph.D. student in the Social Robotics Lab. He is a Ph.D. candidate in Political Philosophy at Sant’Anna School of Advanced Studies. His research focuses on how human-robot interactions may influence human-human ones, especially with regards to Social Robotics. His background is in Philosophy, both the B.A and M.A, and a large part of his studies focused on Psychology. While doing his Ph.D, he is researcher at the CyberethicsLab, addressing the socio-technical implications of disruptive technologies in EU Horizon 2020 projects. </div>
-</div>
+<button class="button black" onclick="window.open('https://maike-paetzel.de/')" type="button"> <h3> Maike Paetzel, Ph.D. </h3> </button>
+<button class="button black" onclick="window.open('http://yuangao.ai')" type="button"> <h3> Yuan Gao, Ph.D. </h3> </button>
+<button class="button black" onclick="window.open('https://giuliaperugia.eu')" type="button"> <h3> Giulia Perugia, Postdoc </h3>  </button>
+<h3> Piercosma Bisconti Lucidi, Visiting Ph.D. </h3> 
+<h3> Elena Lechuga Redondo, Visiting Ph.D. </h3>
 
 
