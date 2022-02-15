@@ -116,7 +116,7 @@ function toggleAbstract(btn) {
 
 
 <h3> Katie Winkle </h3>
-<h4 style="color:grey"> Assistat Professor </h4>
+<h4 style="color:grey"> Assistant Professor </h4>
 <div class='container'>
     <div>
 		<img src='../images/people-katie.jpg' class='iconDetails'>
