@@ -2,6 +2,11 @@
 layout: post
 title: News
 ---
+
+**February 2022**: Laura Moradbakhti joined the lab as a visiting PhD researcher 
+
+**February 2022**: Katie Winkle joined the lab as an Assistant Professor
+
 **December 2021**: we had two full papers accepted at the [**HRI 2022 conference**](https://humanrobotinteraction.org/2022/)! 
 
 **September 2021**: Ginevra will give a keynote at [**IROS 2021 conference**](https://iros2021.gcon.me/page/plenaries-and-keynotes), title **"Trustworthy human-robot interaction in socially assistive scenarios"**.
@@ -95,6 +100,5 @@ The Ten-Year Technical Impact Award  is awarded to a scientist or group of scien
 **March 2018**: we received a visit from Prof. Gustaf Gredebäck, Uppsala Barn and Baby Lab
 
 **February 2018**: [Sebastian Wallkoetter](https://usr-lab.github.io/people/) joined our lab as a PhD student
-
 
 **February 2018**: we hosted in Uppsala the kick-off meeting of the [**EU H2020 ANIMATAS project**](http://www.animatas.eu/)
