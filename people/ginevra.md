@@ -1,8 +1,11 @@
 ---
-permalink: /ginevra.html
+title: Ginevra
 ---
-<link rel="stylesheet" type="text/css" href="../../assets/css/button.css">
 
+<link rel="stylesheet" type="text/css" href="../../assets/css/button.css">
+<button class="button black" onclick="window.location.href='../people/'" type="button">
+	Back</button>
+  
 ## Ginevra Castellano
 ### Professor in Intellingent Interactive Systems
 ### Department of Information Technology
