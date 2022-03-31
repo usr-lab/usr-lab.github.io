@@ -113,7 +113,8 @@ function toggleAbstract(btn) {
 <p style="clear:both;"></p>
 <button class="button black" onclick="window.open('http://user.it.uu.se/~ginca820/')" type="button">
 	Ginevra Castellano's Personal Website</button>
-<div style="text-align: left;"><a href="{{ site.url }}modelling.html"><h4>User modelling for personalised and co-adaptive human-robot interaction</h4></a></div>
+<button class="button black" onclick="{{ site.url }}modelling.html" type="button">
+	Ginevra Castellano's Personal Website</button>
 
 <h3> Katie Winkle </h3>
 <h4 style="color:grey"> Assistant Professor </h4>
