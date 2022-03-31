@@ -1,5 +1,5 @@
 ---
-title: Ginevra
+permalink: /ginevra.html
 ---
 
 <link rel="stylesheet" type="text/css" href="../../assets/css/button.css">
