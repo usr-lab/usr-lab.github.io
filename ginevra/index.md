@@ -1,14 +1,10 @@
 ---
-title: Ginevra
+title: Professor Ginevra Castellano
 ---
 
 <link rel="stylesheet" type="text/css" href="../../assets/css/button.css">
 <button class="button black" onclick="window.location.href='../people/'" type="button">
 	Back</button>
-  
-## Ginevra Castellano
-### Professor in Intellingent Interactive Systems
-### Department of Information Technology
 
 ![](../images/people-ginevra.jpg)
 
