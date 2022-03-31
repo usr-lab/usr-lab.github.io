@@ -1,7 +1,3 @@
-<link rel="stylesheet" type="text/css" href="../../assets/css/button.css">
-<button class="button black" onclick="window.location.href='../people/'" type="button">
-	Back</button>
-
 ---
 title: Professor Ginevra Castellano
 ---
