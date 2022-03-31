@@ -113,7 +113,7 @@ function toggleAbstract(btn) {
 <p style="clear:both;"></p>
 <button class="button black" onclick="window.open('http://user.it.uu.se/~ginca820/')" type="button">
 	Ginevra Castellano's Personal Website</button>
-<button class="button black" onclick="wndon.location.href{{ site.url }}modelling.html" type="button">
+<button class="button black" onclick="window.location.href='../modelling/" type="button">
 	Test</button>
 
 <h3> Katie Winkle </h3>
