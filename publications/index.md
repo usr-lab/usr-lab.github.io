@@ -7,6 +7,14 @@ Elgarf, M., Calvo-Barajas, N., Alves-Oliveira, P., Perugia, G., Castellano, G., 
 Tanqueray, L., Paulsson, T., Zhong, M., Larsson, S., and Castellano, G. (2022). Gender Fairness in Social Robotics: Exploring a Future Care of Peripartum Depression. Proceedings of 17th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2022).
 
 #### 2021
+Ahlberg, S., Axelsson, A., Yu, P., Shaw Cortez, W., Gao, Y., Ghadirzadeh, A., Castellano, G., Kragic, D., Skantze, G., and Dimarogonas, D. V. (2021). Co-adaptive Human-Robot Cooperation: Summary and Challenges. Unmanned Systems 10(2)
+ 
+Perugia, G.,  Paetzel, M., Hupont, I., Varni, G., Chetouani, M., Peters, C., and Castellano, G. (2021). Does the Goal Matter? Emotion Recognition Tasks Can Change the Social Value of Facial Mimicry towards Artificial Agents. Frontiers in Robotics & AI (2021).
+ 
+Tanqueray, L., Castellano, G., and Larsson, S. (2021). A Preliminary Case Study on Gender Norms in Robot-Assisted Diagnosis of Perinatal Depression: A Socio-Legal HRI Perspective. GenR workshop, RO-MAN 2021.
+ 
+Fraile, M., Lindblad, J., Fawcett, C., Sladoje, N., and Castellano, G. (2021). Automatic analysis of infant engagement during play: An end-to-end learning and Explainable AI pilot experiment. In Proceedings of ICMI Workshop on Bridging Social Sciences and AI for Understanding Child Behavior (WoCBU), (ICMI '21 Companion) pp. 403-407, New York, NY, USA, Dec. 2021.
+
 Zhong, M., Bilal, A. M., Papadopoulos, F. C., & Castellano, G. (2021, November). Psychiatrists’ Views on Robot-Assisted Diagnostics of Peripartum Depression. In International Conference on Social Robotics (pp. 464-474). Springer, Cham.
 
 Calvo-Barajas, N., Elgarf, M., Perugia, G., Paiva, A., Peters, C. E., & Castellano, G. (2021). Hurry up, we need to find the key! How Regulatory Focus Design Affects Children's Trust in a Social Robot. Frontiers in Robotics and AI, 8, 197. [doi: 10.3389/frobt.2021.652035](https://www.frontiersin.org/articles/10.3389/frobt.2021.652035/abstract)
