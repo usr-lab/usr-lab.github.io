@@ -4,9 +4,9 @@ title: Contact
 
 Visiting address:
  
-Room 2115, House 2
+Room 100160, Building 10
 Department of Information Technology
-Polacksbacken (Lägerhyddsvägen 2)
+New Ångström(Lägerhyddsvägen 1)
 Uppsala
  
 [Travel directions](http://www.it.uu.se/contact)
