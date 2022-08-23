@@ -2,11 +2,27 @@
 title: Publications
 ---
 #### 2022
-Elgarf, M., Calvo-Barajas, N., Alves-Oliveira, P., Perugia, G., Castellano, G., Peters, C., and Paiva, A. "And then what happens?” Promoting Children’s Verbal Creativity Using a Robot. Proceedings of 17th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2022)
 
-Tanqueray, L., Paulsson, T., Zhong, M., Larsson, S., and Castellano, G. (2022). Gender Fairness in Social Robotics: Exploring a Future Care of Peripartum Depression. Proceedings of 17th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2022).
+Zhong, M., Van Zoest, V., Bilal, AM., Papadopoulos, FC., & Castellano, G. (2022). Unimodal vs. Multimodal Prediction of Antenatal Depression from Smartphone-based Survey Data in a Longitudinal Study. In International Conference on Multimodal Interaction (ICMI'22). To appear. 
+
+Fraile, M., Lindblad, J., Fawcett, C., Sladoje, N., & Castellano, G. (2022). End-to-End Learning and Analysis of Infant Engagement During Guided Play: Prediction and Explainability. In International Conference on Multimodal Interaction (ICMI'22). To appear.
+
+Wallkötter, S., Chetouani, M., & Castellano, G. (2022). SLOT-V: Supervised Learning of Observer Models for Legible Robot Motion Planning in Manipulation, 31st IEEE International Conference on Robot & Human Interactive Communication (RO-MAN'22). To appear.
+
+Calvo-Barajas, N., & Castellano, G. (2022). Understanding Children's Trust Development through Repeated Interactions with a Virtual Social Robot. In the 31st IEEE International Conference on Robot & Human Interactive Communication (RO-MAN'22). To appear.
+
+Calvo-Barajas, N., & Castellano, G. (2022). "I have an idea!". Enhancing Children's Verbal Creativity through Repeated Interactions with a Virtual Robot. In Proceedings of the 2022 ACM International Conference on Intelligent Virtual Agents (IVA'22). To appear. 
+
+Bilal, AM., Fransson, E., Bränn, E., Eriksson, A., Zhong, M., Gidén, K., Elofsson, U., Axfors, C., Skalkidou, A., & Papadopoulos, FC. Predicting perinatal health outcomes using smartphone-based digital phenotyping and machine learning in a prospective Swedish cohort (Mom2B): study protocol. BMJ Open. 2022 Apr 27;12(4):e059033. doi: 10.1136/bmjopen-2021-059033. PMID: 35477874; PMCID: PMC9047888.
+
+Elgarf, M., Calvo-Barajas, N., Alves-Oliveira, P., Perugia, G., Castellano, G., Peters, C., and Paiva, A. "And then what happens?” Promoting Children’s Verbal Creativity Using a Robot. In Proceedings of the 2022 ACM/IEEE International Conference on Human-Robot Interaction (HRI '22). IEEE Press, 71–79. [https://doi.org/10.5555/3523760.3523774](https://dl.acm.org/doi/10.5555/3523760.3523774)
+
+Tanqueray, L., Paulsson, T., Zhong, M., Larsson, S., and Castellano, G. (2022). Gender Fairness in Social Robotics: Exploring a Future Care of Peripartum Depression. In Proceedings of the 2022 ACM/IEEE International Conference on Human-Robot Interaction (HRI '22). IEEE Press, 598-607. 
 
 #### 2021
+
+Fraile, M., Lindblad, J., Fawcett, C., Sladoje, N., & Castellano, G. (2021). Automatic analysis of infant engagement during play: An end-to-end learning and Explainable AI pilot experiment. In Companion Publication of the 2021 International Conference on Multimodal Interaction. [https://doi.org/10.1145/3461615.3485443](https://doi.org/10.1145/3461615.3485443)
+
 Ahlberg, S., Axelsson, A., Yu, P., Shaw Cortez, W., Gao, Y., Ghadirzadeh, A., Castellano, G., Kragic, D., Skantze, G., and Dimarogonas, D. V. (2021). Co-adaptive Human-Robot Cooperation: Summary and Challenges. Unmanned Systems 10(2)
  
 Perugia, G.,  Paetzel, M., Hupont, I., Varni, G., Chetouani, M., Peters, C., and Castellano, G. (2021). Does the Goal Matter? Emotion Recognition Tasks Can Change the Social Value of Facial Mimicry towards Artificial Agents. Frontiers in Robotics & AI (2021).
@@ -23,7 +39,7 @@ Calvo-Barajas, N., Perugia, G., and Castellano., G. 2021. The Effects of Motivat
 
 Arnelid, M.,  Boman, M., Brännström, A., Campano, E.,  Castellano, G., Dignum, V., Harrison, K., Johnson, E., Lee, F., Lindgren, E., Nilsson, I., Ostrowska, A., García Velázquez, I., and Winkle, K. (2021). <a class="news-link" href="../publications/papers/WASP-HS-CRM-Report-Healthcare-May-2021-1.pdf"> *WASP-HS. Community Reference Meeting: Healthcare. Report. May 2021.* </a>
 
-Wallkötter, S., Tulli, S., Castellano, G., Paiva, A., & Chetouani, M. (2021). Explainable Embodied Agents Through Social Cues: A Review, ACM Transactions on Human-Robot Interaction. To appear.
+Wallkötter, S., Tulli, S., Castellano, G., Paiva, A., & Chetouani, M. (2021). Explainable embodied agents through social cues: a review. ACM Transactions on Human-Robot Interaction (THRI), 10(3), 1-24. [https://doi.org/10.1145/3457188](https://doi.org/10.1145/3457188)
  
 Yang, F., Gao, Y., Ma, R., Zojaji, S., Castellano, G., & Peters, C. (2021). A dataset of human and robot approach behaviors into small free-standing conversational groups. PLOS ONE,  https://doi.org/10.1371/journal.pone.0247364
  
