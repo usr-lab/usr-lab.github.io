@@ -21,15 +21,13 @@ Tanqueray, L., Paulsson, T., Zhong, M., Larsson, S., and Castellano, G. (2022). 
 
 #### 2021
 
-Fraile, M., Lindblad, J., Fawcett, C., Sladoje, N., & Castellano, G. (2021). Automatic analysis of infant engagement during play: An end-to-end learning and Explainable AI pilot experiment. In Companion Publication of the 2021 International Conference on Multimodal Interaction. [https://doi.org/10.1145/3461615.3485443](https://doi.org/10.1145/3461615.3485443)
-
 Ahlberg, S., Axelsson, A., Yu, P., Shaw Cortez, W., Gao, Y., Ghadirzadeh, A., Castellano, G., Kragic, D., Skantze, G., and Dimarogonas, D. V. (2021). Co-adaptive Human-Robot Cooperation: Summary and Challenges. Unmanned Systems 10(2)
  
 Perugia, G.,  Paetzel, M., Hupont, I., Varni, G., Chetouani, M., Peters, C., and Castellano, G. (2021). Does the Goal Matter? Emotion Recognition Tasks Can Change the Social Value of Facial Mimicry towards Artificial Agents. Frontiers in Robotics & AI (2021).
  
 Tanqueray, L., Castellano, G., and Larsson, S. (2021). A Preliminary Case Study on Gender Norms in Robot-Assisted Diagnosis of Perinatal Depression: A Socio-Legal HRI Perspective. GenR workshop, RO-MAN 2021.
  
-Fraile, M., Lindblad, J., Fawcett, C., Sladoje, N., and Castellano, G. (2021). Automatic analysis of infant engagement during play: An end-to-end learning and Explainable AI pilot experiment. In Proceedings of ICMI Workshop on Bridging Social Sciences and AI for Understanding Child Behavior (WoCBU), (ICMI '21 Companion) pp. 403-407, New York, NY, USA, Dec. 2021.
+Fraile, M., Lindblad, J., Fawcett, C., Sladoje, N., & Castellano, G. (2021). Automatic analysis of infant engagement during play: An end-to-end learning and Explainable AI pilot experiment. In Companion Publication of the 2021 International Conference on Multimodal Interaction. [https://doi.org/10.1145/3461615.3485443](https://doi.org/10.1145/3461615.3485443)
 
 Zhong, M., Bilal, A. M., Papadopoulos, F. C., & Castellano, G. (2021, November). Psychiatrists’ Views on Robot-Assisted Diagnostics of Peripartum Depression. In International Conference on Social Robotics (pp. 464-474). Springer, Cham.
 
