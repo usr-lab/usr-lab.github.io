@@ -186,7 +186,33 @@ function toggleAbstract(btn) {
 	Mengyu Zhong's Personal Website</button>
 
 	
+<h3>Lux Miranda</h3>
+<h4 style="color:grey">  Ph.D. Candidate </h4>
+<div class='container'>
+    <div>
+		<img src='../images/people-lux.png' class='iconDetails'>
+    </div>
+    <div style='margin-left:25%;'>
+    <div style="font-size:.8em"> Lux Miranda is a PhD student in the Social Robotics Lab. She wants to use the power of ethics, AI, and robotic embodiment to remedy existential dangers and transform society into a more sustainable and compassionate place. With a background drawing from complexity science, anthropology, cognitive science, and computational modeling, their current work is focused on the ethics and diversification of robot identity construction, AI alignment, feminist robot design, the dynamics of social intelligence, and illuminating the world. </div>
+</div>
+<p style="clear:both;"></p>
+<button class="button black" onclick="window.open('https://luxmiranda.com/')" type="button">
+	Lux Miranda's Personal Website</button>
+	
 
+<h3>Alessio Galatolo</h3>
+<h4 style="color:grey">  Ph.D. Candidate </h4>
+<div class='container'>
+    <div>
+		<img src='../images/people-alessio.jpg' class='iconDetails'>
+    </div>
+    <div style='margin-left:25%;'>
+    <div style="font-size:.8em"> Alessio Galatolo is a PhD student at the Social Robotics Lab. He received his MSc degree in Machine Learning at KTH, Stockholm in 2022. His work directly targets diabetes prevention using social robots as part of the PREVENT project. His research interests involve the use of AI and ML to give robots the social intelligence needed to personalise and improve their interaction to a specific user, also considering the ethical risks and social consequences involved. </div>
+</div>
+<p style="clear:both;"></p>
+<button class="button black" onclick="window.open('https://www.alessiogalatolo.com/home-page')" type="button">
+	Alessio Galatolo's Personal Website</button>
+	
 	
 <h2 style="color:grey"> Alumni  </h2>
 <h4> Maike Paetzel, Ph.D. </h4>
