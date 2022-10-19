@@ -168,7 +168,7 @@ function toggleAbstract(btn) {
     <div style="font-size:.8em"> Marc Fraile is a Ph.D. candidate under the Centre for Interdisciplinary Mathematics (CIM) at Uppsala University. He conducts his research in Uppsala Social Robotics Lab, in close collaboration with the Methods for Image Data Analysis (MIDA) group. His interests lie in developing explainable AI (XAI) methods, and applying those to make more trustable machines. </div>
 </div>
 <p style="clear:both;"></p>
-<button class="button black" onclick="window.open('https://www.it.uu.se/katalog/marfr327')" type="button">
+<button class="button black" onclick="window.open('https://marcfraile.github.io/')" type="button">
 	Marc Fraile's Personal Website</button>
 
 
