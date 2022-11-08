@@ -129,21 +129,23 @@ function toggleAbstract(btn) {
 	Katie Winkle's Personal Website</button>
 
 
-<h3>Sebastian Wallkötter</h3>
-<h4 style="color:grey">  Ph.D. Candidate </h4>
+<h3> Ana Tanevska </h3>
+<h4 style="color:grey"> Postdoctoral Researcher </h4>
 <div class='container'>
     <div>
-		<img src='../images/people-sebastian.jpg' class='iconDetails'>
+		<img src='../images/people-ana.jpg' class='iconDetails'>
     </div>  
     <div style='margin-left:25%;'>
-    <div style="font-size:.8em"> Sebastian Wallkötter is a PhD student at the Department of Information Technology, Uppsala University, and works as a researcher in the Social Robotics Lab. His work is part of the Horizon 2020 funded ANIMATAS project. He is interested in social learning for robots, ethical behavior of robotic systems as well as advancing the field of machine learning in the areas of reinforcement learning and deep learning.</div>
+    <div style="font-size:.8em">
+Ana Tanevska is a postdoctoral researcher at the Department of Information Technology, Uppsala University, within the Horizon Europe project SymAware. Their research at the Social Robotics Lab is grounded in the topic of trustworthy human-robot interaction with a particular focus on human-in-the-loop learning and shared autonomy and agency in HRI. In addition to trustworthy HRI, Ana's research interests also include cognitive robotics (with a spotlight on the role of affect in cognition) and socially-assistive HRI.
+    </div>
     </div>
 </div>
 <p style="clear:both;"></p>
-<button class="button black" onclick="window.open('http://sebastian.wallkoetter.net')" type="button">
-	Sebastian Wallkötter's Personal Website</button>
-	
-	
+<button class="button black" onclick="window.open('https://www.it.uu.se/katalog/anata621')" type="button">
+	Ana Tanevska's Personal Website</button>
+
+
 <h3>Natalia Calvo</h3>
 <h4 style="color:grey">  Ph.D. Candidate </h4>
 <div class='container'>
@@ -213,12 +215,31 @@ function toggleAbstract(btn) {
 <button class="button black" onclick="window.open('https://www.alessiogalatolo.com/home-page')" type="button">
 	Alessio Galatolo's Personal Website</button>
 	
+
+
+<h3> Anastasia Akkuzu</h3>
+<h4 style="color:grey"> Master's student </h4>
+<div class='container'>
+    <div>
+		<img src='../images/people-anastasia.jpg' class='iconDetails'>
+    </div>  
+    <div style='margin-left:25%;'>
+    <div style="font-size:.8em">
+Anastasia Akkuzu is a Master's student in Human-Computer Interaction writing her thesis at the Social Robotics Lab under the supervision of Natalia Calvo. She is researching how relationships between humans and robots take form, especially in the contexts of emotional intimacy and uncanniness. Her background is in cognitive science with interests in AI, cognitive computing, many-valued logic, and robotics.
+    </div>
+    </div>
+</div>
+<p style="clear:both;"></p>
+
+
 	
 <h2 style="color:grey"> Alumni  </h2>
+<h4> Sebastian Wallkötter, Ph.D. </h4>
 <h4> Maike Paetzel, Ph.D. </h4>
 <h4> Yuan Gao, Ph.D. </h4>
 <h4> Giulia Perugia, Postdoc </h4> 
 <h4> Piercosma Bisconti Lucidi, Visiting Ph.D. </h4> 
 <h4> Elena Lechuga Redondo, Visiting Ph.D. </h4>
+
 
 
