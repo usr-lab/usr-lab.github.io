@@ -6,8 +6,6 @@ title: People
 .iconDetails {
 	float: left;
 	width:20%;
-    	height:20%;
-	max-height:150px;
 	max-width:150px; 
 	border-radius: 10px;
 } 
