@@ -11,7 +11,8 @@
       <div class="archive__item">
         {% if f.image_path %}
           <div class="archive__item-teaser">
-            <img src="{{ f.image_path | relative_url }}"
+            <img style="object-fit: cover; object-position: top; height: 150px; width: 150px; border-radius: 20px;"
+                 src="{{ f.image_path | relative_url }}"
                  alt="{% if f.alt %}{{ f.alt }}{% endif %}">
             {% if f.image_caption %}
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
@@ -19,9 +20,13 @@
           </div>
         {% endif %}
 
-        <div class="archive__item-body">
+        <div>
           {% if f.title %}
-            <h2 class="archive__item-title">{{ f.title }}</h2>
+            <h2>{{ f.title }}</h2>
+          {% endif %}
+          
+          {% if f.subtitle %}
+            <h6>{{ f.subtitle }}</h6>
           {% endif %}
 
           {% if f.excerpt %}
