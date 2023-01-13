@@ -1,5 +1,2 @@
-source 'https://rubygems.org'
-
-gem 'jekyll'
-gem 'jekyll-sitemap'
-gem 'octopress'
+source "https://rubygems.org"
+gemspec
