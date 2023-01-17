@@ -1,7 +1,7 @@
 ---
-permalink: /news/
+permalink: /old_news/
 layout: single
-title: News
+title: Old news
 ---
 
 ## 2022
