@@ -1,7 +1,7 @@
 ---
 permalink: /work_with_us
 title: Work with us!
-layout: single
+layout: splash
 
 header: 
   overlay_color: "#000"
@@ -14,7 +14,7 @@ There are currently no vacancies at the social robotics lab.
 
 ---
 
-# Master's thesis/intership projects
+# Master's projects
 The following is a list of project that our lab offers that can be expanded into e.g. a master thesis or an intenship at the lab.
 
 ## Creating a super-diverse robot
@@ -32,5 +32,7 @@ Contact person: [Katie Winkle](mailto:katie.winkle@it.uu.se)
 Additionally, feel free to contact any of the following members if you're intersted in doing a project in their research area.
 
 [Alessio Galatolo](mailto:alessio.galatolo@it.uu.se): Machine Learning, ...
+
 ....
+
 ....

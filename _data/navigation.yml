@@ -17,3 +17,6 @@ main:
 
   - title: Contacts
     url: contacts/
+    
+  - title: Old news
+    url: old_news/

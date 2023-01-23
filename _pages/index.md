@@ -33,6 +33,8 @@ feature_row:
         - name: "alessio"
         - name: "katie"
 ---
+# Welcome to the Social Robotics Lab at Uppsala University
+{: .text-center}
 
 At Uppsala Social Robotics lab we aim to design and develop robots that learn to interact socially with humans and bring benefits to the society we live in, for example in application areas such as education, e-learning, healthcare and assistive technology.
 {: .text-center}
@@ -44,6 +46,16 @@ At Uppsala Social Robotics lab we aim to design and develop robots that learn to
 
 [Older news](old_news){: .btn .btn--inverse}
 
-## Selected publications
+## Most recent publications
 {% include feature_row_publications type="center-small" %}
 
+### Visiting address
+ 
+Room 100160, Building 10,
+Department of Information Technology,
+New Ångström (Lägerhyddsvägen 1),
+Uppsala
+ 
+[Travel directions](http://www.it.uu.se/contact)
+ 
+**Contact person**: [Ginevra Castellano](http://user.it.uu.se/~ginca820/)
