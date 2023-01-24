@@ -1,5 +1,5 @@
 ---
-permalink: /work_with_us
+permalink: /work_with_us/
 title: Work with us!
 layout: splash
 

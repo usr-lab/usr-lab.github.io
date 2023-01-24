@@ -1,5 +1,5 @@
 ---
-permalink: /publications
+permalink: /publications/
 title: Publications
 layout: splash
 header: 

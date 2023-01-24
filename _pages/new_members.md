@@ -1,5 +1,5 @@
 ---
-permalink: /new_members
+permalink: /new_members/
 title: New members
 layout: splash
 header:

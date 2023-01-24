@@ -1,5 +1,5 @@
 ---
-permalink: /teachings
+permalink: /teachings/
 title: Teachings
 layout: splash
 header:
