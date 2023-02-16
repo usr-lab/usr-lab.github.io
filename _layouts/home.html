@@ -1,75 +1,22 @@
-<!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
-<head>
-{% include _head.html %}
-</head>
+---
+layout: archive
+---
 
-<body class="home">
+{{ content }}
 
-{% include _browser-upgrade.html %}
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-{% include _navigation.html %}
-
-{% if page.image.feature %}
-  <div class="image-wrap">
-  <img src=
-    {% if page.image.feature contains 'http' %}
-      "{{ page.image.feature }}"
-    {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
-    {% endif %}
-  alt="{{ page.title }} feature image">
-  {% if page.image.credit %}
-    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
-  {% endif %}
-  </div><!-- /.image-wrap -->
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
 {% endif %}
 
-<div class="ism-slider" data-transition_type="zoom" data-image_fx="zoompan" data-play_type="loop" id="my-slider">
-    <ol>
-		<li>
-			<img src="{{ site.url }}/images/group_picture_2022.jpg">
-		</li>
-		<li>
-			<img src="{{ site.url }}/images/CH_5300-min.jpg">
-		</li>
-		<li>
-			<img src="{{ site.url }}/images/CH_5320-min.jpg">
-		</li>
-		<li>
-			<img src="{{ site.url }}/images/CH_5088-min.jpg">
-		</li>
-    </ol>
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
 </div>
-<div id="main" role="main">
-  <div class="article-author-side">
-  </div>
-  <div id="index">
-  </div><!-- /#index -->
-</div><!-- /#main -->
-	
-<div style="margin: 0 auto; text-align: center;">
-	<img src="https://www.uu.se/digitalAssets/242/c_242915-l_3-k_uu_logo_print.png" alt="Uppsala University" height="100" width="100" style="display:block;margin-left: auto; margin-right: auto;">
-	<h2 style="color:black">Welcome to the Social Robotics Lab at Uppsala University.</h2>
-	<hr width=80% style=" margin: 0 auto;"/>
-	<div style="width:80%; margin: 0 auto; text-align: center;" >
-		<p style="color:black"> 
-			<span style="font-size:0.8em "> We aim to design and develop robots that learn to interact socially with humans and bring benefits to the society we live in, for example in application areas such as education, e-learning, healthcare and assistive technology.  You can find more content on our Twitter 
-				<a href="https://twitter.com/USR_Lab"><img src="{{ site.url }}/images/twitter.svg" width="15" height="15" alt="Twitter account"> </a>, Youtube 
-				<a href="https://www.youtube.com/channel/UCPpgIEF2_42IhL4KC4BuLZQ"><img src="{{ site.url }}/images/youtube.svg" width="15" height="15" alt="Youtube account"></a> and GitHub 
-				<a href="https://github.com/usr-lab"><img src="{{ site.url }}/images/github.svg" width="15" height="15" alt="Facebook account"></a> </span></p><div/>
-</div>
-	
-<div class="footer-wrap">
-  <footer>
-    {% include _home-footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
 
-{% include _scripts.html %} 
-
-</body>
-</html>
+{% include paginator.html %}

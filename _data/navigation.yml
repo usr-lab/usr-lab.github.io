@@ -1,22 +1,22 @@
-# Site navigation links
-- title: Home
-  url: 
+# main links
+main:
+  - title: Research
+    url: research/
 
-- title: People
-  url: people/
-  
-- title: Research
-  url: research/
-  
-- title: Funded Projects
-  url: projects/
-  
-- title: Publications
-  url: publications/
+  - title: People
+    url: people/
+    
+  - title: Publications
+    url: publications/
+    
+  - title: Work with us!
+    url: work_with_us/
 
-- title: News
-  url: news/
-  
-- title: Contact
-  url: contact/
+  - title: Teachings
+    url: teachings/
 
+  - title: Contacts
+    url: contacts/
+    
+  - title: Old news
+    url: old_news/
