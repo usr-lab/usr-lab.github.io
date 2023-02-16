@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/group_picture_2022.jpg
-excerpt: 'Currently the lab is home to 2 Master students, 5 PhD students, 1 Postdoc and is headed by 1 Professor and 1 Assistant Professor.'
+excerpt: 'Currently the lab is home to 2 Master students, 6 PhD students, 1 Postdoc and is headed by 1 Professor and 1 Assistant Professor.'
 
 feature_row_professors:
   - image_path: ginevra
@@ -71,6 +71,11 @@ feature_row_phds:
     btn_label: "Alessio's personal website"
     btn_class: "btn btn--primary"
     url: https://www.alessiogalatolo.com
+  - image_path: vanessa
+    alt: "Vanessa Noack"
+    title: "Vanessa Noack"
+    excerpt: "Vanessa Noack (she/they) is a PhD candidate at the Centre for Gender Research at Uppsala University. Vanessa received an MSSc and MA degree with a major in Gender Studies in 2020 and 2021. In their project Gender, Embodiment and Technology, she pays particular attention to how gender is mobilised in a technologised context by drawing on three case studies. The case studies include an analysis of gender in relation to different robots, such as the wearable robots called exoskeletons. Vanessa is also the Equal Opportunities Officer at the Centre for Gender Research at Uppsala University and takes part in the research group Technologization of the Everyday."
+
 
 feature_row_masters:
   - image_path: anastasia
