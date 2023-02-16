@@ -8,12 +8,12 @@ main:
     
   - title: Publications
     url: publications/
-
-  - title: Teachings
-    url: teachings/
     
   - title: Work with us!
     url: work_with_us/
+
+  - title: Teachings
+    url: teachings/
 
   - title: Contacts
     url: contacts/

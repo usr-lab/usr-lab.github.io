@@ -17,22 +17,11 @@ There are currently no vacancies at the social robotics lab.
 # Master's projects
 The following is a list of project that our lab offers that can be expanded into e.g. a master thesis or an intenship at the lab.
 
-## Creating a super-diverse robot
-This is a really nice project where you will explore how to make robots super-cool by...
+## Work in progress
 
-Contact person: [Lux Miranda](mailto:lux.miranda@it.uu.se)
-
-## Creating super-feminist robots
-This is a really nice project where you will explore how to make robots super-cool by...
-
-Contact person: [Katie Winkle](mailto:katie.winkle@it.uu.se)
+This page is still a work in progress and will be updated soon with the correct information. In the meantime, please refer to each lab member's profile for info on their projects and availability.
 
 
-## Other projects
-Additionally, feel free to contact any of the following members if you're intersted in doing a project in their research area.
+<!-- ## Other projects
+Additionally, feel free to contact any of the following members if you're intersted in doing a project in their research area. -->
 
-[Alessio Galatolo](mailto:alessio.galatolo@it.uu.se): Machine Learning, ...
-
-....
-
-....
