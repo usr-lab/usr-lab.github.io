@@ -14,9 +14,9 @@ feature_row_professors:
     title: "Ginevra Castellano"
     subtitle: Professor, Lab Director
     excerpt: "Ginevra Castellano is a Professor at the Department of Information Technology, Uppsala University, where she leads the Social Robotics Lab. Her research interests are in the areas of social robotics and affective computing, and include social learning, personalized adaptive robots, multimodal behaviours and uncanny valley effect in robots and virtual agents. Over the last ten years she has been working on the development of computational abilities that allow robots to behave in a socially intelligent way in scenarios where robots provide social support to humans, for example as tutors in the classroom or as companions for children."
-    # btn_label: "Personal website"
-    # btn_class: "btn btn--primary"
-    # url: https://user.it.uu.se/~ginca820/
+    btn_label: "Ginevra's personal website"
+    btn_class: "btn btn--primary"
+    url: https://www.katalog.uu.se/empinfo/?id=N14-947
   - image_path: katie
     alt: "Katie Winkle"
     title: "Katie Winkle"
