@@ -43,15 +43,15 @@ feature_row:
 
 #### 2022
 
-Zhong, M., Van Zoest, V., Bilal, AM., Papadopoulos, FC., & Castellano, G. (2022). Unimodal vs. Multimodal Prediction of Antenatal Depression from Smartphone-based Survey Data in a Longitudinal Study. In International Conference on Multimodal Interaction (ICMI'22). To appear. 
+Zhong, M., Van Zoest, V., Bilal, AM., Papadopoulos, FC., & Castellano, G. (2022). Unimodal vs. Multimodal Prediction of Antenatal Depression from Smartphone-based Survey Data in a Longitudinal Study. In International Conference on Multimodal Interaction (ICMI'22). 
 
-Fraile, M., Lindblad, J., Fawcett, C., Sladoje, N., & Castellano, G. (2022). End-to-End Learning and Analysis of Infant Engagement During Guided Play: Prediction and Explainability. In International Conference on Multimodal Interaction (ICMI'22). To appear.
+Fraile, M., Lindblad, J., Fawcett, C., Sladoje, N., & Castellano, G. (2022). End-to-End Learning and Analysis of Infant Engagement During Guided Play: Prediction and Explainability. In International Conference on Multimodal Interaction (ICMI'22).
 
-Wallkötter, S., Chetouani, M., & Castellano, G. (2022). SLOT-V: Supervised Learning of Observer Models for Legible Robot Motion Planning in Manipulation, 31st IEEE International Conference on Robot & Human Interactive Communication (RO-MAN'22). To appear.
+Wallkötter, S., Chetouani, M., & Castellano, G. (2022). SLOT-V: Supervised Learning of Observer Models for Legible Robot Motion Planning in Manipulation, 31st IEEE International Conference on Robot & Human Interactive Communication (RO-MAN'22).
 
-Calvo-Barajas, N., & Castellano, G. (2022). Understanding Children's Trust Development through Repeated Interactions with a Virtual Social Robot. In the 31st IEEE International Conference on Robot & Human Interactive Communication (RO-MAN'22). To appear.
+Calvo-Barajas, N., & Castellano, G. (2022). Understanding Children's Trust Development through Repeated Interactions with a Virtual Social Robot. In the 31st IEEE International Conference on Robot & Human Interactive Communication (RO-MAN'22).
 
-Calvo-Barajas, N., & Castellano, G. (2022). "I have an idea!". Enhancing Children's Verbal Creativity through Repeated Interactions with a Virtual Robot. In Proceedings of the 2022 ACM International Conference on Intelligent Virtual Agents (IVA'22). To appear. 
+Calvo-Barajas, N., & Castellano, G. (2022). "I have an idea!". Enhancing Children's Verbal Creativity through Repeated Interactions with a Virtual Robot. In Proceedings of the 2022 ACM International Conference on Intelligent Virtual Agents (IVA'22). 
 
 Bilal, AM., Fransson, E., Bränn, E., Eriksson, A., Zhong, M., Gidén, K., Elofsson, U., Axfors, C., Skalkidou, A., & Papadopoulos, FC. Predicting perinatal health outcomes using smartphone-based digital phenotyping and machine learning in a prospective Swedish cohort (Mom2B): study protocol. BMJ Open. 2022 Apr 27;12(4):e059033. doi: 10.1136/bmjopen-2021-059033. PMID: 35477874; PMCID: PMC9047888.
 
