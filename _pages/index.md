@@ -8,31 +8,32 @@ header:
     image_description: "Group photo of the lab's members"
 
 feature_row:
-  - image_path: assets/images/publications/flaire2022end.png
+  - image_path: assets/images/publications/winkle2023feminist.png
     alt: "Publication image"
-    paper: "End-to-End Learning and Analysis of Infant Engagement During Guided Play: Prediction and Explainability"
-    venue: "*International Conference on Multimodal Interaction (ICMI) 2022*"
-    url: "https://doi.org/10.1145/3536221.3556629"
+    paper: "Feminist Human-Robot Interaction: Disentangling Power, Principles and Practice for Better, More Ethical HRI"
+    venue: "*HRI '23*"
+    url: "https://erickajohnson.se/onewebmedia/hrifp1204-winkle-CC-BY.pdf"
     members:
-        - name: "marc"
-        - name: "ginevra"
-  - image_path: assets/images/publications/zhong2022unimodal.png
+        - name: "katie"
+  - image_path: assets/images/publications/miranda2023identity.png
     alt: "Publication image"
-    paper: "Unimodal vs. Multimodal Prediction of Antenatal Depression from Smartphone-based Survey Data in a Longitudinal Study"
-    venue: "*International Conference on Multimodal Interaction (ICMI) 2022*"
-    url: "*International Conference on Multimodal Interaction (ICMI) 2022*"
+    paper: "Examining the state of robot identity"
+    venue: "*HRI '23*"
+    url: "https://luxmiranda.com/publications/miranda_et_al_2023.pdf"
+    members:
+        - name: "lux"
+        - name: "ginevra"
+        - name: "katie"
+  - image_path: assets/images/publications/paulsson2023peripartum.png
+    alt: "Publication image"
+    paper: "Exploring Mothers’ Perspectives on Socially Assistive Robots in Peripartum Depression Screening"
+    venue: "*HRI '23*"
+    url: assets/publications/paulsson2023peripartum.pdf
     members:
         - name: "mengyu"
         - name: "ginevra"
-  - image_path: assets/images/publications/galatolo2022right.png
-    alt: "Publication image"
-    paper: "The Right (Wo)Man for the Job? Exploring the Role of Gender when Challenging Gender Stereotypes with a Social Robot"
-    venue: "*International Journal of Social Robotics*"
-    url: "https://doi.org/10.1007/s12369-022-00938-2"
-    members:
-        - name: "alessio"
-        - name: "katie"
 ---
+
 # Welcome to the Social Robotics Lab at Uppsala University
 {: .text-center}
 

@@ -10,38 +10,47 @@ excerpt: Please always refer to Google Scholar's profiles of each member for a m
 
 
 feature_row:
-  - image_path: assets/images/publications/flaire2022end.png
+  - image_path: assets/images/publications/winkle2023feminist.png
     alt: "Publication image"
-    paper: "End-to-End Learning and Analysis of Infant Engagement During Guided Play: Prediction and Explainability"
-    venue: "*International Conference on Multimodal Interaction (ICMI) 2022*"
-    url: "https://doi.org/10.1145/3536221.3556629"
+    paper: "Feminist Human-Robot Interaction: Disentangling Power, Principles and Practice for Better, More Ethical HRI"
+    venue: "*HRI '23*"
+    url: "https://erickajohnson.se/onewebmedia/hrifp1204-winkle-CC-BY.pdf"
     members:
-        - name: "marc"
-        - name: "ginevra"
-  - image_path: assets/images/publications/zhong2022unimodal.png
+        - name: "katie"
+  - image_path: assets/images/publications/miranda2023identity.png
     alt: "Publication image"
-    paper: "Unimodal vs. Multimodal Prediction of Antenatal Depression from Smartphone-based Survey Data in a Longitudinal Study"
-    venue: "*International Conference on Multimodal Interaction (ICMI) 2022*"
-    url: "https://doi.org/10.1145/3536221.3556605"
+    paper: "Examining the state of robot identity"
+    venue: "*HRI '23*"
+    url: "https://luxmiranda.com/publications/miranda_et_al_2023.pdf"
+    members:
+        - name: "lux"
+        - name: "ginevra"
+        - name: "katie"
+  - image_path: assets/images/publications/paulsson2023peripartum.png
+    alt: "Publication image"
+    paper: "Exploring Mothers’ Perspectives on Socially Assistive Robots in Peripartum Depression Screening"
+    venue: "*HRI '23*"
+    url: assets/publications/paulsson2023peripartum.pdf
     members:
         - name: "mengyu"
         - name: "ginevra"
-  - image_path: assets/images/publications/galatolo2022right.png
-    alt: "Publication image"
-    paper: "The Right (Wo)Man for the Job? Exploring the Role of Gender when Challenging Gender Stereotypes with a Social Robot"
-    venue: "*International Journal of Social Robotics*"
-    url: "https://doi.org/10.1007/s12369-022-00938-2"
-    members:
-        - name: "alessio"
-        - name: "katie"
 ---
+
 # Most recent publications
 {% include feature_row_publications type="center-small" %}
 
 
+
+
+
 # Older publications
 
+
+
+
 #### 2022
+
+Galatolo, A., Melsión, G.I., Leite, I., & Winkle, K. (2022). The Right (Wo)Man for the Job? Exploring the Role of Gender when Challenging Gender Stereotypes with a Social Robot. Int J of Soc Robotics https://doi.org/10.1007/s12369-022-00938-2
 
 Zhong, M., Van Zoest, V., Bilal, AM., Papadopoulos, FC., & Castellano, G. (2022). Unimodal vs. Multimodal Prediction of Antenatal Depression from Smartphone-based Survey Data in a Longitudinal Study. In International Conference on Multimodal Interaction (ICMI'22). 
 
@@ -58,6 +67,8 @@ Bilal, AM., Fransson, E., Bränn, E., Eriksson, A., Zhong, M., Gidén, K., Elofs
 Elgarf, M., Calvo-Barajas, N., Alves-Oliveira, P., Perugia, G., Castellano, G., Peters, C., and Paiva, A. "And then what happens?” Promoting Children’s Verbal Creativity Using a Robot. In Proceedings of the 2022 ACM/IEEE International Conference on Human-Robot Interaction (HRI '22). IEEE Press, 71–79. [https://doi.org/10.5555/3523760.3523774](https://dl.acm.org/doi/10.5555/3523760.3523774)
 
 Tanqueray, L., Paulsson, T., Zhong, M., Larsson, S., and Castellano, G. (2022). Gender Fairness in Social Robotics: Exploring a Future Care of Peripartum Depression. In Proceedings of the 2022 ACM/IEEE International Conference on Human-Robot Interaction (HRI '22). IEEE Press, 598-607. 
+
+
 
 #### 2021
 
@@ -91,6 +102,7 @@ Paetzel-Prüsmann, M., Perugia, G., & Castellano, G. (2021). The Influence of Ro
 
 Stower, R., Calvo-Barajas, N., Castellano, G., & Kappas, A. (2021). A Meta-analysis on Children’s Trust in Social Robots. *International Journal of Social Robotics*, 1-23, 2021. [https://doi.org/10.1007/s12369-020-00736-8](https://doi.org/10.1007/s12369-020-00736-8)
 
+
 #### 2020
 Perugia, G., Paetzel, M., & Castellano, G. (2020, November) On the Role of Personality and Empathy in Human-Human, Human-Agent, and Human-Robot Mimicry. *In International Conference on Social Robotics (ICSR)*, (accepted). Springer, Cham.
 
@@ -108,3 +120,4 @@ Paetzel, M., Perugia, G., Castellano, G. (2020). The Persistence of First Impres
 Wallkötter, S., Stower, R., Kappas, A., Castellano, G. (2020). A Robot by Any Other Frame: Framing and Behaviour Influence Mind Perception in Virtual but not Real-World Environments. *2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI2020)*, 2020. https://doi.org/10.1145/3319502.3374800
 
 Calvo-Barajas, N., El-Garf, M., Perugia, G., Peters, C., & Castellano, G. (2020). Can a Social Robot Be Persuasive Without Losing Children’s Trust?. *In Companion of the 2020 ACM/IEEE International Conference on Human Robot Interaction (HRI2020)*, 2020. https://doi.org/10.1145/3371382.3378272
+
