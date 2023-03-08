@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/group_picture_2022.jpg
-excerpt: 'Currently the lab is home to 2 Master students, 6 PhD students, 1 Postdoc and is headed by 1 Professor and 1 Assistant Professor.'
+excerpt: 'Currently the lab is home to 2 Master students, 6 PhD students, 1 Postdoc and is headed by 1 Professor and 2 Assistant Professors.'
 
 feature_row_professors:
   - image_path: ginevra
@@ -25,6 +25,15 @@ feature_row_professors:
     btn_label: "Katie's personal website"
     btn_class: "btn btn--primary"
     url: https://kwinkle.github.io/
+  - image_path: didem
+    alt: "Didem Gürdür Broo"
+    title: "Didem Gürdür Broo"
+    subtitle: Assistant Professor
+    excerpt: "Didem Gurdur Broo is an Assistant Professor at the Department of Information Technology, Uppsala University. She is working with cyber-physical systems including industrial robotics and autonomous systems. Her research aims to provide new prototypes, tools, methods and methodologies to design future intelligent and autonomous systems more sustainable and human-centric through better data science practices and mindset shift."
+    btn_label: "Didem's personal website"
+    btn_class: "btn btn--primary"
+    url: https://didemgurdur.com/
+
 
 feature_row_postdocs:
   - image_path: ana
