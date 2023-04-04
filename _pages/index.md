@@ -41,6 +41,8 @@ At Uppsala Social Robotics lab we aim to design and develop robots that learn to
 {: .text-center}
 
 ## Most recent news
+***April 2023***: we have three postdoc positions open at the lab right now! Deadlines for applications: end of April/beginning of May. See details [here](work_with_us).
+
 ***January 2023***: we had one full paper and two late-breaking reports accepted at the [HRI 2023 conference](https://humanrobotinteraction.org/2023/)!
 
 ***November 2022***: Katie Winkle was granted the [Jacobs Foundation Research Fellowship](https://jacobsfoundation.org/activity/jacobs-foundation-research-fellowship-program/)!
