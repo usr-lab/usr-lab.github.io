@@ -36,6 +36,10 @@ feature_row:
     alt: "Project image"
     title: "Explainable deep learning methods for human-human and human-robot interaction "
     excerpt: "This project, funded by Uppsala University's Centre for Interdisciplinary Mathematics (2020-2024), aims at building on advances in deep learning, and in particular on the field of Explainable Artificial Intelligence (XAI), which offers approaches to increase the interpretability and explainability of the complex, highly nonlinear deep neural networks, to develop new machine learning-based methods that: (1) automatically analyse and predict alignment in human-human interaction (HHI), (2) visualize and provide interpretation of regions of focus, as well as the type of used information (e.g., face expression, eye movement, body position, etc.), in network’s decision/prediction making to aid understanding of the alignment in HHI."
+  - image_path: assets/images/projects/ethics_social_consequences.jpg
+    alt: "Project image"
+    title: "The ethics and social consequences of AI & caring robots. Learning trust, empathy and accountability"
+    excerpt: "It is likely that robots will soon be providing us with health and social care at different stages of our lives. For this to work, the robots must be able to build trusting relationships with people and act in a manner that is ethically acceptable. One important aspect of these relational intra-actions, and a challenge for researchers working with human-machine interaction,is therefore to program robots to behave sympathetically and accessibly. The project, funded by the Marianne and Marcus Wallenberg Foundation, is a collaboration with social science researchers at Linköping University (2020-2024)."
 
 ---
 
