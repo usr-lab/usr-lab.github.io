@@ -41,7 +41,7 @@ At Uppsala Social Robotics lab we aim to design and develop robots that learn to
 {: .text-center}
 
 ## Most recent news
-***April 2023***: we have three postdoc positions open at the lab right now! Deadlines for applications: end of April/beginning of May. See details [here](work_with_us).
+***April 2023***: we have three postdoc positions open at the lab right now (positions were filled)! Deadlines for applications: end of April/beginning of May.
 
 ***January 2023***: we had one full paper and two late-breaking reports accepted at the [HRI 2023 conference](https://humanrobotinteraction.org/2023/)!
 
