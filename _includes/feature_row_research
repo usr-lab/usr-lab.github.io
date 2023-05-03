@@ -11,8 +11,7 @@
       <div class="archive__item">
         {% if f.image_path %}
           <div class="archive__item-teaser">
-            <img style="object-fit: cover; object-position: center; height: 300px; width: 400px; border-radius: 5px;"
-                 src="{{ f.image_path | relative_url }}"
+            <img src="{{ f.image_path | relative_url }}"
                  alt="{% if f.alt %}{{ f.alt }}{% endif %}">
             {% if f.image_caption %}
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
@@ -25,31 +24,19 @@
             <h2 class="archive__item-title">{{ f.title }}</h2>
           {% endif %}
 
-          {% if f.paper %}
-            <div>
-              {{ f.paper | markdownify }}
-            </div>
-          {% endif %}
-
-          {% if f.venue %}
-            <div>
-              {{ f.venue | markdownify }}
-            </div>
-          {% endif %}
-          
           {% if f.excerpt %}
-            <div>
+            <div class="archive__item-excerpt">
               {{ f.excerpt | markdownify }}
             </div>
           {% endif %}
 
-          {% for m in f.members %}
-            <img style="object-fit: cover; object-position: top; height: 50px; width: 50px; border-radius: 50px;" title="{{ m.name | capitalize }}" src="/assets/images/people/{{ m.name | relative_url }}.jpg">
-          {% endfor %}
-
           {% if f.url %}
-            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: "Go to paper" }}</a></p>
+            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
+
+          {% for m in f.members %}
+            <img style="object-fit: cover; object-position: top; height: 60px; width: 60px; border-radius: 60px;" title="{{ m.name | capitalize }}" src="/assets/images/people/{{ m.name | relative_url }}.jpg">
+          {% endfor %}
         </div>
       </div>
     </div>
