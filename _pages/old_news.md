@@ -4,7 +4,16 @@ layout: single
 title: Old news
 ---
 
+##2023
+
+***April:***: we have three postdoc positions open at the lab right now (positions were filled)! Deadlines for applications: end of April/beginning of May.
+
+***January:***: we had one full paper and two late-breaking reports accepted at the [HRI 2023 conference](https://humanrobotinteraction.org/2023/)!
+
+
 ## 2022
+
+***November:***: Katie Winkle was granted the [Jacobs Foundation Research Fellowship](https://jacobsfoundation.org/activity/jacobs-foundation-research-fellowship-program/)!
 
 ***October:*** Ana Tanevska joined the lab as a postdoctoral researcher!
 
