@@ -43,15 +43,15 @@ feature_row_postdocs:
     # btn_label: "Personal website"
     # btn_class: "btn btn--primary"
     # url: https://www.it.uu.se/katalog/anata621
-
-feature_row_phds:
-  - image_path: natalia
+- image_path: natalia
     alt: "Natalia Calvo"
     title: "Natalia Calvo"
-    excerpt: "Natalia Calvo is a Ph.D. student in the Social Robotics Lab. She believes in a world where robots can actively assist humans in different scenarios. Her work is focused on modeling trust in human-robot educational interactions, and it is part of the ANIMATAS Project funded by Horizon 2020. Her research interests cover deep learning and human-robot interaction towards an interdisciplinary approach mostly focused on manipulation tasks, speech recognition interfaces, computer vision, and social robotics."
+    excerpt: "Natalia Calvo is a postdoctoral researcher in the Social Robotics Lab. She believes in a world where robots can actively assist humans in different scenarios. Her work is focused on modeling trust in human-robot educational interactions, and it is part of the ANIMATAS Project funded by Horizon 2020. Her research interests cover deep learning and human-robot interaction towards an interdisciplinary approach mostly focused on manipulation tasks, speech recognition interfaces, computer vision, and social robotics."
     # btn_label: "Personal website"
     # btn_class: "btn btn--primary"
     # url: https://www.it.uu.se/katalog/natca979
+
+feature_row_phds:
   - image_path: marc
     alt: "Marc Fraile"
     title: "Marc Fraile"
@@ -87,10 +87,7 @@ feature_row_phds:
 
 
 feature_row_masters:
-  - image_path: anastasia
-    alt: "Anastasia Akkuzu"
-    title: "Anastasia Akkuzu"
-    excerpt: "Anastasia Akkuzu is a Master's student in Human-Computer Interaction writing her thesis at the Social Robotics Lab under the supervision of Natalia Calvo. She is researching how relationships between humans and robots take form, especially in the contexts of emotional intimacy and uncanniness. Her background is in cognitive science with interests in AI, cognitive computing, many-valued logic, and robotics."
+  
 
 ---
 
@@ -107,6 +104,8 @@ feature_row_masters:
 {% include feature_row_people id="feature_row_masters" %}
 
 # Alumni
+Anastasia Akkuzu, Master's student
+
 Sebastian Wallkötter, Ph.D.
 
 Maike Paetzel, Ph.D.
@@ -119,4 +118,4 @@ Mohammad Obaid, Researcher
 
 Piercosma Bisconti Lucidi, Visiting Ph.D.  
 
-Elena Lechuga Redondo, Visiting Ph.D. 
+Elena Lechuga Redondo, Visiting Ph.D.
