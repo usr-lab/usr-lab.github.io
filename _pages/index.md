@@ -41,11 +41,16 @@ At Uppsala Social Robotics lab we aim to design and develop robots that learn to
 {: .text-center}
 
 ## Most recent news
-***April 2023***: we have three postdoc positions open at the lab right now (positions were filled)! Deadlines for applications: end of April/beginning of May.
 
-***January 2023***: we had one full paper and two late-breaking reports accepted at the [HRI 2023 conference](https://humanrobotinteraction.org/2023/)!
+***August 2023*** Natalia Calvo Barajas is continuing at the lab as a postdoctoral researcher!
 
-***November 2022***: Katie Winkle was granted the [Jacobs Foundation Research Fellowship](https://jacobsfoundation.org/activity/jacobs-foundation-research-fellowship-program/)!
+***July 2023*** We have one full paper accepted at the IEEE RO-MAN 2023 conference!
+
+***March 2023*** Natalia Calvo Barajas co-organized the 2nd version of the Workshop: CRITTER: Child-Robot Interaction and interdisciplinary research (https://child-robot-interaction.github.io).
+
+***March 2023*** Anastasia's abstract got accepted for participation in the same workshop.
+
+***March 2023*** Natalia Calvo Barajas was recognized as an "outstanding reviewer" based on her contributions to the peer-review process of the ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2023.
 
 [Older news](old_news){: .btn .btn--inverse}
 
