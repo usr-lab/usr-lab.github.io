@@ -43,7 +43,7 @@ feature_row_postdocs:
     # btn_label: "Personal website"
     # btn_class: "btn btn--primary"
     # url: https://www.it.uu.se/katalog/anata621
-- image_path: natalia
+  - image_path: natalia
     alt: "Natalia Calvo"
     title: "Natalia Calvo"
     excerpt: "Natalia Calvo is a postdoctoral researcher in the Social Robotics Lab. She believes in a world where robots can actively assist humans in different scenarios. Her work is focused on modeling trust in human-robot educational interactions, and it is part of the ANIMATAS Project funded by Horizon 2020. Her research interests cover deep learning and human-robot interaction towards an interdisciplinary approach mostly focused on manipulation tasks, speech recognition interfaces, computer vision, and social robotics."
