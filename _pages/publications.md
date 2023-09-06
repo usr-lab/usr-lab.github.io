@@ -10,30 +10,31 @@ excerpt: Please always refer to Google Scholar's profiles of each member for a m
 
 
 feature_row:
-  - image_path: assets/images/publications/winkle2023feminist.png
+  - image_path: assets/images/publications/winkle2023counter.png
     alt: "Publication image"
-    paper: "Feminist Human-Robot Interaction: Disentangling Power, Principles and Practice for Better, More Ethical HRI"
-    venue: "*HRI '23*"
-    url: "https://erickajohnson.se/onewebmedia/hrifp1204-winkle-CC-BY.pdf"
+    paper: "(Counter-)stereotypical Gendering of Robots in Care: Impact on Needs Satisfaction and Gender Role Concepts in Men and Women Users"
+    venue: "*International Journal of Social Robotics*"
+    url: "https://link.springer.com/article/10.1007/s12369-023-01033-w"
     members:
+        - name: "ginevra"
+        - name: "katie"
+  - image_path: assets/images/publications/zhong2023acasestudy.png
+    alt: "Publication image"
+    paper: "A case study in designing trustworthy interactions: implications for socially assistive robotics"
+    venue: "*Frontiers in Computer Science*"
+    url: "https://www.frontiersin.org/articles/10.3389/fcomp.2023.1152532/full"
+    members:
+        - name: "mengyu"
+        - name: "marc"
+        - name: "ginevra"
         - name: "katie"
   - image_path: assets/images/publications/miranda2023identity.png
     alt: "Publication image"
-    paper: "Examining the state of robot identity"
+    paper: "What if a Social Robot Excluded You?: Using a Conversational Game to Study Social Exclusion in Teen-robot Mixed Groups"
     venue: "*HRI '23*"
-    url: "https://luxmiranda.com/publications/miranda_et_al_2023.pdf"
+    url: "https://dl.acm.org/doi/abs/10.1145/3568294.3580073"
     members:
-        - name: "lux"
-        - name: "ginevra"
-        - name: "katie"
-  - image_path: assets/images/publications/paulsson2023peripartum.png
-    alt: "Publication image"
-    paper: "Exploring Mothers’ Perspectives on Socially Assistive Robots in Peripartum Depression Screening"
-    venue: "*HRI '23*"
-    url: assets/publications/paulsson2023peripartum.pdf
-    members:
-        - name: "mengyu"
-        - name: "ginevra"
+        - name: "ana"
 ---
 
 # Most recent publications
@@ -46,9 +47,19 @@ feature_row:
 # Older publications
 
 
+#### 2023
 
+Winkle, K., McMillan, D., Arnelid, M., Harrison, K., Balaam, M., Johnson, E., & Leite, I. (2023). Feminist human-robot interaction: Disentangling power, principles and practice for better, more ethical HRI. In Proceedings of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (pp. 72-82).
+
+Miranda, L., Castellano, G., & Winkle, K. (2023). Examining the State of Robot Identity. In Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (pp. 658-662).
+
+Paulsson, T., Zhong, M., García Velázquez, I., & Castellano, G. (2023). Exploring Mothers' Perspectives on Socially Assistive Robots in Peripartum Depression Screening. In Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (pp. 486-490).
+
+Barros, P., Yalçın, Ö. N., Tanevska, A., & Sciutti, A. (2023). Incorporating rivalry in reinforcement learning for a competitive game. Neural Computing and Applications, 35(23), 16739-16752.
 
 #### 2022
+
+Mongile, S., Tanevska, A., Rea, F., & Sciutti, A. (2022). Validating a Cortisol-Inspired Framework for Human-Robot Interaction with a Replication of the Still Face Paradigm. In 2022 IEEE International Conference on Development and Learning (ICDL) (pp. 190-196). IEEE.
 
 Galatolo, A., Melsión, G.I., Leite, I., & Winkle, K. (2022). The Right (Wo)Man for the Job? Exploring the Role of Gender when Challenging Gender Stereotypes with a Social Robot. Int J of Soc Robotics https://doi.org/10.1007/s12369-022-00938-2
 
@@ -61,6 +72,8 @@ Wallkötter, S., Chetouani, M., & Castellano, G. (2022). SLOT-V: Supervised Lear
 Calvo-Barajas, N., & Castellano, G. (2022). Understanding Children's Trust Development through Repeated Interactions with a Virtual Social Robot. In the 31st IEEE International Conference on Robot & Human Interactive Communication (RO-MAN'22).
 
 Calvo-Barajas, N., & Castellano, G. (2022). "I have an idea!". Enhancing Children's Verbal Creativity through Repeated Interactions with a Virtual Robot. In Proceedings of the 2022 ACM International Conference on Intelligent Virtual Agents (IVA'22). 
+
+Mongile, S., Tanevska, A., Rea, F., & Sciutti, A. (2022). Are Robots That Assess Their Partner's Attachment Style Better At Autonomous Adaptive Behaviour?. In 2022 17th ACM/IEEE International Conference on Human-Robot Interaction (HRI) (pp. 922-926). IEEE.
 
 Bilal, AM., Fransson, E., Bränn, E., Eriksson, A., Zhong, M., Gidén, K., Elofsson, U., Axfors, C., Skalkidou, A., & Papadopoulos, FC. Predicting perinatal health outcomes using smartphone-based digital phenotyping and machine learning in a prospective Swedish cohort (Mom2B): study protocol. BMJ Open. 2022 Apr 27;12(4):e059033. doi: 10.1136/bmjopen-2021-059033. PMID: 35477874; PMCID: PMC9047888.
 
