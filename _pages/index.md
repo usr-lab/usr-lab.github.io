@@ -8,30 +8,31 @@ header:
     image_description: "Group photo of the lab's members"
 
 feature_row:
-  - image_path: assets/images/publications/winkle2023feminist.png
+  - image_path: assets/images/publications/winkle2023counter.png
     alt: "Publication image"
-    paper: "Feminist Human-Robot Interaction: Disentangling Power, Principles and Practice for Better, More Ethical HRI"
-    venue: "*HRI '23*"
-    url: "https://erickajohnson.se/onewebmedia/hrifp1204-winkle-CC-BY.pdf"
+    paper: "(Counter-)stereotypical Gendering of Robots in Care: Impact on Needs Satisfaction and Gender Role Concepts in Men and Women Users"
+    venue: "*International Journal of Social Robotics*"
+    url: "https://link.springer.com/article/10.1007/s12369-023-01033-w"
     members:
+        - name: "ginevra"
+        - name: "katie"
+  - image_path: assets/images/publications/zhong2023acasestudy.png
+    alt: "Publication image"
+    paper: "A case study in designing trustworthy interactions: implications for socially assistive robotics"
+    venue: "*Frontiers in Computer Science*"
+    url: "https://www.frontiersin.org/articles/10.3389/fcomp.2023.1152532/full"
+    members:
+        - name: "mengyu"
+        - name: "marc"
+        - name: "ginevra"
         - name: "katie"
   - image_path: assets/images/publications/miranda2023identity.png
     alt: "Publication image"
-    paper: "Examining the state of robot identity"
+    paper: "What if a Social Robot Excluded You?: Using a Conversational Game to Study Social Exclusion in Teen-robot Mixed Groups"
     venue: "*HRI '23*"
-    url: "https://luxmiranda.com/publications/miranda_et_al_2023.pdf"
+    url: "https://dl.acm.org/doi/abs/10.1145/3568294.3580073"
     members:
-        - name: "lux"
-        - name: "ginevra"
-        - name: "katie"
-  - image_path: assets/images/publications/paulsson2023peripartum.png
-    alt: "Publication image"
-    paper: "Exploring Mothers’ Perspectives on Socially Assistive Robots in Peripartum Depression Screening"
-    venue: "*HRI '23*"
-    url: assets/publications/paulsson2023peripartum.pdf
-    members:
-        - name: "mengyu"
-        - name: "ginevra"
+        - name: "ana"
 ---
 
 # Welcome to the Social Robotics Lab at Uppsala University
