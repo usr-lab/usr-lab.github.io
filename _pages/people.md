@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/group_picture_2022.jpg
-excerpt: 'Currently the lab is home to 2 Master students, 6 PhD students, 1 Postdoc and is headed by 1 Professor and 2 Assistant Professors.'
+excerpt: 'Currently the lab is home to 2 Master students, 6 PhD students, 2 Postdoc and is headed by 1 Professor and 2 Assistant Professors.'
 
 feature_row_professors:
   - image_path: ginevra
@@ -84,6 +84,10 @@ feature_row_phds:
     alt: "Vanessa Noack"
     title: "Vanessa Noack"
     excerpt: "Vanessa Noack (she/they) is a PhD candidate at the Centre for Gender Research at Uppsala University. Vanessa received an MSSc and MA degree with a major in Gender Studies in 2020 and 2021. In their project Gender, Embodiment and Technology, she pays particular attention to how gender is mobilised in a technologised context by drawing on three case studies. The case studies include an analysis of gender in relation to different robots, such as the wearable robots called exoskeletons. Vanessa is also the Equal Opportunities Officer at the Centre for Gender Research at Uppsala University and takes part in the research group Technologization of the Everyday."
+  - image_path: laetitia
+    alt: "Laetitia Tanqueray"
+    title: "Laetitia Tanqueray"
+    excerpt: "Laetitia Tanqueray is a PhD Candidate at the Department of Technology and Society at Lund University, co-supervised by Katie Winkle in the Uppsala Social Robotics Lab. Laetitia holds law degrees (LLB and Master 1) and a Master's (MSc) in Sociology of Law. She investigates human-robot interactions (HRI) from a socio-legal lens. Her published work has mostly focused on informing HRI design, including in collaboration with HRI experts and in the domain of healthcare."
 
 
 feature_row_masters:
