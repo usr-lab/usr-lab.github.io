@@ -17,9 +17,12 @@ There are currently no vacancies at the social robotics lab.
 # Master's projects
 The following is a list of project that our lab offers that can be expanded into e.g. a master thesis or an intenship at the lab.
 
-## Work in progress
+{% for collection in site.master-projects %}
+  <h2> {{ collection.title }} </h2>
+  {{ collection.description }}
 
-This page is still a work in progress and will be updated soon with the correct information. In the meantime, please refer to each lab member's profile for info on their projects and availability.
+  [More information and Apply]({{ collection.url }}){: .btn .btn--inverse}
+{% endfor %}
 
 
 <!-- ## Other projects
