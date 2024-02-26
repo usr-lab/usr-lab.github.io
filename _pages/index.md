@@ -1,6 +1,6 @@
 ---
 permalink: /
-last_modified_at: 2022-01-13
+last_modified_at: 2024-02-26
 layout: splash
 excerpt: The lab is located in Uppsala, Sweden and was founded in 2016 by Ginevra Castellano.
 header:
@@ -8,6 +8,22 @@ header:
     image_description: "Group photo of the lab's members"
 
 feature_row:
+  - image_path: assets/images/publications/akkuzu2023observations.png
+    alt: "Publication image"
+    paper: "Behavioural Observations as Objective Measures of Trust in Child-Robot Interaction: Mutual Gaze"
+    venue: "*HAI '23: Proceedings of the 11th International Conference on Human-Agent Interaction*"
+    url: "https://dl.acm.org/doi/abs/10.1145/3623809.3623960"
+    members:
+        - name: "anastasia"
+        - name: "natalia"
+  - image_path: assets/images/publications/larsson2023sociolegal.png
+    alt: "Publication image"
+    paper: "Towards a Socio-Legal Robotics: A Theoretical Framework on Norms and Adaptive Technologies"
+    venue: "*International Journal of Social Robotics*"
+    url: "https://link.springer.com/article/10.1007/s12369-023-01042-9"
+    members:
+        - name: "laetitia"
+        - name: "ginevra"
   - image_path: assets/images/publications/winkle2023counter.png
     alt: "Publication image"
     paper: "(Counter-)stereotypical Gendering of Robots in Care: Impact on Needs Satisfaction and Gender Role Concepts in Men and Women Users"
@@ -16,23 +32,6 @@ feature_row:
     members:
         - name: "ginevra"
         - name: "katie"
-  - image_path: assets/images/publications/zhong2023acasestudy.png
-    alt: "Publication image"
-    paper: "A case study in designing trustworthy interactions: implications for socially assistive robotics"
-    venue: "*Frontiers in Computer Science*"
-    url: "https://www.frontiersin.org/articles/10.3389/fcomp.2023.1152532/full"
-    members:
-        - name: "mengyu"
-        - name: "marc"
-        - name: "ginevra"
-        - name: "katie"
-  - image_path: assets/images/publications/miranda2023identity.png
-    alt: "Publication image"
-    paper: "What if a Social Robot Excluded You?: Using a Conversational Game to Study Social Exclusion in Teen-robot Mixed Groups"
-    venue: "*HRI '23*"
-    url: "https://dl.acm.org/doi/abs/10.1145/3568294.3580073"
-    members:
-        - name: "ana"
 ---
 
 # Welcome to the Social Robotics Lab at Uppsala University

@@ -10,6 +10,22 @@ excerpt: Please always refer to Google Scholar's profiles of each member for a m
 
 
 feature_row:
+  - image_path: assets/images/publications/akkuzu2023observations.png
+    alt: "Publication image"
+    paper: "Behavioural Observations as Objective Measures of Trust in Child-Robot Interaction: Mutual Gaze"
+    venue: "*HAI '23: Proceedings of the 11th International Conference on Human-Agent Interaction*"
+    url: "https://dl.acm.org/doi/abs/10.1145/3623809.3623960"
+    members:
+        - name: "anastasia"
+        - name: "natalia"
+  - image_path: assets/images/publications/larsson2023sociolegal.png
+    alt: "Publication image"
+    paper: "Towards a Socio-Legal Robotics: A Theoretical Framework on Norms and Adaptive Technologies"
+    venue: "*International Journal of Social Robotics*"
+    url: "https://link.springer.com/article/10.1007/s12369-023-01042-9"
+    members:
+        - name: "laetitia"
+        - name: "ginevra"
   - image_path: assets/images/publications/winkle2023counter.png
     alt: "Publication image"
     paper: "(Counter-)stereotypical Gendering of Robots in Care: Impact on Needs Satisfaction and Gender Role Concepts in Men and Women Users"
