@@ -76,7 +76,7 @@ feature_row_phds:
   - image_path: alessio
     alt: "Alessio Galatolo"
     title: "Alessio Galatolo"
-    excerpt: "Alessio Galatolo is a PhD student at the Social Robotics Lab. He received his MSc degree in Machine Learning at KTH, Stockholm in 2022. His work directly targets diabetes prevention using social robots as part of the PREVENT project. His research interests involve the use of AI and ML to give robots the social intelligence needed to personalise and improve their interaction to a specific user, also considering the ethical risks and social consequences involved."
+    excerpt: "Alessio Galatolo is a PhD student at the Social Robotics Lab. He received his MSc degree in Machine Learning at KTH, Stockholm in 2022. His research interests mainly concern Large Language Models in topics such as Knowledge Manipulation, Personality Expression, Multi-Modal Generation in Social Robots and all the ethical implication involved. He is also part of PREVENT, an Uppsala-based project for cardio-metabolic diseases prevention in disadvantaged populations. "
     btn_label: "Alessio's personal website"
     btn_class: "btn btn--primary"
     url: https://www.alessiogalatolo.com
