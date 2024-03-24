@@ -10,6 +10,23 @@ excerpt: Please always refer to Google Scholar's profiles of each member for a m
 
 
 feature_row:
+  - image_path: assets/images/publications/winkle2024anticipating.png
+    alt: "Publication image"
+    paper: "Anticipating the Use of Robots in Domestic Abuse: A Typology of Robot Facilitated Abuse to Support Risk Assessment and Mitigation in Human-Robot Interaction"
+    venue: "*HRI '24: Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction*"
+    url: "https://doi.org/10.1145/3610977.3634938"
+    members:
+        - name: "katie"
+        - name: "other"
+  - image_path: assets/images/publications/miranda2024identities.png
+    alt: "Publication image"
+    paper: "A Case for Diverse Social Robot Identity Performance in Education"
+    venue: "*HRI '24: Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction*"
+    url: "https://doi.org/10.1145/3610978.3640768"
+    members:
+        - name: "lux"
+        - name: "ginevra"
+        - name: "katie"
   - image_path: assets/images/publications/akkuzu2023observations.png
     alt: "Publication image"
     paper: "Behavioural Observations as Objective Measures of Trust in Child-Robot Interaction: Mutual Gaze"
@@ -18,12 +35,15 @@ feature_row:
     members:
         - name: "anastasia"
         - name: "natalia"
+        - name: "ginevra
   - image_path: assets/images/publications/larsson2023sociolegal.png
     alt: "Publication image"
     paper: "Towards a Socio-Legal Robotics: A Theoretical Framework on Norms and Adaptive Technologies"
     venue: "*International Journal of Social Robotics*"
     url: "https://link.springer.com/article/10.1007/s12369-023-01042-9"
     members:
+        - name: "other"
+        - name: "other"
         - name: "laetitia"
         - name: "ginevra"
   - image_path: assets/images/publications/winkle2023counter.png
@@ -32,6 +52,8 @@ feature_row:
     venue: "*International Journal of Social Robotics*"
     url: "https://link.springer.com/article/10.1007/s12369-023-01033-w"
     members:
+        - name: "other"
+        - name: "other"
         - name: "ginevra"
         - name: "katie"
   - image_path: assets/images/publications/zhong2023acasestudy.png
@@ -44,13 +66,6 @@ feature_row:
         - name: "marc"
         - name: "ginevra"
         - name: "katie"
-  - image_path: assets/images/publications/miranda2023identity.png
-    alt: "Publication image"
-    paper: "What if a Social Robot Excluded You?: Using a Conversational Game to Study Social Exclusion in Teen-robot Mixed Groups"
-    venue: "*HRI '23*"
-    url: "https://dl.acm.org/doi/abs/10.1145/3568294.3580073"
-    members:
-        - name: "ana"
 ---
 
 # Most recent publications

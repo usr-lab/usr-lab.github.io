@@ -17,6 +17,7 @@ Go to [`_pages/people.md`](_pages/people.md) and remove the member, also go to `
 ### Add a publication
 Place the publication picture (if any) under `assets/images/publications`, if the picture is too big in size, please resize it / compress it. Go to [`_pages/index.md`](_pages/index.md) and add a new entry under `feature_row` *and* delete the last entry. Go to [`_pages/publications.md`](_pages/publications.md) and add the new entry under `feature_row`. If the list becomes very long, please consider removing the last entry from the `feature_row` and add the publication under `Older publications`. In that case, please remember to also delete the associated image under `assets/images/publications`!
 
+New: now you can add authors from outside the lab using "other".
 ### Add a master project
 Create a new file under [`_master-projects`](_master-projects) and use the following template:
 

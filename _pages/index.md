@@ -8,6 +8,23 @@ header:
     image_description: "Group photo of the lab's members"
 
 feature_row:
+  - image_path: assets/images/publications/winkle2024anticipating.png
+    alt: "Publication image"
+    paper: "Anticipating the Use of Robots in Domestic Abuse: A Typology of Robot Facilitated Abuse to Support Risk Assessment and Mitigation in Human-Robot Interaction"
+    venue: "*HRI '24: Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction*"
+    url: "https://doi.org/10.1145/3610977.3634938"
+    members:
+        - name: "katie"
+        - name: "other"
+  - image_path: assets/images/publications/miranda2024identities.png
+    alt: "Publication image"
+    paper: "A Case for Diverse Social Robot Identity Performance in Education"
+    venue: "*HRI '24: Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction*"
+    url: "https://doi.org/10.1145/3610978.3640768"
+    members:
+        - name: "lux"
+        - name: "ginevra"
+        - name: "katie"
   - image_path: assets/images/publications/akkuzu2023observations.png
     alt: "Publication image"
     paper: "Behavioural Observations as Objective Measures of Trust in Child-Robot Interaction: Mutual Gaze"
@@ -16,22 +33,7 @@ feature_row:
     members:
         - name: "anastasia"
         - name: "natalia"
-  - image_path: assets/images/publications/larsson2023sociolegal.png
-    alt: "Publication image"
-    paper: "Towards a Socio-Legal Robotics: A Theoretical Framework on Norms and Adaptive Technologies"
-    venue: "*International Journal of Social Robotics*"
-    url: "https://link.springer.com/article/10.1007/s12369-023-01042-9"
-    members:
-        - name: "laetitia"
         - name: "ginevra"
-  - image_path: assets/images/publications/winkle2023counter.png
-    alt: "Publication image"
-    paper: "(Counter-)stereotypical Gendering of Robots in Care: Impact on Needs Satisfaction and Gender Role Concepts in Men and Women Users"
-    venue: "*International Journal of Social Robotics*"
-    url: "https://link.springer.com/article/10.1007/s12369-023-01033-w"
-    members:
-        - name: "ginevra"
-        - name: "katie"
 ---
 
 # Welcome to the Social Robotics Lab at Uppsala University
