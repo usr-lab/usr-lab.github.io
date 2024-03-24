@@ -35,7 +35,7 @@ feature_row:
     members:
         - name: "anastasia"
         - name: "natalia"
-        - name: "ginevra
+        - name: "ginevra"
   - image_path: assets/images/publications/larsson2023sociolegal.png
     alt: "Publication image"
     paper: "Towards a Socio-Legal Robotics: A Theoretical Framework on Norms and Adaptive Technologies"
