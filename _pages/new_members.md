@@ -11,9 +11,9 @@ excerpt: "This is a checklist for new members of the lab."
 
 # Everyone
 
-- **Get GitHub access**: ask Ginevra to add you to the organisation
-- **Get MyFiles (shared cloud folder) access**: anyone in the group can add you
-- **Get Drive folder + Google calendar access**: anyone in the group can add you
+- **Get GitHub access**: We have GitHub organisation for lab-wide projects, ask Ginevra to add you to the organisation
+- **Get MyFiles (shared cloud folder) access**: We have a shared folder on UU's cloud for lab-wide projects, anyone in the group can add you
+- **Get Drive folder + Google calendar access**: We have a drive folder for shared presentations and google calendar for lab events (including various studies), anyone in the group can add you
 - **Get your profile in the lab website**: send to Lux a picture of yourself (better if squared and .jpg) alongside a description of yourself and your personal website (if you have one) 
 - **Get access to Slack workspace**: anyone can add you
 - **Get access to lab servers for ML training, etc.**: Ask Marc to add you

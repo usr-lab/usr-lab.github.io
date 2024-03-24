@@ -43,12 +43,15 @@ At Uppsala Social Robotics lab we aim to design and develop robots that learn to
 {: .text-center}
 
 ## Most recent news
+***March 2024*** We have two publications accepted at HRI'24!
+
+***March 2024*** Lux Miranda co-organized the 3rd version of the Workshop: [Robo-Identity: Designing for Identity in the Shared World](https://sites.google.com/view/hri2024workshop-robo-identity3/home).
 
 ***August 2023*** Natalia Calvo Barajas is continuing at the lab as a postdoctoral researcher!
 
 ***July 2023*** We have one full paper accepted at the IEEE RO-MAN 2023 conference!
 
-***March 2023*** Natalia Calvo Barajas co-organized the 2nd version of the Workshop: CRITTER: Child-Robot Interaction and interdisciplinary research (https://child-robot-interaction.github.io).
+***March 2023*** Natalia Calvo Barajas co-organized the 2nd version of the Workshop: [CRITTER: Child-Robot Interaction and interdisciplinary research](https://child-robot-interaction.github.io).
 
 ***March 2023*** Anastasia's abstract got accepted for participation in the same workshop.
 
@@ -68,4 +71,4 @@ Uppsala
  
 [Travel directions](http://www.it.uu.se/contact)
  
-**Contact person**: [Ginevra Castellano](http://user.it.uu.se/~ginca820/)
+**Contact person**: [Ginevra Castellano](https://www.katalog.uu.se/profile/?id=N14-947)
