@@ -43,6 +43,8 @@ At Uppsala Social Robotics lab we aim to design and develop robots that learn to
 {: .text-center}
 
 ## Most recent news
+***May 2024*** We are hiring a [PhD student in Social Robotics with focus on Large Language Models and Cybersecurity](https://uu.varbi.com/en/what:job/jobID:724473/type:job/where:4/apply:1)! (deadline May 23rd 11:59 PM CEST)
+
 ***March 2024*** We have two publications accepted at HRI'24!
 
 ***March 2024*** Lux Miranda co-organized the 3rd version of the Workshop: [Robo-Identity: Designing for Identity in the Shared World](https://sites.google.com/view/hri2024workshop-robo-identity3/home).

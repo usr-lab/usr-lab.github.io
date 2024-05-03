@@ -10,7 +10,9 @@ header:
 ---
 
 # Open positions
-There are currently no vacancies at the social robotics lab.
+We are hiring a **PhD student** in Social Robotics with focus on Large Language Models and Cybersecurity!
+
+ Learn more and apply [here](https://uu.varbi.com/en/what:job/jobID:724473/type:job/where:4/apply:1)! (deadline May 23rd 11:59 PM CEST)
 
 ---
 
