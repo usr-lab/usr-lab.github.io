@@ -7,6 +7,12 @@ header:
     image: /assets/images/group_picture_2022.jpg
     image_description: "Group photo of the lab's members"
 
+feature_row_news:
+  - image_path: assets/images/UN_summit.jpg
+    alt: "Photo depicting Ginevra delivering a speech at the UN summit on AI"
+    excerpt: "***May 2024*** Our Lab had a booth at the UN AI summit, where Ginevra also delivered a speech!"
+
+
 feature_row:
   - image_path: assets/images/publications/winkle2024anticipating.png
     alt: "Publication image"
@@ -43,7 +49,11 @@ At Uppsala Social Robotics lab we aim to design and develop robots that learn to
 {: .text-center}
 
 ## Most recent news
+{% include feature_row id="feature_row_news" type="left" %}
+
 ***May 2024*** We are hiring a [PhD student in Social Robotics with focus on Large Language Models and Cybersecurity](https://uu.varbi.com/en/what:job/jobID:724473/type:job/where:4/apply:1)! (deadline May 23rd 11:59 PM CEST)
+
+***April 2024*** Ronald Cumbal has joined the lab as a postdoctoral researcher!
 
 ***March 2024*** We have two publications accepted at HRI'24!
 
@@ -62,7 +72,7 @@ At Uppsala Social Robotics lab we aim to design and develop robots that learn to
 [Older news](old_news){: .btn .btn--inverse}
 
 ## Most recent publications
-{% include feature_row_publications type="center-small" %}
+{% include feature_row_publications id="feature_row" type="center-small" %}
 
 ### Visiting address
  
