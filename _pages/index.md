@@ -9,8 +9,8 @@ header:
 
 feature_row_news:
   - image_path: assets/images/UN_summit.jpg
-    alt: "Photo depicting Ginevra delivering a speech at the UN summit on AI"
-    excerpt: "***May 2024*** Our Lab had a booth at the UN AI summit, where Ginevra also delivered a speech!"
+    alt: "Photo depicting Ginevra delivering a speech at the UN summit on AI for Good"
+    excerpt: "***May 2024*** Our Lab had a booth at the UN AI for Good summit, where Ginevra also delivered a speech!"
 
 
 feature_row:
