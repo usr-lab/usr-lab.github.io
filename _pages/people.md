@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/group_picture_2022.jpg
-excerpt: 'Currently the lab is home to 2 Master students, 6 PhD students, 2 Postdoc and is headed by 1 Professor and 2 Assistant Professors.'
+excerpt: 'Currently the lab is home to 4 PhD students, 3 Postdoc and is headed by 1 Professor and 2 Assistant Professors.'
 
 feature_row_professors:
   - image_path: ginevra
@@ -50,6 +50,10 @@ feature_row_postdocs:
     # btn_label: "Personal website"
     # btn_class: "btn btn--primary"
     # url: https://www.it.uu.se/katalog/natca979
+  - image_path: ronald
+    alt: "Ronald Cumbal"
+    title: "Ronald Cumbal"
+    excerpt: "Ronald Cumbal is a postdoctoral researcher at the Department of Information Technology, Uppsala University, working on the SymAware project. His work involves embedding communication mechanisms to convey intention and decision-making in autonomous agents. He is passionate about robotics, dialogue systems, and human-centered Technology. His research focuses on developing adaptive robots that enhance interaction through various communication mechanisms, aiming to integrate autonomous agents into diverse social settings, with a particular emphasis on group interactions and multicultural users."
 
 feature_row_phds:
   - image_path: marc
@@ -76,7 +80,7 @@ feature_row_phds:
   - image_path: alessio
     alt: "Alessio Galatolo"
     title: "Alessio Galatolo"
-    excerpt: "Alessio Galatolo is a PhD student at the Social Robotics Lab. He received his MSc degree in Machine Learning at KTH, Stockholm in 2022. His research interests mainly concern Large Language Models in topics such as Knowledge Manipulation, Personality Expression, Multi-Modal Generation in Social Robots and all the ethical implication involved. He is also part of PREVENT, an Uppsala-based project for cardio-metabolic diseases prevention in disadvantaged populations. "
+    excerpt: "Alessio Galatolo is a PhD student at the Social Robotics Lab. He received his MSc degree in Machine Learning at KTH, Stockholm in 2022. His research interests mainly concern Large Language Models in topics such as Knowledge Manipulation, Personality Expression, Multi-Modal Generation in Social Robots and all the ethical implication involved. He is also part of PREVENT, an Uppsala-based project for cardio-metabolic diseases prevention in disadvantaged populations."
     btn_label: "Alessio's personal website"
     btn_class: "btn btn--primary"
     url: https://www.alessiogalatolo.com
@@ -90,7 +94,7 @@ feature_row_phds:
     excerpt: "Laetitia Tanqueray is a PhD Candidate at the Department of Technology and Society at Lund University, co-supervised by Katie Winkle in the Uppsala Social Robotics Lab. Laetitia holds law degrees (LLB and Master 1) and a Master's (MSc) in Sociology of Law. She investigates human-robot interactions (HRI) from a socio-legal lens. Her published work has mostly focused on informing HRI design, including in collaboration with HRI experts and in the domain of healthcare."
 
 
-feature_row_masters:
+# feature_row_masters:
   
 
 ---
