@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/group_picture_2022.jpg
-excerpt: 'Currently the lab is home to 4 PhD students, 3 Postdoc and is headed by 1 Professor and 2 Assistant Professors.'
+excerpt: 'Currently the lab is home to 6 PhD students, 3 Postdoc and is headed by 1 Professor and 2 Assistant Professors.'
 
 feature_row_professors:
   - image_path: ginevra
