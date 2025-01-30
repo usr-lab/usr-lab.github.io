@@ -1,10 +1,10 @@
 ---
 permalink: /
-last_modified_at: 2024-02-26
+last_modified_at: 2025-01-30
 layout: splash
 excerpt: The lab is located in Uppsala, Sweden and was founded in 2016 by Ginevra Castellano.
 header:
-    image: /assets/images/group_picture_2022.jpg
+    image: /assets/images/group_picture_2025.jpg
     image_description: "Group photo of the lab's members"
 
 feature_row_news:

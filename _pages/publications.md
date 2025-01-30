@@ -36,36 +36,6 @@ feature_row:
         - name: "anastasia"
         - name: "natalia"
         - name: "ginevra"
-  - image_path: assets/images/publications/larsson2023sociolegal.png
-    alt: "Publication image"
-    paper: "Towards a Socio-Legal Robotics: A Theoretical Framework on Norms and Adaptive Technologies"
-    venue: "*International Journal of Social Robotics*"
-    url: "https://link.springer.com/article/10.1007/s12369-023-01042-9"
-    members:
-        - name: "other"
-        - name: "other"
-        - name: "laetitia"
-        - name: "ginevra"
-  - image_path: assets/images/publications/winkle2023counter.png
-    alt: "Publication image"
-    paper: "(Counter-)stereotypical Gendering of Robots in Care: Impact on Needs Satisfaction and Gender Role Concepts in Men and Women Users"
-    venue: "*International Journal of Social Robotics*"
-    url: "https://link.springer.com/article/10.1007/s12369-023-01033-w"
-    members:
-        - name: "other"
-        - name: "other"
-        - name: "ginevra"
-        - name: "katie"
-  - image_path: assets/images/publications/zhong2023acasestudy.png
-    alt: "Publication image"
-    paper: "A case study in designing trustworthy interactions: implications for socially assistive robotics"
-    venue: "*Frontiers in Computer Science*"
-    url: "https://www.frontiersin.org/articles/10.3389/fcomp.2023.1152532/full"
-    members:
-        - name: "mengyu"
-        - name: "marc"
-        - name: "ginevra"
-        - name: "katie"
 ---
 
 # Most recent publications
@@ -73,12 +43,37 @@ feature_row:
 
 
 
+#  More publications
 
 
-# Older publications
+#### 2024
 
+Fraile, M., Calvo-Barajas, N., Apeiron, A. S., Varni, G., Lindblad, J., Sladoje, N., & Castellano, G. (2024). UpStory: the Uppsala Storytelling dataset. arXiv preprint arXiv:2407.04352.
+
+Della Santina, C., Corbato, C. H., Sisman, B., Leiva, L. A., Arapakis, I., Vakalellis, M., ... & Sierra, C. (2024, March). Awareness in robotics: an early perspective from the viewpoint of the EIC pathfinder challenge “awareness inside”. In European Robotics Forum (pp. 108-113). Cham: Springer Nature Switzerland.
+
+Miranda, L., Castellano, G., & Winkle, K. (2024, March). A Case for Diverse Social Robot Identity Performance in Education. In Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction (pp. 28-35).
+
+Fraile, M., Varni, G., Lindblad, J., Sladoje, N., & Castellano, G. (2024). Are We Friends? End-to-End Prediction of ChildRapport in Guided Play. In ECCV 2024.
+
+Tanevska, A., Winkle, K. & Castellano, G. (2024). "I don’t like things where I do not have control": Participants’ Experience of Trustworthy Interaction with Autonomous Vehicles. In 2nd Workshop on Cars As Social Agents (CarSA), Nordic Conference on Human-Computer Interaction (NordiCHI 2024), October 13, 2024, Uppsala, Sweden.
+
+Cumbal, R., Kantharaju, R., Paetzel-Prüsmann, M., & Kennedy, J. (2024, September). Let Me Finish First-The Effect of Interruption-Handling Strategy on the Perceived Personality of a Social Agent. In Proceedings of the ACM International Conference on Intelligent Virtual Agents (pp. 1-10).
+
+Natalia Calvo-Barajas, Anastasia Akkuzu, and Ginevra Castellano. 2024. Balancing Human Likeness in Social Robots: Impact on Children’s Lexical Alignment and Self-disclosure for Trust Assessment. ACM Trans. Hum.-Robot Interact. 13, 4, Article 54 (October 2024), 27 pages.
+https://doi.org/10.1145/3659062
 
 #### 2023
+
+Akkuzu, A., Calvo-Barajas, N., & Castellano, G. (2023, December). Behavioural Observations as Objective Measures of Trust in Child-Robot Interaction: Mutual Gaze. In Proceedings of the 11th International Conference on Human-Agent Interaction (pp. 452-454).
+
+Moradbakhti, L., Mara, M., Castellano, G., & Winkle, K. (2023). (Counter-) stereotypical Gendering of Robots in Care: Impact on Needs Satisfaction and Gender Role Concepts in Men and Women Users. International Journal of Social Robotics, 15(11), 1769-1790.
+
+Larsson, S., Liinason, M., Tanqueray, L., & Castellano, G. (2023). Towards a Socio-Legal Robotics: A Theoretical Framework on Norms and Adaptive Technologies. International Journal of Social Robotics, 15(11), 1755-1768.
+
+Zhong, M., Fraile, M., Castellano, G., & Winkle, K. (2023). A case study in designing trustworthy interactions: implications for socially assistive robotics. Frontiers in Computer Science, 5, 1152532.
+
+Tanevska, A., Ghosh, A., Winkle, K., Castellano, G., & Soudjani, S. (2023). Communicating Awareness: Designing a Framework for Cognitive Human-Agent Interaction for Autonomous Vehicles. In Cars As Social Agents (CArSA): A Perspective Shift in Human–Vehicle Interaction Workshop, 11th International Conference on Human-Agent Interaction (HAI 2023), 4 December, 2023, Gothenburg, Sweden.
 
 Winkle, K., McMillan, D., Arnelid, M., Harrison, K., Balaam, M., Johnson, E., & Leite, I. (2023). Feminist human-robot interaction: Disentangling power, principles and practice for better, more ethical HRI. In Proceedings of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (pp. 72-82).
 
@@ -87,6 +82,9 @@ Miranda, L., Castellano, G., & Winkle, K. (2023). Examining the State of Robot I
 Paulsson, T., Zhong, M., García Velázquez, I., & Castellano, G. (2023). Exploring Mothers' Perspectives on Socially Assistive Robots in Peripartum Depression Screening. In Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (pp. 486-490).
 
 Barros, P., Yalçın, Ö. N., Tanevska, A., & Sciutti, A. (2023). Incorporating rivalry in reinforcement learning for a competitive game. Neural Computing and Applications, 35(23), 16739-16752.
+
+Stower, R., Ligthart, M. E., Spitale, M., Calvo-Barajas, N., & De Droog, S. M. (2023, March). CRITTER: Child-Robot Interaction and Interdisciplinary Research. In Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (pp. 926-928).
+
 
 #### 2022
 
@@ -112,6 +110,7 @@ Elgarf, M., Calvo-Barajas, N., Alves-Oliveira, P., Perugia, G., Castellano, G., 
 
 Tanqueray, L., Paulsson, T., Zhong, M., Larsson, S., and Castellano, G. (2022). Gender Fairness in Social Robotics: Exploring a Future Care of Peripartum Depression. In Proceedings of the 2022 ACM/IEEE International Conference on Human-Robot Interaction (HRI '22). IEEE Press, 598-607. 
 
+Savage, V., Tejada, C., Zhong, M., Ramakers, R., Ashbrook, D., & Kim, H. (2022, October). AirLogic: Embedding Pneumatic Computation and I/O in 3D Models to Fabricate Electronics-Free Interactive Objects. In Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology (pp. 1-12).
 
 
 #### 2021
@@ -145,6 +144,7 @@ Stower, R., Ligthart, M., van Straten, C., Calvo-Barajas, N., Velner, E., and Be
 Paetzel-Prüsmann, M., Perugia, G., & Castellano, G. (2021). The Influence of Robot Personality on the Development of Uncanny Feelings. *Computers in Human Behavior*, 106756.
 
 Stower, R., Calvo-Barajas, N., Castellano, G., & Kappas, A. (2021). A Meta-analysis on Children’s Trust in Social Robots. *International Journal of Social Robotics*, 1-23, 2021. [https://doi.org/10.1007/s12369-020-00736-8](https://doi.org/10.1007/s12369-020-00736-8)
+
 
 
 #### 2020

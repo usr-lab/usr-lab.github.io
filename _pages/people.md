@@ -56,13 +56,6 @@ feature_row_postdocs:
     excerpt: "Ronald Cumbal is a postdoctoral researcher at the Department of Information Technology, Uppsala University, working on the SymAware project. His work involves embedding communication mechanisms to convey intention and decision-making in autonomous agents. He is passionate about robotics, dialogue systems, and human-centered Technology. His research focuses on developing adaptive robots that enhance interaction through various communication mechanisms, aiming to integrate autonomous agents into diverse social settings, with a particular emphasis on group interactions and multicultural users."
 
 feature_row_phds:
-  - image_path: marc
-    alt: "Marc Fraile"
-    title: "Marc Fraile"
-    excerpt: "Marc Fraile is a Ph.D. candidate under the Centre for Interdisciplinary Mathematics (CIM) at Uppsala University. He conducts his research in Uppsala Social Robotics Lab, in close collaboration with the Methods for Image Data Analysis (MIDA) group. His interests lie in developing explainable AI (XAI) methods, and applying those to make more trustable machines."
-    btn_label: "Marc's personal website"
-    btn_class: "btn btn--primary"
-    url: https://marcfraile.github.io/
   - image_path: mengyu
     alt: "Mengyu Zhong"
     title: "Mengyu Zhong"
@@ -84,6 +77,10 @@ feature_row_phds:
     btn_label: "Alessio's personal website"
     btn_class: "btn btn--primary"
     url: https://www.alessiogalatolo.com
+  - image_path: hong
+    alt: "Hong Wang"
+    title: "Hong Wang"
+    excerpt: "Hong Wang is a PhD student in the Social Robotics Lab. With a background in automatic control and embedded systems, she is passionate in the fields of robotics, autonomous systems, and AI-powered human-robot interaction. Her research interests include the application of social robots within domestic environments, with the current projects focusing on the evaluation and solution of potential risks associated with healthcare robots, aiming to enhance user experience and cybersecurity through trustworthy interactions."
   - image_path: vanessa
     alt: "Vanessa Noack"
     title: "Vanessa Noack"
@@ -112,6 +109,9 @@ feature_row_phds:
 {% include feature_row_people id="feature_row_masters" %}
 
 # Alumni
+
+Marc Fraile, Ph.D. 
+
 Anastasia Akkuzu, Master's student
 
 Sebastian Wallkötter, Ph.D.
