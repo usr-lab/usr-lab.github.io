@@ -26,11 +26,11 @@ feature_row:
     url: "https://doi.org/10.1145/3610977.3634938"
     members:
         - name: "katie"
-        - name: "other"
   - image_path: assets/images/publications/miranda2024identities.png
     alt: "Publication image"
     paper: "A Case for Diverse Social Robot Identity Performance in Education"
-    venue: "*HRI '24: Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction*    url: "https://doi.org/10.1145/3610978.3640768"
+    venue: "*HRI '24: Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction*"
+    url: "https://doi.org/10.1145/3610978.3640768"
     members:
         - name: "lux"
         - name: "ginevra"
@@ -43,7 +43,9 @@ feature_row:
 
 
 
+
 #  More publications
+
 
 
 #### 2024
@@ -81,6 +83,7 @@ Fraile, M., Calvo-Barajas, N., Apeiron, A. S., Varni, G., Lindblad, J., Sladoje,
 Della Santina, C., Corbato, C. H., Sisman, B., Leiva, L. A., Arapakis, I., Vakalellis, M., ... & Sierra, C. (2024, March). Awareness in robotics: an early perspective from the viewpoint of the EIC pathfinder challenge “awareness inside”. In European Robotics Forum (pp. 108-113). Cham: Springer Nature Switzerland.
 
 Cumbal, R., Kantharaju, R., Paetzel-Prüsmann, M., & Kennedy, J. (2024, September). Let Me Finish First-The Effect of Interruption-Handling Strategy on the Perceived Personality of a Social Agent. In Proceedings of the ACM International Conference on Intelligent Virtual Agents (pp. 1-10).
+
 
 #### 2023
 
