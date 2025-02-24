@@ -14,6 +14,15 @@ feature_row_news:
 
 
 feature_row:
+  - image_path: assets/images/publications/calvo-barajas-et-al-2024.png
+    alt: "Publication image"
+    paper: "Balancing Human Likeness in Social Robots: Impact on Children’s Lexical Alignment and Self-disclosure for Trust Assessment"
+    venue: "*ACM Transactions on Human-Robot Interaction (THRI)*"
+    url: "https://doi.org/10.1145/3659062"
+    members:
+        - name: "natalia"
+        - name: "anastasia"
+        - name: "ginevra"
   - image_path: assets/images/publications/winkle2024anticipating.png
     alt: "Publication image"
     paper: "Anticipating the Use of Robots in Domestic Abuse: A Typology of Robot Facilitated Abuse to Support Risk Assessment and Mitigation in Human-Robot Interaction"
@@ -21,7 +30,6 @@ feature_row:
     url: "https://doi.org/10.1145/3610977.3634938"
     members:
         - name: "katie"
-        - name: "other"
   - image_path: assets/images/publications/miranda2024identities.png
     alt: "Publication image"
     paper: "A Case for Diverse Social Robot Identity Performance in Education"
@@ -31,17 +39,7 @@ feature_row:
         - name: "lux"
         - name: "ginevra"
         - name: "katie"
-  - image_path: assets/images/publications/akkuzu2023observations.png
-    alt: "Publication image"
-    paper: "Behavioural Observations as Objective Measures of Trust in Child-Robot Interaction: Mutual Gaze"
-    venue: "*HAI '23: Proceedings of the 11th International Conference on Human-Agent Interaction*"
-    url: "https://dl.acm.org/doi/abs/10.1145/3623809.3623960"
-    members:
-        - name: "anastasia"
-        - name: "natalia"
-        - name: "ginevra"
 ---
-
 # Welcome to the Social Robotics Lab at Uppsala University
 {: .text-center}
 
