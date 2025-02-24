@@ -11,6 +11,8 @@ title: Old news
 ***January:***: we had one full paper and two late-breaking reports accepted at the [HRI 2023 conference](https://humanrobotinteraction.org/2023/)!
 
 
+
+
 ## 2022
 
 ***November:***: Katie Winkle was granted the [Jacobs Foundation Research Fellowship](https://jacobsfoundation.org/activity/jacobs-foundation-research-fellowship-program/)!
@@ -24,6 +26,7 @@ title: Old news
 ***February:*** Laura Moradbakhti joined the lab as a visiting PhD researcher 
 
 ***February:*** Katie Winkle joined the lab as an Assistant Professor
+
 
 
 ## 2021
@@ -45,6 +48,7 @@ title: Old news
 ***March:*** We showcased the lab's research at this year's [SciFest](https://www.scifest.uu.se), Uppsala's yearly Science Festival. This year SciFest was digital. 
 
 ***February:*** Mengyu Zhong joined the lab as a PhD student
+
 
 
 ## 2020

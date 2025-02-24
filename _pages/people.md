@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/group_picture_2022.jpg
-excerpt: 'Currently the lab is home to 6 PhD students, 3 Postdoc and is headed by 1 Professor and 2 Assistant Professors.'
+excerpt: 'Meet the robo-folks!'
 
 feature_row_professors:
   - image_path: ginevra
@@ -25,6 +25,8 @@ feature_row_professors:
     btn_label: "Katie's personal website"
     btn_class: "btn btn--primary"
     url: https://kwinkle.github.io/
+
+feature_row_external_professors:
   - image_path: didem
     alt: "Didem Gürdür Broo"
     title: "Didem Gürdür Broo"
@@ -81,6 +83,8 @@ feature_row_phds:
     alt: "Hong Wang"
     title: "Hong Wang"
     excerpt: "Hong Wang is a PhD student in the Social Robotics Lab. With a background in automatic control and embedded systems, she is passionate in the fields of robotics, autonomous systems, and AI-powered human-robot interaction. Her research interests include the application of social robots within domestic environments, with the current projects focusing on the evaluation and solution of potential risks associated with healthcare robots, aiming to enhance user experience and cybersecurity through trustworthy interactions."
+
+feature_row_external_phds:
   - image_path: vanessa
     alt: "Vanessa Noack"
     title: "Vanessa Noack"
@@ -91,22 +95,34 @@ feature_row_phds:
     excerpt: "Laetitia Tanqueray is a PhD Candidate at the Department of Technology and Society at Lund University, co-supervised by Katie Winkle in the Uppsala Social Robotics Lab. Laetitia holds law degrees (LLB and Master 1) and a Master's (MSc) in Sociology of Law. She investigates human-robot interactions (HRI) from a socio-legal lens. Her published work has mostly focused on informing HRI design, including in collaboration with HRI experts and in the domain of healthcare."
 
 
-# feature_row_masters:
   
 
 ---
 
+
 # Professors
 {% include feature_row_people id="feature_row_professors" type="left" %}
+
+# External professors
+{% include feature_row_people id="feature_row_external_professors" type="left" %}
+
 
 # Postdocs
 {% include feature_row_people id="feature_row_postdocs" type="right" %}
 
+
 # PhD Students
 {% include feature_row_people id="feature_row_phds" %}
 
+# External PhD Students
+{% include feature_row_people id="feature_row_external_phds" %}
+
+
+<!--
 # Master Students
 {% include feature_row_people id="feature_row_masters" %}
+-->
+
 
 # Alumni
 

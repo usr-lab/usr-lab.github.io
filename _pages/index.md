@@ -48,10 +48,17 @@ feature_row:
 At Uppsala Social Robotics lab we aim to design and develop robots that learn to interact socially with humans and bring benefits to the society we live in, for example in application areas such as education, e-learning, healthcare and assistive technology.
 {: .text-center}
 
-## Most recent news
-{% include feature_row id="feature_row_news" type="left" %}
 
-***May 2024*** We are hiring a [PhD student in Social Robotics with focus on Large Language Models and Cybersecurity](https://uu.varbi.com/en/what:job/jobID:724473/type:job/where:4/apply:1)! (deadline May 23rd 11:59 PM CEST)
+## Most recent news
+<!--
+{% include feature_row id="feature_row_news" type="left" %}
+-->
+    
+***November 2024*** Marc Fraile successfully defended his PhD thesis and became a USRL alumnus. Congratulations Dr. Fraile! 
+
+***September 2024*** Hong Wang has joined our lab as a PhD student!
+
+***May 2024*** Our Lab had a booth at the UN AI for Good summit, where Ginevra also delivered a speech!
 
 ***April 2024*** Ronald Cumbal has joined the lab as a postdoctoral researcher!
 
@@ -70,6 +77,7 @@ At Uppsala Social Robotics lab we aim to design and develop robots that learn to
 ***March 2023*** Natalia Calvo Barajas was recognized as an "outstanding reviewer" based on her contributions to the peer-review process of the ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2023.
 
 [Older news](old_news){: .btn .btn--inverse}
+
 
 ## Most recent publications
 {% include feature_row_publications id="feature_row" type="center-small" %}
