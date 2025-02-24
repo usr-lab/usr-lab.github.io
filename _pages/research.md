@@ -8,7 +8,24 @@ header:
   overlay_filter: "0.5"
 
 feature_row:
-  - image_path: assets/images/projects/childrens_intuitive_theory_ai.jpg
+  - image_path: assets/images/projects/MICRO.jpg
+    alt: "Project image"
+    title: "Measuring children’s wellbeing and mental health with social robots (MICRO)"
+    excerpt: "The MICRO project (2025-2028) aims to advance knowledge on how linguistic abilities and the ability to successfully engage in social interactions affect children’s wellbeing and mental health. To achieve this objective, the project will
+explore the use of social robots as new tools to measure children’s wellbeing and mental health in a school context. This will be done with a particular focus on vulnerable groups that are potential targets for preventative interventions,
+such as children with developmental language disorder and refugee children.
+The project is funded by Forte in the CHANSE-NORFACE Enhancing Well-being for the Future call. Coordinated by Uppsala University, it is a multi-party project in
+collaboration with other partners of the MICRO project’s consortium at the University of Cambridge (Hatice Gunes, Jenny Gibson, Tamsin Ford), ETH (Emily Cross) and Bielefeld University (Friederike Eyssel), as well as co-PIs Georgina Warner and Gustaf Gredebäck at
+Uppsala University."
+    members:
+      - name: "ginevra"
+  - image_path: assets/images/projects/CYBERBOT.jpg
+    alt: "Project image"
+    title: "Large language models-powered social robots in cybersecurity applications (CYBERBOT)"
+    excerpt: "CYBERBOT (2024-2028) aims to  investigate social robots as both a potential vehicle of cybersecurity attacks and a mechanism to protect users from them. This project, funded by the Graduate School in Cybersecurity, Department of Information Technology, Uppsala University, is collaboration with an interdisciplinary team with expertise in social robotics and human-robot interaction (Ginevra Castellano and Katie Winkle), LLMs and deep learning (Ekta Vats), and privacy and cybersecurity (Boel Nelson)."
+    members:
+      - name: "ginevra"
+  - image_path: assets/images/projects/lisbon.jpg
     alt: "Project image"
     title: "Children’s Intuitive Theory of AI"
     excerpt: "This project, funded by the Marianne and Marcus Wallenberg Foundation (2023-2026), will explore trustworthy robots for preschoolers."
@@ -42,13 +59,6 @@ feature_row:
     members:
       - name: "ginevra"
       - name: "mengyu"
-  - image_path: assets/images/projects/electra.png
-    alt: "Project image"
-    title: "Deep Learning for Emotional Alignment in Human-Robot Interaction (ELECTRA)"
-    excerpt: "ELECTRA aims to develop computational models for analysis of synchrony and alignment in human-human and human-robot interaction. This project is funded by the Swedish Research Council (2021-2024)."
-    members:
-      - name: "ginevra"
-      - name: "marc"
   - image_path: assets/images/projects/xai_hh_hri.jpg
     alt: "Project image"
     title: "Explainable deep learning methods for human-human and human-robot interaction "
@@ -56,15 +66,6 @@ feature_row:
     members:
       - name: "ginevra"
       - name: "marc"
-  - image_path: assets/images/projects/ethics_social_consequences.jpg
-    alt: "Project image"
-    title: "The ethics and social consequences of AI & caring robots. Learning trust, empathy and accountability"
-    excerpt: "It is likely that robots will soon be providing us with health and social care at different stages of our lives. For this to work, the robots must be able to build trusting relationships with people and act in a manner that is ethically acceptable. One important aspect of these relational intra-actions, and a challenge for researchers working with human-machine interaction,is therefore to program robots to behave sympathetically and accessibly. The project, funded by the Marianne and Marcus Wallenberg Foundation, is a collaboration with social science researchers at Linköping University (2020-2024)."
-    members:
-      - name: "ginevra"
-      - name: "katie"
-      - name: "lux"
-
 ---
 
 # Projects
