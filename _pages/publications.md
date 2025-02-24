@@ -21,8 +21,7 @@ feature_row:
   - image_path: assets/images/publications/miranda2024identities.png
     alt: "Publication image"
     paper: "A Case for Diverse Social Robot Identity Performance in Education"
-    venue: "*HRI '24: Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction*"
-    url: "https://doi.org/10.1145/3610978.3640768"
+    venue: "*HRI '24: Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction*    url: "https://doi.org/10.1145/3610978.3640768"
     members:
         - name: "lux"
         - name: "ginevra"
@@ -45,23 +44,41 @@ feature_row:
 
 #  More publications
 
-
 #### 2024
+
+Allen KH, Aronson RM, Bhattacharjee T, Broz F, Chang ML, Collier M, et al. Assistive Applications, Accessibility, and Disability Ethics in HRI. In: COMPANION OF THE 2024 ACM/IEEE INTERNATIONAL CONFERENCE ON HUMAN-ROBOT INTERACTION, HRI 2024 COMPANION [Internet]. Association for Computing Machinery (ACM); 2024. p. 1305–7. Available from: https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-537581
+
+Babel F, Hock P, Winkle K, Torre I, Ziemke T. The Human Behind the Robot : Rethinking the Low Social Status of Service Robots. In: Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction [Internet]. Association for Computing Machinery (ACM); 2024. p. 1–10. Available from: https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-545220
+
+Calvo Barajas N, Akkuzu A, Castellano G. Balancing Human Likeness in Social Robots : Impact on Children’s Lexical Alignment and Self-disclosure for Trust Assessment. ACM Transactions on Human-Robot Interaction [Internet]. 2024;13(4). Available from: https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-499698
+
+Cumbal R, Kantharaju R, Paetzel-Prüsmann M, Kennedy J. Let me finish first : The effect of interruption-handling strategy on the perceived personality of a social agent. In Association for Computing Machinery (ACM); 2024. Available from: https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-542838
+
+Fraile M, Varni G, Lindblad J, Sladoje N, Castellano G. Are We Friends : End-to-End Prediction of Child Rapport in Guided Play [Internet]. The 18th European Conference on Computer Vision ECCV 2024, 29 September-4 October, 2024, Milano, Italy; 2024. Available from: https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-539580
+
+Galatolo A, Winkle K. Memory-Augmenting Decoder-Only Language Models through Encoders : (Student Abstract). In: THIRTY-EIGTH AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE, VOL 38 NO 21 [Internet]. Assoc Advancement Artificial Intelligence; 2024. p. 23494–6. Available from: https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-537573
+
+Korpan R, Eguchi A, Han Z, Ostrowski AK, Ravindranath S, Tanevska A. 3rd Workshop on Inclusive HRI : Equity and Diversity in Design, Application, Methods, and Community. In: COMPANION OF THE 2024 ACM/IEEE INTERNATIONAL CONFERENCE ON HUMAN-ROBOT INTERACTION, HRI 2024 COMPANION [Internet]. Association for Computing Machinery (ACM); 2024. p. 1329–31. Available from: https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-537580
+
+Miranda L, Castellano G, Winkle K. A Case for Diverse Social Robot Identity Performance in Education. In: COMPANION OF THE 2024 ACM/IEEE INTERNATIONAL CONFERENCE ON HUMAN-ROBOT INTERACTION, HRI 2024 COMPANION [Internet]. ASSOC COMPUTING MACHINERY; 2024. p. 28–35. Available from: https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-537576
+
+Miranda L. Who is a robot? A fundamental model of artificial identity. In2024 33rd IEEE International Conference on Robot and Human Interactive Communication (ROMAN) 2024 Aug 26 (pp. 1510-1515). IEEE.
+
+Pelikan H, Winkle K, Porfirio D. Designing Human-Robot Interactions : A StEER Tutorial. In: ADJUNCT PROCEEDINGS OF THE 13TH NORDIC CONFERENCE ON HUMAN-COMPUTER INTERACTION, NORDICHI 2024 [Internet]. Association for Computing Machinery (ACM); 2024. Available from: https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-544641
+
+Spitale M, Winkle K, Barakova E, Gunes H. Guest Editorial : Special Issue on Embodied Agents for Wellbeing. International Journal of Social Robotics [Internet]. 2024;16(5):833–4. Available from: https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-544990
+
+Tanevska A, Winkle K, Castellano G. ‘I don’t like things where I do not have control’ : Participants’ Experience of Trustworthy Interaction with Autonomous Vehicles [Internet]. 2nd Workshop on Cars As Social Agents (CarSA), Nordic Conference on Human-Computer Interaction (NordiCHI 2024), Uppsala, Sweden, October 13, 2024; 2024. Available from: https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-544769
+
+Wester J, Moghe B, Winkle K, van Berkel N. Facing LLMs : Robot Communication Styles in Mediating Health Information between Parents and Young Adults. Proceedings of the ACM on Human-Computer Interaction [Internet]. 2024;8(CSCW2):1–37. Available from: https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-545219
+
+Winkle K, Mulvihill N. Anticipating the Use of Robots in Domestic Abuse : A Typology of Robot Facilitated Abuse to Support Risk Assessment and Mitigation in Human-Robot Interaction. In: HRI ’24 : Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction [Internet]. Association for Computing Machinery (ACM); 2024. p. 781–90. Available from: https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-544897
 
 Fraile, M., Calvo-Barajas, N., Apeiron, A. S., Varni, G., Lindblad, J., Sladoje, N., & Castellano, G. (2024). UpStory: the Uppsala Storytelling dataset. arXiv preprint arXiv:2407.04352.
 
 Della Santina, C., Corbato, C. H., Sisman, B., Leiva, L. A., Arapakis, I., Vakalellis, M., ... & Sierra, C. (2024, March). Awareness in robotics: an early perspective from the viewpoint of the EIC pathfinder challenge “awareness inside”. In European Robotics Forum (pp. 108-113). Cham: Springer Nature Switzerland.
 
-Miranda, L., Castellano, G., & Winkle, K. (2024, March). A Case for Diverse Social Robot Identity Performance in Education. In Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction (pp. 28-35).
-
-Fraile, M., Varni, G., Lindblad, J., Sladoje, N., & Castellano, G. (2024). Are We Friends? End-to-End Prediction of ChildRapport in Guided Play. In ECCV 2024.
-
-Tanevska, A., Winkle, K. & Castellano, G. (2024). "I don’t like things where I do not have control": Participants’ Experience of Trustworthy Interaction with Autonomous Vehicles. In 2nd Workshop on Cars As Social Agents (CarSA), Nordic Conference on Human-Computer Interaction (NordiCHI 2024), October 13, 2024, Uppsala, Sweden.
-
 Cumbal, R., Kantharaju, R., Paetzel-Prüsmann, M., & Kennedy, J. (2024, September). Let Me Finish First-The Effect of Interruption-Handling Strategy on the Perceived Personality of a Social Agent. In Proceedings of the ACM International Conference on Intelligent Virtual Agents (pp. 1-10).
-
-Natalia Calvo-Barajas, Anastasia Akkuzu, and Ginevra Castellano. 2024. Balancing Human Likeness in Social Robots: Impact on Children’s Lexical Alignment and Self-disclosure for Trust Assessment. ACM Trans. Hum.-Robot Interact. 13, 4, Article 54 (October 2024), 27 pages.
-https://doi.org/10.1145/3659062
 
 #### 2023
 
