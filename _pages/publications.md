@@ -10,6 +10,15 @@ excerpt: Please always refer to Google Scholar's profiles of each member for a m
 
 
 feature_row:
+  - image_path: assets/images/publications/calvo-barajas-et-al-2024.png
+    alt: "Publication image"
+    paper: "Balancing Human Likeness in Social Robots: Impact on Children’s Lexical Alignment and Self-disclosure for Trust Assessment"
+    venue: "*ACM Transactions on Human-Robot Interaction (THRI)*"
+    url: "https://doi.org/10.1145/3659062"
+    members:
+        - name: "natalia"
+        - name: "anastasia"
+        - name: "ginevra"
   - image_path: assets/images/publications/winkle2024anticipating.png
     alt: "Publication image"
     paper: "Anticipating the Use of Robots in Domestic Abuse: A Typology of Robot Facilitated Abuse to Support Risk Assessment and Mitigation in Human-Robot Interaction"
@@ -26,15 +35,6 @@ feature_row:
         - name: "lux"
         - name: "ginevra"
         - name: "katie"
-  - image_path: assets/images/publications/akkuzu2023observations.png
-    alt: "Publication image"
-    paper: "Behavioural Observations as Objective Measures of Trust in Child-Robot Interaction: Mutual Gaze"
-    venue: "*HAI '23: Proceedings of the 11th International Conference on Human-Agent Interaction*"
-    url: "https://dl.acm.org/doi/abs/10.1145/3623809.3623960"
-    members:
-        - name: "anastasia"
-        - name: "natalia"
-        - name: "ginevra"
 ---
 
 # Most recent publications
@@ -42,7 +42,9 @@ feature_row:
 
 
 
+
 #  More publications
+
 
 #### 2024
 
