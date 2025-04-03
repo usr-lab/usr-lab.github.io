@@ -51,6 +51,8 @@ At Uppsala Social Robotics lab we aim to design and develop robots that learn to
 <!--
 {% include feature_row id="feature_row_news" type="left" %}
 -->
+
+***April 2025*** Yue Lou has joined our lab as a PhD student. Welcome Yue! 
     
 ***November 2024*** Marc Fraile successfully defended his PhD thesis and became a USRL alumnus. Congratulations Dr. Fraile! 
 
