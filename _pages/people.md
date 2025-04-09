@@ -83,6 +83,12 @@ feature_row_phds:
     alt: "Hong Wang"
     title: "Hong Wang"
     excerpt: "Hong Wang is a PhD student in the Social Robotics Lab. With a background in automatic control and embedded systems, she is passionate in the fields of robotics, autonomous systems, and AI-powered human-robot interaction. Her research interests include the application of social robots within domestic environments, with the current projects focusing on the evaluation and solution of potential risks associated with healthcare robots, aiming to enhance user experience and cybersecurity through trustworthy interactions."
+  - image_path: yue
+    alt: "Yue Lou"
+    title: "Yue Lou"
+    excerpt: "Yue Lou is a PhD student in the Social Robotics Lab. She received her MSc in Interaction Design and Technologies from Chalmers in 2024. Her research interests lie at the intersection of design, technology, and cognitive science, aiming to develop ethical, human-centered systems to address societal challenges through human-robot interaction. Her current work, as part of the large collaborative project MICRO, explores the use of social robots as new tools to measure children's wellbeing and mental health."
+
+
 
 feature_row_external_phds:
   - image_path: vanessa
