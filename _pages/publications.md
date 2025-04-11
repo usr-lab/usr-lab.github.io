@@ -10,6 +10,21 @@ excerpt: Please always refer to Google Scholar's profiles of each member for a m
 
 
 feature_row:
+  - image_path: assets/images/publications/winkle2025.png
+    alt: "Publication image"
+    paper: "Robots from Nowhere: A Case Study in Speculative Sociotechnical Design and Design Fiction for Human-Robot Interaction"
+    venue: "HRI '25: Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction"
+    url: "https://dl.acm.org/doi/abs/10.5555/3721488.3721637"
+    members:
+        - name: "katie"
+  - image_path: assets/images/publications/tanqueray2025.png
+    alt: "Publication image"
+    paper: "Young Carers on Social Robots: Introducing Teenagers as Informal Caregivers to HRI"
+    venue: "HRI '25: Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction"
+    url: "https://dl.acm.org/doi/abs/10.5555/3721488.3721537"
+    members:
+        - name: "laetitia"
+        - name: "katie"
   - image_path: assets/images/publications/calvo-barajas-et-al-2024.png
     alt: "Publication image"
     paper: "Balancing Human Likeness in Social Robots: Impact on Children’s Lexical Alignment and Self-disclosure for Trust Assessment"
@@ -19,22 +34,6 @@ feature_row:
         - name: "natalia"
         - name: "anastasia"
         - name: "ginevra"
-  - image_path: assets/images/publications/winkle2024anticipating.png
-    alt: "Publication image"
-    paper: "Anticipating the Use of Robots in Domestic Abuse: A Typology of Robot Facilitated Abuse to Support Risk Assessment and Mitigation in Human-Robot Interaction"
-    venue: "*HRI '24: Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction*"
-    url: "https://doi.org/10.1145/3610977.3634938"
-    members:
-        - name: "katie"
-  - image_path: assets/images/publications/miranda2024identities.png
-    alt: "Publication image"
-    paper: "A Case for Diverse Social Robot Identity Performance in Education"
-    venue: "*HRI '24: Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction*"
-    url: "https://doi.org/10.1145/3610978.3640768"
-    members:
-        - name: "lux"
-        - name: "ginevra"
-        - name: "katie"
 ---
 
 # Most recent publications
@@ -44,12 +43,18 @@ feature_row:
 
 
 
+
 #  More publications
+
 
 
 
 #### 2024
 
+Katie Winkle and Natasha Mulvihill. 2024. Anticipating the Use of Robots in Domestic Abuse: A Typology of Robot Facilitated Abuse to Support Risk Assessment and Mitigation in Human-Robot Interaction. In Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI '24). Association for Computing Machinery, New York, NY, USA, 781–790. https://doi.org/10.1145/3610977.3634938
+
+Lux Miranda, Ginevra Castellano, and Katie Winkle. 2024. A Case for Diverse Social Robot Identity Performance in Education. In Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI '24). Association for Computing Machinery, New York, NY, USA, 28–35. https://doi.org/10.1145/3610978.3640768
+  
 Allen KH, Aronson RM, Bhattacharjee T, Broz F, Chang ML, Collier M, et al. Assistive Applications, Accessibility, and Disability Ethics in HRI. In: COMPANION OF THE 2024 ACM/IEEE INTERNATIONAL CONFERENCE ON HUMAN-ROBOT INTERACTION, HRI 2024 COMPANION [Internet]. Association for Computing Machinery (ACM); 2024. p. 1305–7. Available from: https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-537581
 
 Babel F, Hock P, Winkle K, Torre I, Ziemke T. The Human Behind the Robot : Rethinking the Low Social Status of Service Robots. In: Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction [Internet]. Association for Computing Machinery (ACM); 2024. p. 1–10. Available from: https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-545220
@@ -83,6 +88,7 @@ Fraile, M., Calvo-Barajas, N., Apeiron, A. S., Varni, G., Lindblad, J., Sladoje,
 Della Santina, C., Corbato, C. H., Sisman, B., Leiva, L. A., Arapakis, I., Vakalellis, M., ... & Sierra, C. (2024, March). Awareness in robotics: an early perspective from the viewpoint of the EIC pathfinder challenge “awareness inside”. In European Robotics Forum (pp. 108-113). Cham: Springer Nature Switzerland.
 
 Cumbal, R., Kantharaju, R., Paetzel-Prüsmann, M., & Kennedy, J. (2024, September). Let Me Finish First-The Effect of Interruption-Handling Strategy on the Perceived Personality of a Social Agent. In Proceedings of the ACM International Conference on Intelligent Virtual Agents (pp. 1-10).
+
 
 
 #### 2023

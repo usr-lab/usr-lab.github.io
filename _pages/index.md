@@ -7,13 +7,22 @@ header:
     image: /assets/images/group_picture_2025.jpg
     image_description: "Group photo of the lab's members"
 
-feature_row_news:
-  - image_path: assets/images/UN_summit.jpg
-    alt: "Photo depicting Ginevra delivering a speech at the UN summit on AI for Good"
-    excerpt: "***May 2024*** Our Lab had a booth at the UN AI for Good summit, where Ginevra also delivered a speech!"
-
-
 feature_row:
+  - image_path: assets/images/publications/winkle2025.png
+    alt: "Publication image"
+    paper: "Robots from Nowhere: A Case Study in Speculative Sociotechnical Design and Design Fiction for Human-Robot Interaction"
+    venue: "HRI '25: Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction"
+    url: "https://dl.acm.org/doi/abs/10.5555/3721488.3721637"
+    members:
+        - name: "katie"
+  - image_path: assets/images/publications/tanqueray2025.png
+    alt: "Publication image"
+    paper: "Young Carers on Social Robots: Introducing Teenagers as Informal Caregivers to HRI"
+    venue: "HRI '25: Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction"
+    url: "https://dl.acm.org/doi/abs/10.5555/3721488.3721537"
+    members:
+        - name: "laetitia"
+        - name: "katie"
   - image_path: assets/images/publications/calvo-barajas-et-al-2024.png
     alt: "Publication image"
     paper: "Balancing Human Likeness in Social Robots: Impact on Children’s Lexical Alignment and Self-disclosure for Trust Assessment"
@@ -23,28 +32,26 @@ feature_row:
         - name: "natalia"
         - name: "anastasia"
         - name: "ginevra"
-  - image_path: assets/images/publications/winkle2024anticipating.png
-    alt: "Publication image"
-    paper: "Anticipating the Use of Robots in Domestic Abuse: A Typology of Robot Facilitated Abuse to Support Risk Assessment and Mitigation in Human-Robot Interaction"
-    venue: "*HRI '24: Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction*"
-    url: "https://doi.org/10.1145/3610977.3634938"
-    members:
-        - name: "katie"
-  - image_path: assets/images/publications/miranda2024identities.png
-    alt: "Publication image"
-    paper: "A Case for Diverse Social Robot Identity Performance in Education"
-    venue: "*HRI '24: Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction*"
-    url: "https://doi.org/10.1145/3610978.3640768"
-    members:
-        - name: "lux"
-        - name: "ginevra"
-        - name: "katie"
+
+feature_row_news:
+  - image_path: assets/images/UN_summit.jpg
+    alt: "Photo depicting Ginevra delivering a speech at the UN summit on AI for Good"
+    excerpt: "***May 2024*** Our Lab had a booth at the UN AI for Good summit, where Ginevra also delivered a speech!"
+
+
 ---
+
+
 # Welcome to the Social Robotics Lab at Uppsala University
 {: .text-center}
 
 At Uppsala Social Robotics lab we aim to design and develop robots that learn to interact socially with humans and bring benefits to the society we live in, for example in application areas such as education, e-learning, healthcare and assistive technology.
 {: .text-center}
+
+
+
+## Most recent publications
+{% include feature_row_publications id="feature_row" type="center-small" %}
 
 
 ## Most recent news
@@ -79,8 +86,6 @@ At Uppsala Social Robotics lab we aim to design and develop robots that learn to
 [Older news](old_news){: .btn .btn--inverse}
 
 
-## Most recent publications
-{% include feature_row_publications id="feature_row" type="center-small" %}
 
 ### Visiting address
  
