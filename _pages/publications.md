@@ -36,18 +36,23 @@ feature_row:
         - name: "ginevra"
 ---
 
-# Most recent publications
+# Featured publications
 {% include feature_row_publications type="center-small" %}
 
+#  All publications
 
 
+#### 2025
 
+Fraile, M., Calvo-Barajas, N., Apeiron, A. S., Varni, G., Lindblad, J., Sladoje, N., & Castellano, G. (2025). UpStory: the uppsala storytelling dataset. Frontiers in Robotics and AI, 12, 1547578.
 
+Tanevska, A., Kumar, A. R., Ghosh, A., Casablanca, E., Castellano, G., & Soudjani, S. (2025). Blending Participatory Design and Artificial Awareness for Trustworthy Autonomous Vehicles. IEEE ROMAN 2025
 
-#  More publications
+Cumbal, R., Broo, D. G., & Castellano, G. (2025). Crowdsourcing eHMI Designs: A Participatory Approach to Autonomous Vehicle-Pedestrian Communication. IEEE ROMAN 2025
 
+Wang, H., Calvo-Barajas, N., Winkle, K., & Castellano, G. (2025). " Who Should I Believe?": User Interpretation and Decision-Making When a Family Healthcare Robot Contradicts Human Memory. IEEE ROMAN 2025
 
-
+Tanevska, A., Winkle, K., & Castellano, G. Information vs. Situation: Balancing Transparency and Autonomy for Trustworthy Autonomous Vehicles. Frontiers in Robotics and AI, 12, 1657857.
 
 #### 2024
 
@@ -82,8 +87,6 @@ Tanevska A, Winkle K, Castellano G. ‘I don’t like things where I do not have
 Wester J, Moghe B, Winkle K, van Berkel N. Facing LLMs : Robot Communication Styles in Mediating Health Information between Parents and Young Adults. Proceedings of the ACM on Human-Computer Interaction [Internet]. 2024;8(CSCW2):1–37. Available from: https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-545219
 
 Winkle K, Mulvihill N. Anticipating the Use of Robots in Domestic Abuse : A Typology of Robot Facilitated Abuse to Support Risk Assessment and Mitigation in Human-Robot Interaction. In: HRI ’24 : Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction [Internet]. Association for Computing Machinery (ACM); 2024. p. 781–90. Available from: https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-544897
-
-Fraile, M., Calvo-Barajas, N., Apeiron, A. S., Varni, G., Lindblad, J., Sladoje, N., & Castellano, G. (2024). UpStory: the Uppsala Storytelling dataset. arXiv preprint arXiv:2407.04352.
 
 Della Santina, C., Corbato, C. H., Sisman, B., Leiva, L. A., Arapakis, I., Vakalellis, M., ... & Sierra, C. (2024, March). Awareness in robotics: an early perspective from the viewpoint of the EIC pathfinder challenge “awareness inside”. In European Robotics Forum (pp. 108-113). Cham: Springer Nature Switzerland.
 

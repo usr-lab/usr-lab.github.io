@@ -50,14 +50,17 @@ At Uppsala Social Robotics lab we aim to design and develop robots that learn to
 
 
 
-## Most recent publications
+## Featured publications
 {% include feature_row_publications id="feature_row" type="center-small" %}
+
 
 
 ## Most recent news
 <!--
 {% include feature_row id="feature_row_news" type="left" %}
 -->
+
+***August 2025*** We had three publcations featured at RO-MAN 2025!
 
 ***April 2025*** Yue Lou has joined our lab as a PhD student. Welcome Yue! 
     
@@ -84,6 +87,7 @@ At Uppsala Social Robotics lab we aim to design and develop robots that learn to
 ***March 2023*** Natalia Calvo Barajas was recognized as an "outstanding reviewer" based on her contributions to the peer-review process of the ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2023.
 
 [Older news](old_news){: .btn .btn--inverse}
+
 
 
 
