@@ -36,13 +36,23 @@ feature_row:
         - name: "ginevra"
 ---
 
-# Featured publications
+<!-- Featured publications
 {% include feature_row_publications type="center-small" %}
 
-#  All publications
+-->
+
 
 
 #### 2025
+
+
+Laetitia Tanqueray, Chris Papadopoulos, Stefan Larsson, and Katie Winkle. 2025. Young Carers on Social Robots: Introducing Teenagers as Informal Caregivers to HRI. In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI '25). IEEE Press, 381–390.
+
+Katie Winkle. 2025. Robots from Nowhere: A Case Study in Speculative Sociotechnical Design and Design Fiction for Human-Robot Interaction. In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI '25). IEEE Press, 1152–1165.
+
+Dignum, V., Régis, C., Bach, K., Bourgine de Meder, Y., Buijsman, S., de Carvalho, A. P. L. F., Castellano, G., ... Tucker, J. (2025). Roadmap for AI policy research. AI Policy Research Summit, Stockholm, November 2024. AI Policy Lab, Umeå University. 
+ 
+Visualizing Confidence in Delivery Robots: Insights from Two Online Studies. Authors: Ronald Cumbal, Natalia Calvo-Barajas, Marina Escobar-Planas, Alexandros Rouchitsas, Ginevra Castellano. CHI 2025 
 
 Fraile, M., Calvo-Barajas, N., Apeiron, A. S., Varni, G., Lindblad, J., Sladoje, N., & Castellano, G. (2025). UpStory: the uppsala storytelling dataset. Frontiers in Robotics and AI, 12, 1547578.
 
@@ -53,6 +63,7 @@ Cumbal, R., Broo, D. G., & Castellano, G. (2025). Crowdsourcing eHMI Designs: A 
 Wang, H., Calvo-Barajas, N., Winkle, K., & Castellano, G. (2025). " Who Should I Believe?": User Interpretation and Decision-Making When a Family Healthcare Robot Contradicts Human Memory. IEEE ROMAN 2025
 
 Tanevska, A., Winkle, K., & Castellano, G. Information vs. Situation: Balancing Transparency and Autonomy for Trustworthy Autonomous Vehicles. Frontiers in Robotics and AI, 12, 1657857.
+
 
 #### 2024
 
