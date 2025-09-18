@@ -15,7 +15,7 @@ There are currently no open positions.
 ---
 
 # Master's projects
-The following is a list of project that our lab offers that can be expanded into e.g. a master thesis or an intenship at the lab.
+The following is a list of project that our lab offers that can be expanded into e.g. a master thesis or an internship at the lab. More project may be available by contacting each member separately.
 
 {% for collection in site.master-projects %}
   <h2> {{ collection.title }} </h2>

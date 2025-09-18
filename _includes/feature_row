@@ -30,8 +30,28 @@
             </div>
           {% endif %}
 
-          {% if f.url %}
-            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+          {%- comment -%}
+          If links array present, render multiple buttons. Otherwise, fallback to single.
+          Each link supports: url, label, class, target (optional).
+          {%- endcomment -%}
+          {% if f.links %}
+            <div class="feature__buttons">
+              {% for link in f.links %}
+                {% assign is_external = link.url | slice: 0,4 %}
+                <a
+                  href="{% if is_external == 'http' %}{{ link.url }}{% else %}{{ link.url | relative_url }}{% endif %}"
+                  class="btn {{ link.class }}"
+                  {% if is_external == 'http' and link.target != '_self' %}target="{{ link.target | default: '_blank' }}" rel="noopener noreferrer"{% endif %}
+                >{{ link.label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+              {% endfor %}
+            </div>
+          {% elsif f.url %}
+            <p>
+              <a href="{{ f.url | relative_url }}"
+                 class="btn {{ f.btn_class }}">
+                 {{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}
+              </a>
+            </p>
           {% endif %}
         </div>
       </div>

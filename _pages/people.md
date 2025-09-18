@@ -58,13 +58,6 @@ feature_row_postdocs:
     excerpt: "Ronald Cumbal is a postdoctoral researcher at the Department of Information Technology, Uppsala University, working on the SymAware project. His work involves embedding communication mechanisms to convey intention and decision-making in autonomous agents. He is passionate about robotics, dialogue systems, and human-centered Technology. His research focuses on developing adaptive robots that enhance interaction through various communication mechanisms, aiming to integrate autonomous agents into diverse social settings, with a particular emphasis on group interactions and multicultural users."
 
 feature_row_phds:
-  - image_path: mengyu
-    alt: "Mengyu Zhong"
-    title: "Mengyu Zhong"
-    excerpt: "Mengyu Zhong is a PhD student in the Social Robotics Lab. She received an MSc in IT and Cognition from the University of Copenhagen in 2021. She believes that AI-powered robots are changing the world and will free humans from trivial and repetitive works. Her work is focused on data-driven socially assistive robotics, and it is part of the Project funded by WoMHeR. She is interested in human-robot interaction, multi-modal deep learning, and especially robot-assisted medical diagnosis."
-    # btn_label: "Personal website"
-    # btn_class: "btn btn--primary"
-    # url: https://www.it.uu.se/katalog/menzh316
   - image_path: lux
     alt: "Lux Miranda"
     title: "Lux Miranda"
@@ -131,6 +124,7 @@ feature_row_external_phds:
 
 
 # Alumni
+Mengyu Zhong, Ph.D.
 
 Marc Fraile, Ph.D. 
 

@@ -6,7 +6,17 @@ title: Old news
 
 ## 2023
 
-***April:***: we have three postdoc positions open at the lab right now (positions were filled)! Deadlines for applications: end of April/beginning of May.
+***August*** Natalia Calvo Barajas is continuing at the lab as a postdoctoral researcher!
+
+***July*** We have one full paper accepted at the IEEE RO-MAN 2023 conference!
+
+***April:***: We have three postdoc positions open at the lab right now (positions were filled)! Deadlines for applications: end of April/beginning of May.
+
+***March*** Natalia Calvo Barajas co-organized the 2nd version of the Workshop: [CRITTER: Child-Robot Interaction and interdisciplinary research](https://child-robot-interaction.github.io).
+
+***March*** Anastasia's abstract got accepted for participation in the same workshop.
+
+***March*** Natalia Calvo Barajas was recognized as an "outstanding reviewer" based on her contributions to the peer-review process of the ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2023.
 
 ***January:***: we had one full paper and two late-breaking reports accepted at the [HRI 2023 conference](https://humanrobotinteraction.org/2023/)!
 

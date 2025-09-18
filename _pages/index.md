@@ -63,7 +63,11 @@ At Uppsala Social Robotics lab we aim to design and develop robots that learn to
 {% include feature_row id="feature_row_news" type="left" %}
 -->
 
+***September 2025*** Ginevra Castellano was awarded the Thuréus Prize 2025!
+
 ***August 2025*** We had three publcations featured at RO-MAN 2025!
+
+***June 2025*** Mengyu Zhong successfully defended her PhD thesis "Bridging Technology and Mental Health: Challenges and Opportunities in Robot-assisted Perinatal Depression Screening". Congratulations Dr. Zhong! 
 
 ***April 2025*** Yue Lou has joined our lab as a PhD student. Welcome Yue! 
     
@@ -78,16 +82,6 @@ At Uppsala Social Robotics lab we aim to design and develop robots that learn to
 ***March 2024*** We have two publications accepted at HRI'24!
 
 ***March 2024*** Lux Miranda co-organized the 3rd version of the Workshop: [Robo-Identity: Designing for Identity in the Shared World](https://sites.google.com/view/hri2024workshop-robo-identity3/home).
-
-***August 2023*** Natalia Calvo Barajas is continuing at the lab as a postdoctoral researcher!
-
-***July 2023*** We have one full paper accepted at the IEEE RO-MAN 2023 conference!
-
-***March 2023*** Natalia Calvo Barajas co-organized the 2nd version of the Workshop: [CRITTER: Child-Robot Interaction and interdisciplinary research](https://child-robot-interaction.github.io).
-
-***March 2023*** Anastasia's abstract got accepted for participation in the same workshop.
-
-***March 2023*** Natalia Calvo Barajas was recognized as an "outstanding reviewer" based on her contributions to the peer-review process of the ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2023.
 
 [Older news](old_news){: .btn .btn--inverse}
 
