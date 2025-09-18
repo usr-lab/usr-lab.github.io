@@ -52,15 +52,9 @@ feature_row:
 
 #### 2025
 
-Tanqueray, L., Papadopoulos, C., Larsson, S., & **Winkle, K.** (2025). Young carers on social robots: Introducing teenagers as informal caregivers to HRI. In *Proceedings of the ACM/IEEE International Conference on Human-Robot Interaction (HRI ’25)* (pp. 381–390). IEEE Press.
+ **Galatolo, A.**, Rappuoli L. A., **Winkle, K.**, Beloucif, M. (2025). Beyond Ethical Alignment: Evaluating LLMs as Artificial Moral Assistants. In *Proceedings of the European Conference on Artificial Intelligence.* [Pre-print](https://arxiv.org/abs/2508.12754).
 
-**Winkle, K.** (2025). Robots from nowhere: A case study in speculative sociotechnical design and design fiction for human-robot interaction. In *Proceedings of the ACM/IEEE International Conference on Human-Robot Interaction (HRI ’25)* (pp. 1152–1165). IEEE Press.
-
-Dignum, V., Régis, C., Bach, K., Bourgine de Meder, Y., Buijsman, S., de Carvalho, A. P. L. F., **Castellano, G.**, et al. (2025). Roadmap for AI policy research. *AI Policy Research Summit, Stockholm (Nov 2024)*. AI Policy Lab, Umeå University.
-
-**Cumbal, R.**, **Calvo-Barajas, N.**, Escobar-Planas, M., Rouchitsas, A., & **Castellano, G.** (2025). Visualizing confidence in delivery robots: Insights from two online studies. In *Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI 2025)*.
-
-**Fraile, M.**, **Calvo-Barajas, N.**, Apeiron, A. S., Varni, G., Lindblad, J., Sladoje, N., & **Castellano, G.** (2025). UpStory: The Uppsala storytelling dataset. *Frontiers in Robotics and AI, 12*, 1547578.
+**Tanevska, A.**, **Winkle, K.**, & **Castellano, G.** (2025). Information vs. situation: Balancing transparency and autonomy for trustworthy autonomous vehicles. *Frontiers in Robotics and AI, 12*, 1657857.
 
 **Tanevska, A.**, Kumar, A. R., Ghosh, A., Casablanca, E., **Castellano, G.**, & Soudjani, S. (2025). Blending participatory design and artificial awareness for trustworthy autonomous vehicles. In *Proceedings of the IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2025)*.
 
@@ -68,8 +62,17 @@ Dignum, V., Régis, C., Bach, K., Bourgine de Meder, Y., Buijsman, S., de Carval
 
 **Wang, H.**, **Calvo-Barajas, N.**, **Winkle, K.**, & **Castellano, G.** (2025). Who should I believe? User interpretation and decision-making when a family healthcare robot contradicts human memory. In *Proceedings of the IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2025)*.
 
-**Tanevska, A.**, **Winkle, K.**, & **Castellano, G.** (2025). Information vs. situation: Balancing transparency and autonomy for trustworthy autonomous vehicles. *Frontiers in Robotics and AI, 12*, 1657857.
+**Fraile, M.**, **Calvo-Barajas, N.**, Apeiron, A. S., Varni, G., Lindblad, J., Sladoje, N., & **Castellano, G.** (2025). UpStory: The Uppsala storytelling dataset. *Frontiers in Robotics and AI, 12*, 1547578.
 
+**Galatolo, A.**, **Winkle, K.** (2025). Simultaneous Text and Gesture Generation for Social Robots with Small Language Models. *Frontiers in Robotics and AI, 12,* 1581024. [https://doi.org/10.3389/frobt.2025.1581024](https://doi.org/10.3389/frobt.2025.1581024)
+
+**Cumbal, R.**, **Calvo-Barajas, N.**, Escobar-Planas, M., Rouchitsas, A., & **Castellano, G.** (2025). Visualizing confidence in delivery robots: Insights from two online studies. In *Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI 2025)*.
+
+Tanqueray, L., Papadopoulos, C., Larsson, S., & **Winkle, K.** (2025). Young carers on social robots: Introducing teenagers as informal caregivers to HRI. In *Proceedings of the ACM/IEEE International Conference on Human-Robot Interaction (HRI ’25)* (pp. 381–390). IEEE Press.
+
+**Winkle, K.** (2025). Robots from nowhere: A case study in speculative sociotechnical design and design fiction for human-robot interaction. In *Proceedings of the ACM/IEEE International Conference on Human-Robot Interaction (HRI ’25)* (pp. 1152–1165). IEEE Press.
+
+Dignum, V., Régis, C., Bach, K., Bourgine de Meder, Y., Buijsman, S., de Carvalho, A. P. L. F., **Castellano, G.**, et al. (2025). Roadmap for AI policy research. *AI Policy Research Summit, Stockholm (Nov 2024)*. AI Policy Lab, Umeå University.
 
 #### 2024
 
