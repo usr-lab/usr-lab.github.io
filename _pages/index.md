@@ -50,6 +50,7 @@ At Uppsala Social Robotics lab we aim to design and develop robots that learn to
 
 
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/b73Ssh36Q3c" frameborder="0"> </iframe>
 
 <!--## Featured publications
 {% include feature_row_publications id="feature_row" type="center-small" %}

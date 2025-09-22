@@ -52,7 +52,7 @@ feature_row:
 
 #### 2025
 
- **Galatolo, A.**, Rappuoli L. A., **Winkle, K.**, Beloucif, M. (2025). Beyond Ethical Alignment: Evaluating LLMs as Artificial Moral Assistants. In *Proceedings of the European Conference on Artificial Intelligence.* [Pre-print](https://arxiv.org/abs/2508.12754).
+**Galatolo, A.**, Rappuoli L. A., **Winkle, K.**, Beloucif, M. (2025). Beyond Ethical Alignment: Evaluating LLMs as Artificial Moral Assistants. In *Proceedings of the European Conference on Artificial Intelligence.* [Pre-print](https://arxiv.org/abs/2508.12754).
 
 **Tanevska, A.**, **Winkle, K.**, & **Castellano, G.** (2025). Information vs. situation: Balancing transparency and autonomy for trustworthy autonomous vehicles. *Frontiers in Robotics and AI, 12*, 1657857.
 
@@ -86,7 +86,7 @@ Babel, F., Hock, P., **Winkle, K.**, Torre, I., & Ziemke, T. (2024). The human b
 
 **Calvo-Barajas, N.**, **Akkuzu, A.**, & **Castellano, G.** (2024). Balancing human likeness in social robots: Impact on children’s lexical alignment and self-disclosure for trust assessment. *ACM Transactions on Human-Robot Interaction, 13*(4). [URN](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-499698)
 
-**Cumbal, R.**, Kantharaju, R., **Paetzel-Prüsmann, M.**, & Kennedy, J. (2024). Let me finish first: The effect of interruption-handling strategy on the perceived personality of a social agent. Association for Computing Machinery. [URN](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-542838)
+**Cumbal, R.**, Kantharaju, R., **Paetzel, M.**, & Kennedy, J. (2024). Let me finish first: The effect of interruption-handling strategy on the perceived personality of a social agent. Association for Computing Machinery. [URN](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-542838)
 
 **Fraile, M.**, Varni, G., Lindblad, J., Sladoje, N., & **Castellano, G.** (2024). Are we friends: End-to-end prediction of child rapport in guided play. In *European Conference on Computer Vision (ECCV 2024)*, Milan, Italy. [URN](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-539580)
 
@@ -110,7 +110,7 @@ Wester, J., Moghe, B., **Winkle, K.**, & van Berkel, N. (2024). Facing LLMs: Rob
 
 Della Santina, C., Corbato, C. H., Sisman, B., Leiva, L. A., Arapakis, I., Vakalellis, M., … Sierra, C. (2024, March). Awareness in robotics: An early perspective from the viewpoint of the EIC Pathfinder challenge “Awareness Inside.” In *European Robotics Forum* (pp. 108–113). Springer Nature Switzerland.
 
-**Cumbal, R.**, Kantharaju, R., **Paetzel-Prüsmann, M.**, & Kennedy, J. (2024, September). Let me finish first: The effect of interruption-handling strategy on the perceived personality of a social agent. In *Proceedings of the ACM International Conference on Intelligent Virtual Agents (IVA)* (pp. 1–10).
+**Cumbal, R.**, Kantharaju, R., **Paetzel, M.**, & Kennedy, J. (2024, September). Let me finish first: The effect of interruption-handling strategy on the perceived personality of a social agent. In *Proceedings of the ACM International Conference on Intelligent Virtual Agents (IVA)* (pp. 1–10).
 
 
 #### 2023
@@ -185,13 +185,13 @@ Arnelid, M., Boman, M., Brännström, A., Campano, E., **Castellano, G.**, Dignu
 
 Yang, F., **Gao, Y.**, Ma, R., Zojaji, S., **Castellano, G.**, & Peters, C. (2021). A dataset of human and robot approach behaviors into small free-standing conversational groups. *PLOS ONE*. [https://doi.org/10.1371/journal.pone.0247364](https://doi.org/10.1371/journal.pone.0247364)
 
-**Perugia, G.**, **Paetzel-Prüsmann, M.**, Alanenpää, M., & **Castellano, G.** (2021). I can see it in your eyes: Gaze as an implicit cue of uncanniness and task performance in repeated interactions with robots. *Frontiers in Robotics and AI*. [https://doi.org/10.3389/frobt.2021.645956](https://doi.org/10.3389/frobt.2021.645956)
+**Perugia, G.**, **Paetzel, M.**, Alanenpää, M., & **Castellano, G.** (2021). I can see it in your eyes: Gaze as an implicit cue of uncanniness and task performance in repeated interactions with robots. *Frontiers in Robotics and AI*. [https://doi.org/10.3389/frobt.2021.645956](https://doi.org/10.3389/frobt.2021.645956)
 
 Elgarf, M., **Calvo-Barajas, N.**, **Perugia, G.**, **Castellano, G.**, & Peters, C. (2021). Reward seeking or loss aversion? Impact of regulatory focus theory on emotional induction in children and their behavior towards a social robot. In *Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI ’21)* (Article 587, pp. 1–11). Association for Computing Machinery. [https://doi.org/10.1145/3411764.3445486](https://doi.org/10.1145/3411764.3445486)
 
 Stower, R., Ligthart, M., van Straten, C., **Calvo-Barajas, N.**, Velner, E., & Beelen (2021). Interdisciplinary research methods for child-robot relationship formation. In *Companion of the ACM/IEEE International Conference on Human-Robot Interaction (HRI ’21 Companion)* (pp. 700–702). Association for Computing Machinery. [https://doi.org/10.1145/3434074.3444869](https://doi.org/10.1145/3434074.3444869)
 
-**Paetzel-Prüsmann, M.**, **Perugia, G.**, & **Castellano, G.** (2021). The influence of robot personality on the development of uncanny feelings. *Computers in Human Behavior*, 106756.
+**Paetzel, M.**, **Perugia, G.**, & **Castellano, G.** (2021). The influence of robot personality on the development of uncanny feelings. *Computers in Human Behavior*, 106756.
 
 Stower, R., **Calvo-Barajas, N.**, **Castellano, G.**, & Kappas, A. (2021). A meta-analysis on children’s trust in social robots. *International Journal of Social Robotics*, 1–23. [https://doi.org/10.1007/s12369-020-00736-8](https://doi.org/10.1007/s12369-020-00736-8)
 
@@ -343,11 +343,11 @@ Corrigan, L., Peters, C., & **Castellano, G.** (2013). Social-task engagement: S
 
 Serholt, S., Barendregt, W., Ribeiro, T., **Castellano, G.**, Paiva, A., Kappas, A., Aylett, R., & Nabais, F. (2013). EMOTE: Embodied-perceptive tutors for empathy-based learning in a game environment. In *Proceedings of the 7th European Conference on Games Based Learning*, Porto.
 
-Serban, O., **Castellano, G.**, Pauchet, A., Rogozan, A., & Pecuchet, J.-P. (2013). Fusion of smile, valence and N-gram features for automatic affect detection. In *Proceedings of ACII ’13*, Geneva.
+Serban, O., **Castellano, G.**, Pauchet, A., Rogozan, A., & Pecuchet, J.-P. (2013). Fusion of smile, valence and N-gram features for automatic affect detection. In *Proceedings of ACII 2013*, Geneva.
 
-Papadopoulos, F., Corrigan, L., Jones, A., & **Castellano, G.** (2013). Learner modelling and automatic engagement recognition with robotic tutors. In *AFFINE Workshop at ACII ’13*, Geneva.
+Papadopoulos, F., Corrigan, L., Jones, A., & **Castellano, G.** (2013). Learner modelling and automatic engagement recognition with robotic tutors. In *AFFINE Workshop at ACII 2013*, Geneva.
 
-Corrigan, L., Peters, C., & **Castellano, G.** (2013). Identifying task engagement: Towards personalised interactions with educational robots. In *Doctoral Consortium, ACII ’13*, Geneva.
+Corrigan, L., Peters, C., & **Castellano, G.** (2013). Identifying task engagement: Towards personalised interactions with educational robots. In *Doctoral Consortium, ACII 2013*, Geneva.
 
 Kappas, A., **Castellano, G.**, Paiva, A., Barendregt, W., Aylett, R., Nabais, F., & Kuster, D. (2013). Affective loops between children and artificial embodied tutors: The EMOTE project. *ISRE 2013*, Berkeley.
 
