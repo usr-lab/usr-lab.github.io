@@ -19,10 +19,11 @@ With this dataset, the student will apply human-in-the-loop methods, such as Rei
 
 ## Prerequisites
 - Programming experience in Python  
-- Experience with common ML/AI Frameworks (Pytorch / TensorFlow)
+- Experience with common ML/AI Frameworks and libraries (PyTorch, transformers, etc.)
 - Interest in human-robot interaction, machine learning, or reinforcement learning  
 - Familiarity with large language models is beneficial but not required  
 
 ## Contact
 ronald.cumbal@it.uu.se
+
 alessio.galatolo@it.uu.se
