@@ -14,6 +14,14 @@ This is a joint project with [Arkus AI](https://www.arkus.ai/). The project invo
 ## Prerequisites
 Strong knowledge of PyTorch and Large Language Models is required. We also expect you to be already familiar with building agents using LLMs and deploying them in the real world.
 
+## How to apply
+If you are interested, send:
+* A short statement of interest (1 page max): What are your interests? How are you going to apply them to this project?
+* Your CV
+* Relevant transcripts
+
+Deadline to register your interest: **10th of November**
+
 ## Contact
 
 Contact: [alessio.galatolo@it.uu.se](mailto:alessio.galatolo@it.uu.se)

@@ -23,6 +23,12 @@ With this dataset, the student will apply human-in-the-loop methods, such as Rei
 - Interest in human-robot interaction, machine learning, or reinforcement learning  
 - Familiarity with large language models is beneficial but not required  
 
+## How to apply
+If you are interested, send:
+* A short statement of interest (1 page max): What are your interests? How are you going to apply them to this project?
+* Your CV
+* Relevant transcripts
+
 ## Contact
 ronald.cumbal@it.uu.se
 
