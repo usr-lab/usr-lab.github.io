@@ -29,7 +29,7 @@ At the end of this course, the participants' will be able to:
 ## Tentative schedule
 **Lecture 1:** Fredrik Heintz, Linköping University: Trustworthy AI (February 24th)
 
-**Lecture 2:** Friederike Eyssel, Bielefeld University: Inclusive and accessible robotics (First week of March; date TBC)
+**Lecture 2:** Friederike Eyssel, Bielefeld University: Inclusive and accessible robotics (March 4th)
 
 **Lecture 3:** Natalia Calvo Barajas, former Vi3 postdoc: AI fairness (March 12th)
 
@@ -43,6 +43,6 @@ Individual assignmentAttendance policy: to pass the course, it is mandatory to a
 ## How to register
 Send an email to [ginevra.castellano@it.uu.se](mailto:ginevra.castellano@it.uu.se) by February 9th.
 
-Website (available soon): [https://uppsala.instructure.com/courses/122729/pages/home](https://uppsala.instructure.com/courses/122729/pages/home)
+Website: [https://uppsala.instructure.com/courses/122729/pages/home](https://uppsala.instructure.com/courses/122729/pages/home)
 
 <ins>This course is funded by the Department of Information Technology's Equal Opportunities Group.</ins>
