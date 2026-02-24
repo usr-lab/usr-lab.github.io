@@ -10,7 +10,7 @@ header:
 ---
 
 # Open positions
-There are currently no open positions.
+We are looking for a Postdoc in social robotics with focus on child-robot interaction: [Apply here](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=903579) (last date to apply: 15th of April)
 
 ---
 
