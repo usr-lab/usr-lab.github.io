@@ -50,9 +50,14 @@ feature_row:
   doi/link if available
  -->
 
+
+#### 2026
+**Galatolo, A.**, **Cumbal, R.**, Rouchitsas, A., **Winkle, K.**, **Gürdür Broo, D.**, **Castellano, G.** (2026). Lightweight Visual Reasoning for Socially-Aware Robots. *IEEE International Conference on Robotics & Automation (ICRA).* [Pre-print](https://arxiv.org/abs/2603.03942)
+
+
 #### 2025
 
-**Galatolo, A.**, Rappuoli L. A., **Winkle, K.**, Beloucif, M. (2025). Beyond Ethical Alignment: Evaluating LLMs as Artificial Moral Assistants. In *Proceedings of the European Conference on Artificial Intelligence.* [Pre-print](https://arxiv.org/abs/2508.12754).
+**Galatolo, A.**, Rappuoli, L. A., **Winkle, K.**, Beloucif, M. (2025). Beyond Ethical Alignment: Evaluating LLMs as Artificial Moral Assistants. In *Proceedings of the European Conference on Artificial Intelligence.* [Pre-print](https://arxiv.org/abs/2508.12754).
 
 **Tanevska, A.**, **Winkle, K.**, & **Castellano, G.** (2025). Information vs. situation: Balancing transparency and autonomy for trustworthy autonomous vehicles. *Frontiers in Robotics and AI, 12*, 1657857.
 
@@ -94,8 +99,6 @@ Babel, F., Hock, P., **Winkle, K.**, Torre, I., & Ziemke, T. (2024). The human b
 
 Korpan, R., Eguchi, A., Han, Z., Ostrowski, A. K., **Tanevska, A.** (2024). 3rd Workshop on Inclusive HRI: Equity and diversity in design, application, methods, and community. In *Companion of the ACM/IEEE International Conference on Human-Robot Interaction (HRI 2024 Companion)* (pp. 1329–1331). Association for Computing Machinery. [URN](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-537580)
 
-**Miranda, L.**, **Castellano, G.**, & **Winkle, K.** (2024). A case for diverse social robot identity performance in education. In *Companion of the ACM/IEEE International Conference on Human-Robot Interaction (HRI 2024 Companion)* (pp. 28–35). Association for Computing Machinery. [URN](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-537576)
-
 **Miranda, L.** (2024). Who is a robot? A fundamental model of artificial identity. In *Proceedings of the 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2024)* (pp. 1510–1515). IEEE.
 
 Pelikan, H., **Winkle, K.**, & Porfirio, D. (2024). Designing human-robot interactions: A StEER tutorial. In *Adjunct Proceedings of the 13th Nordic Conference on Human-Computer Interaction (NordiCHI 2024)*. Association for Computing Machinery. [URN](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-544641)
@@ -105,8 +108,6 @@ Spitale, M., **Winkle, K.**, Barakova, E., & Gunes, H. (2024). Guest editorial: 
 **Tanevska, A.**, **Winkle, K.**, & **Castellano, G.** (2024). ‘I don’t like things where I do not have control’: Participants’ experience of trustworthy interaction with autonomous vehicles. In *2nd Workshop on Cars as Social Agents (CarSA), NordiCHI 2024*, Uppsala, Sweden, October 13, 2024. [URN](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-544769)
 
 Wester, J., Moghe, B., **Winkle, K.**, & van Berkel, N. (2024). Facing LLMs: Robot communication styles in mediating health information between parents and young adults. *Proceedings of the ACM on Human-Computer Interaction, 8*(CSCW2), 1–37. [URN](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-545219)
-
-**Winkle, K.**, & Mulvihill, N. (2024). Anticipating the use of robots in domestic abuse: A typology of robot-facilitated abuse to support risk assessment and mitigation in human-robot interaction. In *Proceedings of the ACM/IEEE International Conference on Human-Robot Interaction (HRI ’24)* (pp. 781–790). Association for Computing Machinery. [URN](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-544897)
 
 Della Santina, C., Corbato, C. H., Sisman, B., Leiva, L. A., Arapakis, I., Vakalellis, M., … Sierra, C. (2024, March). Awareness in robotics: An early perspective from the viewpoint of the EIC Pathfinder challenge “Awareness Inside.” In *European Robotics Forum* (pp. 108–113). Springer Nature Switzerland.
 
