@@ -63,10 +63,17 @@ At Uppsala Social Robotics lab we aim to design and develop robots that learn to
 <!--
 {% include feature_row id="feature_row_news" type="left" %}
 -->
+***March 2026*** We are hiring a post-doc! See details and apply [here](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=903579)
+
+***Jan 2026*** We had one publication at ICRA 2026
+
+***Jan 2026*** We had three publications at CHI 2026
+
+***Jan 2026*** We had four publications at HRI 2026: one alt-HRI and three LBR.
 
 ***September 2025*** Ginevra Castellano was awarded the Thuréus Prize 2025!
 
-***August 2025*** We had three publcations featured at RO-MAN 2025!
+***August 2025*** We had three publications featured at RO-MAN 2025!
 
 ***June 2025*** Mengyu Zhong successfully defended her PhD thesis "Bridging Technology and Mental Health: Challenges and Opportunities in Robot-assisted Perinatal Depression Screening". Congratulations Dr. Zhong! 
 
