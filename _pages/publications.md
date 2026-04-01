@@ -52,10 +52,16 @@ feature_row:
 
 
 #### 2026
+
+**Miranda, L., Castellano, G., & Winkle, K.** (2026, March). Robot as Self, Blurred Boundaries, and the Auxthetic Mind-Body: A Speculative Design through Poetry. In Proceedings of the 21st ACM/IEEE International Conference on Human-Robot Interaction (pp. 1421-1432). [https://doi.org/10.1145/3757279.3788819](https://doi.org/10.1145/3757279.3788819)
+
 **Galatolo, A.**, **Cumbal, R.**, Rouchitsas, A., **Winkle, K.**, **Gürdür Broo, D.**, **Castellano, G.** (2026). Lightweight Visual Reasoning for Socially-Aware Robots. *IEEE International Conference on Robotics & Automation (ICRA).* [Pre-print](https://arxiv.org/abs/2603.03942)
 
+Stroeve, S., **Tanevska, A.,** Kroon, M., & **Castellano, G.** (2026). User Evaluation by Remote Pilots of Two Types of Detect-and-Avoid Systems: Remain Well Clear Bands Versus Route Guidance. Aerospace. [https://doi.org/10.3390/aerospace13030295](https://doi.org/10.3390/aerospace13030295)
 
 #### 2025
+
+**Zhong, M., Miranda, L.,** Papadopoulos, F. C., **Winkle, K.,** Skalkidou, A., & **Castellano, G.** (2025). Designing Socially Assistive Robots for Perinatal Depression Screening: Insights and Ethical Considerations from Two Exploratory Studies. ACM Transactions on Human-Robot Interaction. [https://dl.acm.org/doi/abs/10.1145/3797257](https://dl.acm.org/doi/abs/10.1145/3797257)
 
 **Galatolo, A.**, Rappuoli, L. A., **Winkle, K.**, Beloucif, M. (2025). Beyond Ethical Alignment: Evaluating LLMs as Artificial Moral Assistants. In *Proceedings of the European Conference on Artificial Intelligence.* [Pre-print](https://arxiv.org/abs/2508.12754).
 
@@ -78,6 +84,7 @@ Tanqueray, L., Papadopoulos, C., Larsson, S., & **Winkle, K.** (2025). Young car
 **Winkle, K.** (2025). Robots from nowhere: A case study in speculative sociotechnical design and design fiction for human-robot interaction. In *Proceedings of the ACM/IEEE International Conference on Human-Robot Interaction (HRI ’25)* (pp. 1152–1165). IEEE Press.
 
 Dignum, V., Régis, C., Bach, K., Bourgine de Meder, Y., Buijsman, S., de Carvalho, A. P. L. F., **Castellano, G.**, et al. (2025). Roadmap for AI policy research. *AI Policy Research Summit, Stockholm (Nov 2024)*. AI Policy Lab, Umeå University.
+
 
 #### 2024
 
