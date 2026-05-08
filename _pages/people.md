@@ -61,7 +61,7 @@ feature_row_phds:
   - image_path: lux
     alt: "Lux Miranda"
     title: "Lux Miranda"
-    excerpt: "Lux Miranda is a PhD student in the Social Robotics Lab. She wants to use the power of ethics, AI, and robotic embodiment to remedy existential dangers and transform society into a more sustainable and compassionate place. With a background drawing from complexity science, anthropology, cognitive science, and computational modeling, their current work is focused on the ethics and diversification of robot identity construction, AI alignment, feminist robot design, the dynamics of social intelligence, and illuminating the world."
+    excerpt: "Lux Miranda is a PhD student in the Social Robotics Lab. Her background draws from quantitative and anthropological approaches to understanding human behavior, (pre)history as science, embedded engineering for spacecraft, and the philosophy of AI. Her current work is focused on artificial identity in human-robot interaction, and illumination."
     btn_label: "Lux's personal website"
     btn_class: "btn btn--primary"
     url: https://luxmiranda.com/
@@ -103,6 +103,7 @@ feature_row_external_phds:
 {% include feature_row_people id="feature_row_professors" type="left" %}
 
 
+
 # External professors
 {% include feature_row_people id="feature_row_external_professors" type="left" %}
 
@@ -110,14 +111,17 @@ feature_row_external_phds:
 
 <!--
 Uncomment when we have postdocs again!
+
 # Postdocs
 {% include feature_row_people id="feature_row_postdocs" type="right" %}
 -->
 
 
 
+
 # PhD Students
 {% include feature_row_people id="feature_row_phds" %}
+
 
 
 # External PhD Students
@@ -126,17 +130,28 @@ Uncomment when we have postdocs again!
 
 <!--
 
+
 # Master Students
 {% include feature_row_people id="feature_row_masters" %}
 -->
 
 
+
 # Alumni
+
+Ronald Cumbal, Postdoc
+
+Ana Tanevska, Postdoc
+
+Natalia Calvo-Barajas, Ph.D. and postdoc
+
+Marcus Göransson, Research assistant
+
 Mengyu Zhong, Ph.D.
 
 Marc Fraile, Ph.D. 
 
-Anastasia Akkuzu, Master's student
+Anastasia Sophia Apeiron, Research assistant and master's student
 
 Sebastian Wallkötter, Ph.D.
 
@@ -151,3 +166,4 @@ Mohammad Obaid, Researcher
 Piercosma Bisconti Lucidi, Visiting Ph.D.  
 
 Elena Lechuga Redondo, Visiting Ph.D.
+
