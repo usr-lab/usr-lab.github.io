@@ -102,22 +102,30 @@ feature_row_external_phds:
 # Professors
 {% include feature_row_people id="feature_row_professors" type="left" %}
 
+
 # External professors
 {% include feature_row_people id="feature_row_external_professors" type="left" %}
 
 
+
+<!--
+Uncomment when we have postdocs again!
 # Postdocs
 {% include feature_row_people id="feature_row_postdocs" type="right" %}
+-->
+
 
 
 # PhD Students
 {% include feature_row_people id="feature_row_phds" %}
+
 
 # External PhD Students
 {% include feature_row_people id="feature_row_external_phds" %}
 
 
 <!--
+
 # Master Students
 {% include feature_row_people id="feature_row_masters" %}
 -->
