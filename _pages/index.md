@@ -63,7 +63,7 @@ At Uppsala Social Robotics lab we aim to design and develop robots that learn to
 <!--
 {% include feature_row id="feature_row_news" type="left" %}
 -->
-***March 2026*** We are hiring a post-doc! See details and apply [here](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=903579)
+***March 2026*** ~~We are hiring a post-doc!~~ (position filled)
 
 ***Jan 2026*** We had one publication at ICRA 2026
 
